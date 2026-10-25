@@ -8,7 +8,7 @@
     * other than that, have fun and a good rest of your whatever ;^)
 </!-->
 
-<img src="https://files.catbox.moe/52qrpp.png" width="~" height="~" alt="HEADER"><br>
+<img src="https://files.catbox.moe/ksubr3.png" width="~" height="~" alt="HEADER"><br>
 
 ㅤ<table border="0" align="center">
     <tr align="center"></tr>
