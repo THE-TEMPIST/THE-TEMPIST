@@ -15,7 +15,7 @@
     <tr align="center"></tr>
       <th>
         ㅤ<br>
-        <img src="https://api.visitorbadge.io/api/visitors?path=THE-TEMPIST&label=prayers&labelColor=000000&countColor=000000&style=flat"><br>
+        <img src="https://api.visitorbadge.io/api/visitors?path=THE-TEMPIST&label=stars&labelColor=000000&countColor=000000&style=flat"><br>
         ㅤ<br>
         <img src="https://files.catbox.moe/ubi8v7.png" width="100" height="~" alt="VOID STAR"><br>
         ㅤ<br>
@@ -26,8 +26,16 @@
     </table>
 
 ㅤ<br>
-ㅤ $\color{#CBC8C0}{\textsf{(ONE OF MANY) ponytown nomination accounts}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{you may report players through the google doc linked to the [REPORT] button.}}$<br>
+ㅤ $\color{#858074}{\textsf{(ONE OF MANY) ponytown nomination accounts}}$<br>
+ㅤ $\color{#858074}{\textsf{refer to the buttons on the left-hand side to}}$
+$\color{#CBC8C0}{\textsf{NOMINATE}}$
+$\color{#858074}{\textsf{or}}$
+$\color{#CBC8C0}{\textsf{REPORT}}$
+$\color{#858074}{\textsf{others.}}$<br>
+ㅤ<br>
+ㅤ $\color{#858074}{\textsf{this account is purely for fun and to appreciate fellow players.}}$<br>
+ㅤ $\color{#858074}{\textsf{my nominations operate under the rule of "first come, first serve"; do not beg or cry because a character you wanted has already been claimed.}}$
+
 ㅤ<br>
 
 <p align="center">
