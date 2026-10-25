@@ -26,8 +26,8 @@
     </table>
 
 ㅤ<br>
-ㅤ$\color{#CBC8C0}{\textsf{(ONE OF MANY) ponytown nomination accounts}}$<br>
-ㅤ$\color{#CBC8C0}{\textsf{you may report players through the google doc linked to the [REPORT] button.}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{(ONE OF MANY) ponytown nomination accounts}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{you may report players through the google doc linked to the [REPORT] button.}}$<br>
 ㅤ<br>
 
 <p align="center">
