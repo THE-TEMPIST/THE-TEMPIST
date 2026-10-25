@@ -26,9 +26,7 @@
     </table>
 <!---
 
-
 INTRODUCTION
-
 
 </!-->
 ㅤ<br>
@@ -49,9 +47,7 @@ $\color{#858074}{\textsf{others.}}$<br>
 ㅤ<br>
 <!---
 
-
 GUIDELINES
-
 
 </!-->
 ㅤ<br>
@@ -69,9 +65,7 @@ GUIDELINES
 
 <!---
 
-
 NOMINATIONS START HERE
-
 
 </!-->
 
@@ -92,24 +86,20 @@ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ placeholder<br>
 ㅤ<br>
 <!---
 
-
 CHARACTER NOMINATIONS START HERE
-
 
 </!-->
 
 <img src="https://files.catbox.moe/79fwku.png" width="~" height="50" alt="CHARACTERS OF THE TEMPEST"><br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) is The Tempest's Noli (ROBLOX) <br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@NECRO-GUITAR](https://github.com/NECRO-GUITAR) is The Tempest's Sal Fisher (SALLY FACE) <br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@TARGET-SOUL](https://github.com/TARGET-SOUL) is The Tempest's Killer Sans (SOMETHING NEW, UNDERTALE AU) <br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sans-da-skeleton](https://github.com/sans-da-skeleton) is The Tempest's Sans The Skeleton (UNDERTALE) <br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot) is The Tempest's Evan Myers & HABIT (EVERYMANHYBRID) <br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#858074}{\textsf{ㅤNoli (ROBLOX)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@NECRO-GUITAR](https://github.com/NECRO-GUITAR) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#858074}{\textsf{ㅤSal Fisher (SALLY FACE)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@TARGET-SOUL](https://github.com/TARGET-SOUL) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#858074}{\textsf{ㅤKiller Sans (SOMETHING NEW, UNDERTALE AU)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sans-da-skeleton](https://github.com/sans-da-skeleton) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#858074}{\textsf{ㅤSans The Skeleton (UNDERTALE/DELTARUNE)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#858074}{\textsf{ㅤEvan Myers & MANKIND'S HABIT (EVERYMANHYBRID)}}$<br>
 
 <!---
 
-
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [username](link) is The Tempest's Character (FANDOM)<br>
-
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [username](link) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#858074}{\textsf{ㅤCHARACTER (FANDOM)}}$<br>
 
 </!-->
 
