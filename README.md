@@ -1,21 +1,96 @@
-ㅤ<br>
-<img src="https://files.catbox.moe/4jcqxe.gif" width="260" height="~" align="left" hspace="0" alt="the hanged man"/>
+<!---
+    * boo
+    * hello! if you're seeing this, you've forked my repository; feel free to help yourself out.
+      nonetheless, i'd like to ask you not to copy my exact layout or use any of the image files/graphics within my readme.
+      
+    * please STAR my repository if you take segments of my code or take any inspiration from it.
 
-$\color{#49496C}{\textsf{SKIPS,ㅤEVANㅤ}}
-$<sup>$\color{#3e3752}{\textsf{OR}}
-$</sup>$\color{#49496C}{\textsf{ㅤHABITㅤ}}$
-<sup>$\color{#3e3752}{\textsf{+ OTHER}}$</sup> <br>
-<sup>$\color{#3e3752}{\textsf{⎯⎯}}$</sup>⠀8teenㅤhe/himㅤㅤ
-[<img src="https://files.catbox.moe/4kxcjb.png" width="15" height="~"/>](https://github.com/VlSCARTE)ㅤ
-[<img src="https://files.catbox.moe/4kxcjb.png" width="15" height="~"/>](https://github.com/RUST-010)ㅤ
-[<img src="https://files.catbox.moe/4kxcjb.png" width="15" height="~"/>](https://github.com/THEBLACKROOK)ㅤㅤ
-![](https://komarev.com/ghpvc/?username=xxXShadowl0rd420Xxx&color=000000&label=ㅤㅤㅤshadowsㅤㅤㅤ)
+    * other than that, have fun and a good rest of your whatever ;^)
+</!-->
 
+<img src="https://files.catbox.moe/84pq1j.png" width="~" height="~" alt="BANNER I"><br>
 
-ㅤ![Typing SVG](https://readme-typing-svg.demolab.com?font=STIX+Two+Text&weight=300&size=12&duration=2500&pause=500&color=3e3752&multiline=true&repeat=false&width=400&height=75&lines=i+know+you+miss+my+lips%2C+compactly+pressed+against+your+hips;i+know+you'll+miss+the+places+that+i+placed+my+fingertips;i+know+you'll+never+find+another+lover%2C+love;who+will+love+you+like+i+did)
+ㅤ<table border="0" align="left">
+    <tr align="center"></tr>
+      <th>
+        ㅤ<br>
+        <img src="https://api.visitorbadge.io/api/visitors?path=TARGET-SOUL&label=targets&labelColor=000000&countColor=000000&style=flat"><br>
+        ㅤ<br>
+        <img src="https://files.catbox.moe/ps3sp8.png" width="100" height="~" alt="KNIFE"><br>
+        ㅤ<br>
+        ㅤ[the COLOR to my KILLER](https://github.com/COLORFUL-SOULS)ㅤ<br>
+        ㅤ[the SWAP to my FELL](https://github.com/RUST-010)ㅤ<br>
+        ㅤ[the INK to my ERROR](https://github.com/hollow-inkwell)ㅤ<br>
+        ㅤ<br>
+        $\color{#C70007}{\textsf{<3}}$<br>
+        ㅤ<br>
+      </th>
+    </table>
+  
+ㅤㅤㅤ ㅤ [<img src="https://files.catbox.moe/y6iquh.png" width="~" height="30" alt="BYI & DNI">](https://pronouns.cc/@sally-face)ㅤ
+    [<img src="https://files.catbox.moe/eg83q7.png" width="~" height="30" alt="CARRD">](https://necro-guitar.carrd.co)ㅤ
+    [<img src="https://files.catbox.moe/fhypj8.png" width="~" height="30" alt="ATABOOK">](https://killer-sans.atabook.org)ㅤ
+    [<img src="https://files.catbox.moe/snhxuo.png" width="~" height="30" alt="STRAWPAGE">](https://comic-sans-ms.straw.page)<br>
+ㅤㅤ <br>
+ㅤㅤㅤㅤ<img src="https://files.catbox.moe/6ejdgg.gif" width="~" height="40" align="center" hspace="0" alt="LYRICS I"/><br>
+ㅤㅤ <br>
+ㅤㅤ <img src="https://files.catbox.moe/74n175.png" width="600" height="~" alt="BANNER II"><br>
+ㅤㅤ <br>
 
+ㅤ<table border="0" align="right">
+    <tr align="center"></tr>
+      <th>
+        ㅤ<br>
+        $\color{#C70007}{\textsf{NOMINATIONS}}$<br>
+        ㅤ<br>
+            <img src="https://files.catbox.moe/w3qiya.png" width="50" height="~" alt="STAGE I">
+            <img src="https://files.catbox.moe/4v32il.png" width="50" height="~" alt="STAGE II">
+            <img src="https://files.catbox.moe/6gfpn4.png" width="50" height="~" alt="STAGE III">
+            <img src="https://files.catbox.moe/2n6ntz.png" width="50" height="~" alt="STAGE IV"><br>
+        ㅤ<br>
+        $\color{#FFFFFF}{\textsf{THANK YOU!}}$<br>
+        [@ponyhonors](https://github.com/ponyhonors)<br>
+        $\color{#868686}{\textsf{placeholder placeholder placeholder placeholder}}$<br>
+        $\color{#868686}{\textsf{placeholder placeholder placeholder placeholder}}$<br>
+        $\color{#868686}{\textsf{placeholder placeholder placeholder placeholder}}$<br>
+        ㅤ<br>
+      </th>
+    </table>
 
-$\color{#49496C}{\textsf{THIS IS AN ALT ACCOUNT,ㅤ}}$
-[follow my main](https://github.com/j777ckpot) <br>
-<sup>$\color{#3e3752}{\textsf{⎯⎯}}$</sup>ㅤ[byi & dni (.cc)](https://pronouns.cc/@7-trials)ㅤ[alt 新book](https://darkness-online.atabook.org)ㅤ[main 新book](https://7-trials.atabook.org)ㅤ[straw.page](https://7-trials.straw.page) <br>
-ㅤ<br>
+<p align="right">
+<img src="https://files.catbox.moe/ivs8wh.gif" width="~" height="40" align="center" hspace="0" alt="LYRICS II"/>ㅤㅤ<br>
+<img src="https://files.catbox.moe/g87htq.png" width="400" height="~" alt="KITTY">ㅤㅤ<br></p>
+
+ㅤ<table border="0" align="left">
+    <tr align="center"></tr>
+      <th>
+        ㅤ<br>
+        <p align=right>
+        $\color{#C70007}{\textsf{FRIENDS n' STUFFㅤ}}$<br>
+        [@MelodiesofTales](https://github.com/MelodiesofTales)ㅤ
+        [@wilsonhiggsbury](https://github.com/wilsonhiggsbury)ㅤ
+        [@echo-onslaught](https://github.com/echo-onslaught)ㅤ<br>
+        [@call-the-d0ctor](https://github.com/call-the-d0ctor)
+        $\color{#FFFFFF}{\textsf{(+ non-githubbers)}}$ㅤ<br>
+        $\color{#868686}{\textsf{hmu if you wanna be mentioned/have your link edited}}$ㅤ<br>
+        </p>
+        ㅤ<br>
+        <img src="https://files.catbox.moe/ds3k0h.png" width="350" height="~" alt="DIVIDER"><br>
+        ㅤ<br>
+        <p align=left>
+        $\color{#C70007}{\textsf{ㅤALSO ME}}$<br>
+        ㅤ[@j777ckpot](https://github.com/j777ckpot)ㅤ
+        [@NECRO-GUITAR](https://github.com/NECRO-GUITAR)ㅤ
+        [@UNLEASH-NOLI](https://github.com/UNLEASH-NOLI)ㅤ<br>
+        ㅤ[@slimeccl](https://github.com/slimeccl)ㅤ
+        [@gee-way](https://github.com/gee-way)ㅤ
+        [@sans-da-skeleton](https://github.com/sans-da-skeleton)<br>
+        ㅤ[@7-TRIALS](https://github.com/7-TRIALS)ㅤ
+        [@ZOMBIELOVEJUICE](https://github.com/ZOMBIELOVEJUICE)ㅤ
+        [@THE-TEMPIST](https://github.com/THE-TEMPIST)<br>
+        </p>
+        ㅤ<br>
+      </th>
+    </table>
+<p align="right">
+<img src="https://files.catbox.moe/ok62ub.png" width="~" height="385" alt="THE PAWN"></p>
