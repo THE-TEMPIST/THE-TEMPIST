@@ -20,7 +20,7 @@
         <img src="https://files.catbox.moe/ubi8v7.png" width="100" height="~" alt="VOID STAR"><br>
         ㅤ<br>
         ㅤ[<img src="https://files.catbox.moe/mdfm3d.png" width="~" height="40" alt="NOMINATE">](https://the-tempist.atabook.org)ㅤ<br>
-        ㅤ[<img src="https://files.catbox.moe/5wrtia.png" width="~" height="40" alt="REPORT">](https://the-tempist.atabook.org)ㅤ<br>
+        ㅤ[<img src="https://files.catbox.moe/5wrtia.png" width="~" height="40" alt="REPORT">](https://forms.gle/v53zgS3e6iPz8Ryz7)ㅤ<br>
         ㅤ<br>
       </th>
     </table>
