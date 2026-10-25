@@ -18,12 +18,12 @@
         ㅤ<br>
         <img src="https://files.catbox.moe/ubi8v7.png" width="100" height="~" alt="VOID STAR"><br>
         ㅤ<br>
-        ㅤ[<img src="https://files.catbox.moe/mdfm3d.png" width="~" height="50" alt="NOMINATE">](https://the-tempist.atabook.org)ㅤ<br>
-        ㅤ[<img src="https://files.catbox.moe/q6flhh.png" width="~" height="50" alt="REPORT">](https://the-tempist.atabook.org)ㅤ<br>
+        ㅤ[<img src="https://files.catbox.moe/mdfm3d.png" width="~" height="40" alt="NOMINATE">](https://the-tempist.atabook.org)ㅤ<br>
+        ㅤ[<img src="https://files.catbox.moe/q6flhh.png" width="~" height="40" alt="REPORT">](https://the-tempist.atabook.org)ㅤ<br>
         ㅤ<br>
         $\color{#CBC8C0}{\textsf{<3}}$<br>
         ㅤ<br>
       </th>
     </table>
 
-[<img src="https://files.catbox.moe/ojyjmx.png" width="~" height="50" alt="RAN BY UNLEASH-NOLI">](https://github.com/UNLEASH-NOLI)ㅤ<br>
+[<img src="https://files.catbox.moe/ojyjmx.png" width="~" height="40" alt="RAN BY UNLEASH-NOLI">](https://github.com/UNLEASH-NOLI)ㅤ<br>
