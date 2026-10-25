@@ -99,7 +99,15 @@ CHARACTER NOMINATIONS START HERE
 </!-->
 
 <img src="https://files.catbox.moe/79fwku.png" width="~" height="50" alt="CHARACTERS OF THE TEMPEST"><br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ placeholder<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) is The Tempest's Noli (ROBLOX) <br>
+
+<!---
+
+
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [username](link) is The Tempest's Character (FANDOM)<br>
+
+
+</!-->
 
 <p align="center">
 ㅤ<br>
