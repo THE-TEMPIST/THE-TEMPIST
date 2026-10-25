@@ -11,7 +11,7 @@
 <p align="center">
 <img src="https://files.catbox.moe/ksubr3.png" width="1000" height="~" alt="HEADER"><br></p>
 
-ㅤ<table border="0" align="center">
+ㅤ<table border="7" align="left">
     <tr align="center"></tr>
       <th>
         ㅤ<br>
@@ -24,6 +24,11 @@
         ㅤ<br>
       </th>
     </table>
+
+ㅤ<br>
+ㅤ$\color{#CBC8C0}{\textsf{(ONE OF MANY) ponytown nomination accounts}}$<br>
+ㅤ$\color{#CBC8C0}{\textsf{you may report players through the google doc linked to the [REPORT] button.}}$<br>
+ㅤ<br>
 
 <p align="center">
 ㅤ<br>
