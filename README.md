@@ -95,7 +95,7 @@ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@UNLEASH-NOLI](https://github.com/UNLEASH-NO
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@NECRO-GUITAR](https://github.com/NECRO-GUITAR) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#858074}{\textsf{ㅤSal Fisher (SALLY FACE)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@TARGET-SOUL](https://github.com/TARGET-SOUL) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#858074}{\textsf{ㅤKiller Sans (SOMETHING NEW, UNDERTALE AU)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sans-da-skeleton](https://github.com/sans-da-skeleton) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#858074}{\textsf{ㅤSans The Skeleton (UNDERTALE/DELTARUNE)}}$<br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#858074}{\textsf{ㅤEvan Myers & MANKIND'S HABIT (EVERYMANHYBRID)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#858074}{\textsf{ㅤEvan Myers + MANKIND'S HABIT (EVERYMANHYBRID)}}$<br>
 
 <!---
 
