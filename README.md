@@ -26,21 +26,30 @@
     </table>
 
 ㅤ<br>
-ㅤ $\color{#858074}{\textsf{(ONE OF MANY) ponytown nomination accounts}}$<br>
+ㅤ<img src="https://files.catbox.moe/xyjfyp.png" width="~" height="50" alt="THE TEMPEST WELCOMES YOU."><br>
+ㅤ $\color{#858074}{\textsf{The Tempest (aka. The Tempist) is one of many}}$
+$\color{#CBC8C0}{\textsf{PonyTown Nomination Accounts}}$ $\color{#858074}{\textsf{.}}$<br>
+
+ㅤ $\color{#858074}{\textsf{It was created with the purpose of having fun and to appreciate fellow players.}}$<br>
+ㅤ $\color{#858074}{\textsf{The character-theming is solely for my (ADMIN'S) own enjoyment; Noli is I and I am Him.}}$<br>
+
 ㅤ $\color{#858074}{\textsf{refer to the buttons on the left-hand side to}}$
 $\color{#CBC8C0}{\textsf{NOMINATE}}$
 $\color{#858074}{\textsf{or}}$
 $\color{#CBC8C0}{\textsf{REPORT}}$
 $\color{#858074}{\textsf{others.}}$<br>
-ㅤ<br>
-ㅤ $\color{#858074}{\textsf{this account is purely for fun and to appreciate fellow players.}}$<br>
-ㅤ $\color{#858074}{\textsf{my nominations operate under the rule of "first come, first serve"; do not beg or cry because a character you wanted has already been claimed.}}$<br>
 
+ㅤ <img src="https://files.catbox.moe/ojyjmx.png" width="~" height="40" alt="RAN BY UNLEASH-NOLI"><br>
 ㅤ<br>
+ㅤ<br>
+ㅤ<img src="https://files.catbox.moe/t47s5g.png" width="~" height="50" alt="GUIDELINES"><br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{all (character) no[li]minations operate under the rule of "first come, first serve"}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{stay civil, don't cry if a character you wanted has already been claimed}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{don't spam the same nominations (you may nominate multiple accounts)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{users can be nominated for multiple categories, with the exception of one character per account}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{false reports will be ignored}}$<br>
 
 <p align="center">
-ㅤ<br>
-<img src="https://files.catbox.moe/ojyjmx.png" width="~" height="40" alt="RAN BY UNLEASH-NOLI"><br>
 ㅤ<br>
 $\color{#CBC8C0}{\textsf{✦}}$<br>
 ㅤ<br></p>
