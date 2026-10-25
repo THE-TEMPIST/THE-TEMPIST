@@ -96,6 +96,8 @@ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@NECRO-GUITAR](https://github.com/NECRO-GUIT
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@TARGET-SOUL](https://github.com/TARGET-SOUL) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Killer Sans (SOMETHING NEW, UNDERTALE AU)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sans-da-skeleton](https://github.com/sans-da-skeleton) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Sans The Skeleton (UNDERTALE/DELTARUNE)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Evan Myers + MANKIND'S HABIT (EVERYMANHYBRID)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@slimeccl](https://github.com/slimeccl) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Charlie Slimecicle (CONTENT CREATOR/SLIMECICLE CINEMATIC UNIVERSE)}}$<br>
+
 
 <!---
 
