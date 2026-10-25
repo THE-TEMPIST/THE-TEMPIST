@@ -34,7 +34,7 @@ $\color{#CBC8C0}{\textsf{REPORT}}$
 $\color{#858074}{\textsf{others.}}$<br>
 ㅤ<br>
 ㅤ $\color{#858074}{\textsf{this account is purely for fun and to appreciate fellow players.}}$<br>
-ㅤ $\color{#858074}{\textsf{my nominations operate under the rule of "first come, first serve"; do not beg or cry because a character you wanted has already been claimed.}}$
+ㅤ $\color{#858074}{\textsf{my nominations operate under the rule of "first come, first serve"; do not beg or cry because a character you wanted has already been claimed.}}$<br>
 
 ㅤ<br>
 
