@@ -64,7 +64,7 @@ GUIDELINES
 ㅤ<br>
 
 <p align="center">
-<img src="https://files.catbox.moe/u8s34q.png" width="~" height="~" alt="BANNER 2"><br></p>
+<img src="https://files.catbox.moe/u8s34q.png" width="1000" height="~" alt="BANNER 2"><br></p>
 ㅤ<br>
 
 <!---
