@@ -82,7 +82,7 @@ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ placeholder<br>
 ㅤ<br>
 
 $\color{#858074}{\textsf{CHRONICALLY ONLINE PLAYERSㅤ(AKA. ONLINE 24/7)}}$<br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ placeholder<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)<br>
 
 ㅤ<br>
 
@@ -100,6 +100,10 @@ CHARACTER NOMINATIONS START HERE
 
 <img src="https://files.catbox.moe/79fwku.png" width="~" height="50" alt="CHARACTERS OF THE TEMPEST"><br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) is The Tempest's Noli (ROBLOX) <br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@NECRO-GUITAR](https://github.com/NECRO-GUITAR) is The Tempest's Sal Fisher (SALLY FACE) <br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@TARGET-SOUL](https://github.com/TARGET-SOUL) is The Tempest's Killer Sans (SOMETHING NEW, UNDERTALE AU) <br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sans-da-skeleton](https://github.com/sans-da-skeleton) is The Tempest's Sans The Skeleton (UNDERTALE) <br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot) is The Tempest's Evan Myers & HABIT (EVERYMANHYBRID) <br>
 
 <!---
 
