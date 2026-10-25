@@ -24,7 +24,13 @@
         ㅤ<br>
       </th>
     </table>
+<!---
 
+
+INTRODUCTION
+
+
+</!-->
 ㅤ<br>
 ㅤ<img src="https://files.catbox.moe/xyjfyp.png" width="~" height="50" alt="THE TEMPEST WELCOMES YOU."><br>
 ㅤ $\color{#858074}{\textsf{The Tempest (aka. The Tempist) is one of many}}$
@@ -41,6 +47,13 @@ $\color{#858074}{\textsf{others.}}$<br>
 
 ㅤ [<img src="https://files.catbox.moe/ojyjmx.png" width="~" height="40" alt="RAN BY UNLEASH-NOLI">](https://github.com/UNLEASH-NOLI)<br>
 ㅤ<br>
+<!---
+
+
+GUIDELINES
+
+
+</!-->
 ㅤ<br>
 ㅤ<img src="https://files.catbox.moe/t47s5g.png" width="~" height="50" alt="GUIDELINES"><br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{all (character) no[li]minations operate under the rule of "first come, first serve"}}$<br>
@@ -48,6 +61,45 @@ $\color{#858074}{\textsf{others.}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{don't spam the same nominations (you may nominate multiple accounts)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{users can be nominated for multiple categories, with the exception of one character per account}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{false reports will be ignored}}$<br>
+ㅤ<br>
+
+<p align="center">
+<img src="https://files.catbox.moe/u8s34q.png" width="~" height="~" alt="BANNER 2"><br></p>
+ㅤ<br>
+
+<!---
+
+
+NOMINATIONS START HERE
+
+
+</!-->
+
+<img src="https://files.catbox.moe/bgl7xy.png" width="~" height="50" alt="NO[LI]MINATIONS"><br>
+$\color{#858074}{\textsf{POPULAR PLAYERS}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ placeholder<br>
+
+ㅤ<br>
+
+$\color{#858074}{\textsf{CHRONICALLY ONLINE PLAYERSㅤ(AKA. ONLINE 24/7)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ placeholder<br>
+
+ㅤ<br>
+
+$\color{#858074}{\textsf{PRETTIEST GITHUBS}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ placeholder<br>
+
+ㅤ<br>
+<!---
+
+
+CHARACTER NOMINATIONS START HERE
+
+
+</!-->
+
+<img src="https://files.catbox.moe/79fwku.png" width="~" height="50" alt="CHARACTERS OF THE TEMPEST"><br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ placeholder<br>
 
 <p align="center">
 ㅤ<br>
