@@ -117,6 +117,9 @@ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@commandersilly](https://github.com/commande
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@5P-25](https://github.com/5P-25) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Five Pebbles (RAINWORLD)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Myth! Cuphead (MYTH OF THE MACHINE)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@riftgifts](https://github.com/riftgifts) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Alter (APEX LEGENDS)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@decayingcrow](https://github.com/decayingcrow) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Davesprite (HOMESTUCK)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@darlingcharming](https://github.com/darlingcharming) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Darling Charming (EVER AFTER HIGH)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@TheSekondComing](https://github.com/TheSekondComing) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{The Second Coming (ANIMATION VS. ANIMATOR)}}$<br>
 
 <!---
 
