@@ -72,7 +72,7 @@ NOMINATIONS START HERE
 
 <img src="https://files.catbox.moe/bgl7xy.png" width="~" height="50" alt="NO[LI]MINATIONS"><br>
 $\color{#858074}{\textsf{POPULAR PLAYERSㅤ(200+ FOLLOWERS REQUIRED TO QUALIFY)}}$<br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ placeholder<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)<br>
 
 ㅤ<br>
 
@@ -140,6 +140,10 @@ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@out-llaw](https://github.com/out-llaw) $\co
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@SIGN-MY-STRAW-TWIN](https://github.com/SIGN-MY-STRAW-TWIN) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{The Night Ripper (PUPPET COMBO)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@biteofme](https://github.com/biteofme) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Vox (HAZBIN HOTEL)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@datingdetergent](https://github.com/datingdetergent) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Tydus Andromache (DATE EVERYTHING)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Chemicalshot](https://github.com/Chemicalshot) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{MindManLol954 (WONDERLAND.JAR)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Heart0fGold](https://github.com/Heart0fGold) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Karl (GUTS AND BLACKPOWDER)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Ham-milton](https://github.com/Ham-milton) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Scared Frenchie (GUTS AND BLACKPOWDER)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@denguemon](https://github.com/denguemon) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Akira Nishikiyama (YAKUZA)}}$<br>
 
 <!---
 
