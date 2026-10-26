@@ -103,8 +103,14 @@ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@monitorgirlfriend](https://github.com/monit
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@goovons](https://github.com/goovons) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Monkey D. Luffy (ONE PIECE)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@perishallmortals](https://github.com/perishallmortals) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Guinevere (KNIGHTS OF GUINEVERE)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@THE-SAINT-OF-DEATH](https://github.com/THE-SAINT-OF-DEATH) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Roronoa Zoro (ONE PIECE)}}$<br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@donniesgaptooth](https://github.com/donniesgaptooth) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Verity™ (VERITY MINECRAFT HORROR SERIES)}}$<br>
-
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@donniesgaptooth](https://github.com/donniesgaptooth) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Verity (VERITY™ MINECRAFT HORROR SERIES)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@cobblebob](https://github.com/cobblebob) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Foot Soldier (PLANTS VS. ZOMBIES)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@screworangeslugs](https://github.com/screworangeslugs) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Newbie (HOOPS AND YOYO)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@jazzymage](https://github.com/jazzymage) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Jazz (TRANSFORMERS)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@excessivedeath](https://github.com/excessivedeath) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Billy Loomis (SCREAM)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@gurokawaii](https://github.com/gurokawaii) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Wemmbu (UNSTABLE SMP)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@theemotionalside](https://github.com/theemotionalside) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{The Heart (CHONNY'S CHARMING CHAOS COMPENDIUM)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@HARRlNGTON](https://github.com/HARRlNGTON) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Steve Harrington (STRANGER THINGS)}}$<br>
 
 <!---
 
