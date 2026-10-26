@@ -135,7 +135,7 @@ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@moonstalkrz](https://github.com/moonstalkrz
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@dankovvsky](https://github.com/dankovvsky) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Leon Tremblay (8:11)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Subkit-kiss](https://github.com/Subkit-kiss) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Subspace Tripmine (PHIGHTING!)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sorrownights](https://github.com/link) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Keith (ORIGINAL CHARACTER)}}$<br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@42-MILES](https://github.com/link) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Miles Morales #42 (SPIDERMAN: ACROSS THE SPIDERVERSE)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@42-MILES](https://github.com/link) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Miles Morales-42 (SPIDERMAN: ACROSS THE SPIDERVERSE)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@out-llaw](https://github.com/out-llaw) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Jaden Yuki (YU-GI-OH! GX)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@SIGN-MY-STRAW-TWIN](https://github.com/SIGN-MY-STRAW-TWIN) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{The Night Ripper (PUPPET COMBO)}}$<br>
 
