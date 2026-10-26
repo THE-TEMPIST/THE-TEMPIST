@@ -72,12 +72,12 @@ NOMINATIONS START HERE
 
 <img src="https://files.catbox.moe/bgl7xy.png" width="~" height="50" alt="NO[LI]MINATIONS"><br>
 $\color{#858074}{\textsf{POPULAR PLAYERSㅤ(200+ FOLLOWERS REQUIRED TO QUALIFY)}}$<br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)<br>
 
 ㅤ<br>
 
 $\color{#858074}{\textsf{CHRONICALLY ONLINE PLAYERSㅤ(AKA. ONLINE 24/7)}}$<br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@ringodemon](https://github.com/ringodemon)<br>
 
 ㅤ<br>
 
@@ -95,6 +95,7 @@ CHARACTER NOMINATIONS START HERE
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Noli (ROBLOX, ANY/ALL ITERATIONS)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@RUST-010](https://github.com/RUST-010) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Elliot (WORK AT A PIZZA PLACE/FORSAKEN)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@hollow-inkwell](https://github.com/hollow-inkwell) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ink Sans ([BLANK]TALE, UNDERTALE AU)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@goduprising](https://github.com/goduprising) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{iTrapped (ROBLOX EXPLOITER, FORSAKEN)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@NECRO-GUITAR](https://github.com/NECRO-GUITAR) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Sal Fisher (SALLY FACE)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@TARGET-SOUL](https://github.com/TARGET-SOUL) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Killer Sans (SOMETHING NEW, UNDERTALE AU)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sans-da-skeleton](https://github.com/sans-da-skeleton) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Sans The Skeleton (UNDERTALE/DELTARUNE)}}$<br>
@@ -144,6 +145,12 @@ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Chemicalshot](https://github.com/Chemicalsh
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Heart0fGold](https://github.com/Heart0fGold) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Karl (GUTS AND BLACKPOWDER)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Ham-milton](https://github.com/Ham-milton) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Scared Frenchie (GUTS AND BLACKPOWDER)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@denguemon](https://github.com/denguemon) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Akira Nishikiyama (YAKUZA)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@disorderlyfashion](https://github.com/disorderlyfashion) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Squirrelflight (WARRIOR CATS)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@fromagechips](https://github.com/fromagechips) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Graf (QSMP)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@ringodemon](https://github.com/ringodemon) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Edward Elric (FULLMETAL ALCHEMIST)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@BetrayedNotes](https://github.com/BetrayedNotes) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Betrayed 1x1x1x1 (FORSAKEN)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@freakedoutboy](https://github.com/freakedoutboy) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Michelangelo (TEENAGE MUTANT NINJA TURTLES 2012)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Gamblersi](https://github.com/Gamblersi) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Chance (FORSAKEN)}}$<br>
 
 <!---
 
