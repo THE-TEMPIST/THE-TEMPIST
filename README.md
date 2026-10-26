@@ -124,7 +124,12 @@ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@TheSekondComing](https://github.com/TheSeko
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@AndreVV2002](https://github.com/AndreVV2002) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{AndreW2002 (MINECRAFT ARG BUT THE PROTAGONIST IS A SPEEDRUNNER)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Flayedrocker](https://github.com/Flayedrocker) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Karl Heisenberg (RESIDENT EVIL VILLAGE)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@theallengator](https://github.com/theallengator) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Kaiman (DOROHEDORO)}}$<br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@username](https://github.com/link) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{CHARACTER (SOURCE)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@THE-DREAMENDING](https://github.com/THE-DREAMENDING) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Don Quixote (LIMBUS COMPANY)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@WhenTheSUNdreams](https://github.com/WhenTheSUNdreams) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Kali/Gebura (PROJECT MOON)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@A-Crescent-Shadow](https://github.com/A-Crescent-Shadow) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Storyshift Chara (STORYSHIFT, UNDERTALE AU)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@77crescentmoon](https://github.com/77crescentmoon) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{ParrotX2 (UNSTABLE SMP)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@KAITO-Sshion](https://github.com/KAITO-Sshion) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Goro Akechi (PERSONA 5)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@benreyfreeman](https://github.com/benreyfreeman) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Benrey (HALF LIFE VR BUT THE AI IS SELF-AWARE)}}$<br>
 
 <!---
 
