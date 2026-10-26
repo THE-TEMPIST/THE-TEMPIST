@@ -138,6 +138,8 @@ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sorrownights](https://github.com/link) $\co
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@42-MILES](https://github.com/link) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Miles Morales-42 (SPIDERMAN: ACROSS THE SPIDERVERSE)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@out-llaw](https://github.com/out-llaw) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Jaden Yuki (YU-GI-OH! GX)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@SIGN-MY-STRAW-TWIN](https://github.com/SIGN-MY-STRAW-TWIN) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{The Night Ripper (PUPPET COMBO)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@biteofme](https://github.com/biteofme) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Vox (HAZBIN HOTEL)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@datingdetergent](https://github.com/datingdetergent) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Tydus Andromache (DATE EVERYTHING)}}$<br>
 
 <!---
 
