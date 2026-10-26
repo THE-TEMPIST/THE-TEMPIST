@@ -130,7 +130,6 @@ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@A-Crescent-Shadow](https://github.com/A-Cre
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@77crescentmoon](https://github.com/77crescentmoon) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{ParrotX2 (UNSTABLE SMP)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@KAITO-Sshion](https://github.com/KAITO-Sshion) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Goro Akechi (PERSONA 5)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@benreyfreeman](https://github.com/benreyfreeman) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Benrey (HALF LIFE VR BUT THE AI IS SELF-AWARE)}}$<br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sanguinesilence](https://github.com/sanguinesilence) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Blot (DANDY'S WORLD)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@moonstalkrz](https://github.com/moonstalkrz) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{The Six Eared Macaque (LEGO MONKIE KID)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@dankovvsky](https://github.com/dankovvsky) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Leon Tremblay (8:11)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Subkit-kiss](https://github.com/Subkit-kiss) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Subspace Tripmine (PHIGHTING!)}}$<br>
