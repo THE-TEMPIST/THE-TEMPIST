@@ -71,8 +71,8 @@ NOMINATIONS START HERE
 </!-->
 
 <img src="https://files.catbox.moe/bgl7xy.png" width="~" height="50" alt="NO[LI]MINATIONS"><br>
-$\color{#858074}{\textsf{POPULAR PLAYERS}}$<br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ placeholder<br>
+$\color{#858074}{\textsf{POPULAR PLAYERSㅤ(200+ FOLLOWERS REQUIRED TO QUALIFY)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [](link)<br>
 
 ㅤ<br>
 
@@ -130,6 +130,14 @@ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@A-Crescent-Shadow](https://github.com/A-Cre
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@77crescentmoon](https://github.com/77crescentmoon) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{ParrotX2 (UNSTABLE SMP)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@KAITO-Sshion](https://github.com/KAITO-Sshion) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Goro Akechi (PERSONA 5)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@benreyfreeman](https://github.com/benreyfreeman) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Benrey (HALF LIFE VR BUT THE AI IS SELF-AWARE)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sanguinesilence](https://github.com/sanguinesilence) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Blot (DANDY'S WORLD)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@moonstalkrz](https://github.com/moonstalkrz) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{The Six Eared Macaque (LEGO MONKIE KID)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@dankovvsky](https://github.com/dankovvsky) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Leon Tremblay (8:11)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Subkit-kiss](https://github.com/Subkit-kiss) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Subspace Tripmine (PHIGHTING!)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sorrownights](https://github.com/link) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Keith (ORIGINAL CHARACTER)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@42-MILES](https://github.com/link) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Miles Morales #42 (SPIDERMAN: ACROSS THE SPIDERVERSE)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@out-llaw](https://github.com/out-llaw) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Jaden Yuki (YU-GI-OH! GX)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@SIGN-MY-STRAW-TWIN](https://github.com/SIGN-MY-STRAW-TWIN) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{The Night Ripper (PUPPET COMBO)}}$<br>
 
 <!---
 
