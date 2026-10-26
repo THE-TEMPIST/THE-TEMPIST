@@ -76,7 +76,7 @@ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ placeholder<br>
 ㅤ<br>
 
 $\color{#858074}{\textsf{CHRONICALLY ONLINE PLAYERSㅤ(AKA. ONLINE 24/7)}}$<br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)<br>
 
 ㅤ<br>
 
@@ -97,7 +97,12 @@ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@TARGET-SOUL](https://github.com/TARGET-SOUL
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sans-da-skeleton](https://github.com/sans-da-skeleton) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Sans The Skeleton (UNDERTALE/DELTARUNE)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Evan Myers + MANKIND'S HABIT (EVERYMANHYBRID)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@slimeccl](https://github.com/slimeccl) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Charlie Slimecicle (CONTENT CREATOR/SLIMECICLE CINEMATIC UNIVERSE)}}$<br>
-
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@hollow-inkwell](https://github.com/hollow-inkwell) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ink Sans (____TALE, UNDERTALE AU)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@kacchanofthebakugos](https://github.com/kacchanofthebakugos) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Katsuki Bakugo (MY HERO ACADEMIA)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@monitorgirlfriend](https://github.com/monitorgirlfriend) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Dr. Alto Clef (THE SCP FOUNDATION)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@goovons](https://github.com/goovons) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Monkey D. Luffy (ONE PIECE)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@perishallmortals](https://github.com/perishallmortals) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Guinevere (KNIGHTS OF GUINEVERE)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@THE-SAINT-OF-DEATH](https://github.com/THE-SAINT-OF-DEATH) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Roronoa Zoro (ONE PIECE)}}$<br>
 
 <!---
 
