@@ -72,7 +72,7 @@ NOMINATIONS START HERE
 
 <img src="https://files.catbox.moe/bgl7xy.png" width="~" height="50" alt="NO[LI]MINATIONS"><br>
 $\color{#858074}{\textsf{POPULAR PLAYERSㅤ(200+ FOLLOWERS REQUIRED TO QUALIFY)}}$<br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [](link)<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ placeholder<br>
 
 ㅤ<br>
 
