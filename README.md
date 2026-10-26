@@ -92,12 +92,13 @@ CHARACTER NOMINATIONS START HERE
 
 <img src="https://files.catbox.moe/79fwku.png" width="~" height="50" alt="CHARACTERS OF THE TEMPEST"><br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Noli (ROBLOX)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@RUST-010](https://github.com/RUST-010) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Elliot (WORK AT A PIZZA PLACE/FORSAKEN)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@hollow-inkwell](https://github.com/hollow-inkwell) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ink Sans ([BLANK]TALE, UNDERTALE AU)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@NECRO-GUITAR](https://github.com/NECRO-GUITAR) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Sal Fisher (SALLY FACE)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@TARGET-SOUL](https://github.com/TARGET-SOUL) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Killer Sans (SOMETHING NEW, UNDERTALE AU)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sans-da-skeleton](https://github.com/sans-da-skeleton) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Sans The Skeleton (UNDERTALE/DELTARUNE)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Evan Myers + MANKIND'S HABIT (EVERYMANHYBRID)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@slimeccl](https://github.com/slimeccl) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Charlie Slimecicle (CONTENT CREATOR/SLIMECICLE CINEMATIC UNIVERSE)}}$<br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@hollow-inkwell](https://github.com/hollow-inkwell) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ink Sans ([BLANK]TALE, UNDERTALE AU)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@kacchanofthebakugos](https://github.com/kacchanofthebakugos) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Katsuki Bakugo (MY HERO ACADEMIA)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@monitorgirlfriend](https://github.com/monitorgirlfriend) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Dr. Alto Clef (THE SCP FOUNDATION)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@goovons](https://github.com/goovons) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Monkey D. Luffy (ONE PIECE)}}$<br>
