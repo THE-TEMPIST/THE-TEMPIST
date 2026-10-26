@@ -57,6 +57,7 @@ GUIDELINES
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Don't spam the same nominations (you may nominate multiple accounts).}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Users can be nominated for multiple categories, with the exception of one character per account.}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{False reports will be ignored.}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{You can request username updates and removals through the atabook; Simply fill any "REQUIRED" fields as "SKIP".}}$<br>
 ㅤ<br>
 
 <p align="center">
@@ -120,6 +121,10 @@ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@riftgifts](https://github.com/riftgifts) $\
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@decayingcrow](https://github.com/decayingcrow) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Davesprite (HOMESTUCK)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@darlingcharming](https://github.com/darlingcharming) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Darling Charming (EVER AFTER HIGH)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@TheSekondComing](https://github.com/TheSekondComing) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{The Second Coming (ANIMATION VS. ANIMATOR)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@AndreVV2002](https://github.com/AndreVV2002) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{AndreW2002 (MINECRAFT ARG BUT THE PROTAGONIST IS A SPEEDRUNNER)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Flayedrocker](https://github.com/Flayedrocker) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Karl Heisenberg (RESIDENT EVIL VILLAGE)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@theallengator](https://github.com/theallengator) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Kaiman (DOROHEDORO)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@username](https://github.com/link) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{CHARACTER (SOURCE)}}$<br>
 
 <!---
 
