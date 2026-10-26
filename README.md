@@ -159,6 +159,7 @@ CHARACTER NOMINATIONS START HERE
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Senjurochistic](https://github.com/Senjurochistic) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Senjuro Rengoku (DEMON SLAYER)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@engelchi](https://github.com/engelchi) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Natsuki (DOKI DOKI LITERATURE CLUB)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@eu-logy](https://github.com/eu-logy) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Narancia Ghirga (JOJO'S BIZZARRE ADVENTURE)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@zydr4t3](https://github.com/zydr4t3) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Dan Mandel (DAN VS.)}}$<br>
 
 <!---
 
