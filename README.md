@@ -76,7 +76,7 @@ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ placeholder<br>
 ㅤ<br>
 
 $\color{#858074}{\textsf{CHRONICALLY ONLINE PLAYERSㅤ(AKA. ONLINE 24/7)}}$<br>
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)<br>
 
 ㅤ<br>
 
@@ -112,10 +112,15 @@ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@excessivedeath](https://github.com/excessiv
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@gurokawaii](https://github.com/gurokawaii) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Wemmbu (UNSTABLE SMP)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@theemotionalside](https://github.com/theemotionalside) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{The Heart (CHONNY'S CHARMING CHAOS COMPENDIUM)}}$<br>
 $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@HARRlNGTON](https://github.com/HARRlNGTON) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Steve Harrington (STRANGER THINGS)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@iwannahearyousay](https://github.com/iwannahearyousay) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Darnell (PICO'S SCHOOL)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@commandersilly](https://github.com/commandersilly) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Igor (TYLER THE CREATOR'S ALBUM, "IGOR")}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@5P-25](https://github.com/5P-25) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Five Pebbles (RAINWORLD)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Myth! Cuphead (MYTH OF THE MACHINE)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@riftgifts](https://github.com/riftgifts) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Alter (APEX LEGENDS)}}$<br>
 
 <!---
 
-$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [username](link) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{CHARACTER (FANDOM)}}$<br>
+$\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@username](https://github.com/link) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{CHARACTER (SOURCE)}}$<br>
 
 </!-->
 
