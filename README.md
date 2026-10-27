@@ -82,7 +82,7 @@ NOMINATIONS START HERE
 
 ㅤ $\color{#858074}{\textsf{CHRONICALLY ONLINE PLAYERSㅤ(AKA. ONLINE 24/7)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@ringodemon](https://github.com/ringodemon)ㅤ[@nocturnuII](https://github.com/nocturnuII)<br>
-ㅤㅤㅤ [@cyb3rzparadise](https://github.com/cyb3rzparadise)ㅤ[@h6xoi](https://github.com/h6xoi)<br>
+ㅤㅤㅤ [@cyb3rzparadise](https://github.com/cyb3rzparadise)ㅤ[@h6xoi](https://github.com/h6xoi)ㅤ[@77crescentmoon](https://github.com/77crescentmoon)<br>
 
 ㅤ<br>
 
@@ -180,7 +180,11 @@ CHARACTER NOMINATIONS START HERE
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@hwobae](https://github.com/hwobae) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Hwoarang (TEKKEN)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@siannkit](https://github.com/siannkit) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Shadow Milk Cookie (COOKIERUN: KINGDOM)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@h6xoi](https://github.com/h6xoi) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Mikado Kasuga (KASURICH)}}$<br>
-
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@bastetngeb](https://github.com/bastetngeb) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Mariah (JOJO'S BIZZARRE ADVENTURE: STARDUST CRUSADERS)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@magicalprincess](https://github.com/magicalprincess) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{PolarCub (ROBLOX CONTENT CREATOR)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@craigtuckere](https://github.com/craigtuckere) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Craig Tucker (SOUTH PARK)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Taxduo4ever](https://github.com/Taxduo4ever) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Dol9hin (BLISS SMP)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@d0ombringer](https://github.com/d0ombringer) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{MrDoomBringer (ROBLOX)}}$<br>
 
 <!---
 
