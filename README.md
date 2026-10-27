@@ -75,12 +75,12 @@ NOMINATIONS START HERE
 
 ㅤ<img src="https://files.catbox.moe/bgl7xy.png" width="~" height="50" alt="NO[LI]MINATIONS"><br>
 ㅤ $\color{#858074}{\textsf{POPULAR PLAYERSㅤ(200+ FOLLOWERS REQUIRED TO QUALIFY)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)<br>
 
 ㅤ<br>
 
 ㅤ $\color{#858074}{\textsf{CHRONICALLY ONLINE PLAYERSㅤ(AKA. ONLINE 24/7)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@ringodemon](https://github.com/ringodemon)ㅤ[@nocturnuII](https://github.com/nocturnuII)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@ringodemon](https://github.com/ringodemon)ㅤ[@nocturnuII](https://github.com/nocturnuII)ㅤ[@cyb3rzparadise](https://github.com/cyb3rzparadise)<br>
 
 ㅤ<br>
 
@@ -168,7 +168,11 @@ CHARACTER NOMINATIONS START HERE
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@MetallicaInRisottosFoot](https://github.com/MetallicaInRisottosFoot) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Risotto Nero (JOJO'S BIZZARRE ADVENTURE)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Aspenolia](https://github.com/Aspenolia) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Azurewrath (FORSAKEN/VOIDTALES)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@seildirectory](https://github.com/seildirectory) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Veeronica (FORSAKEN)}}$<br>
-
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@larpchan](https://github.com/larpchan) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{SpokeIsHere (UNSTABLE SMP)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@deadbridewalking](https://github.com/deadbridewalking) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{JamatoP (UNSTABLE SMP)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@VALENTIN-RENEGADE](https://github.com/VALENTIN-RENEGADE) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Glitchtrap (FIVE NIGHTS AT FREDDY'S VR: HELP WANTED)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@aztralweb](https://github.com/aztralweb) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Riyo Reaper (GACHIAKUTA)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@cyb3rzparadise](https://github.com/cyb3rzparadise) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{The Roaring Knight (DELTARUNE)}}$<br>
 
 <!---
 
