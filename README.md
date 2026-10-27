@@ -36,7 +36,7 @@ INTRODUCTION
 $\color{#CBC8C0}{\textsf{PonyTown Nomination Accounts}}$ $\color{#858074}{\textsf{.}}$<br>
 
 ㅤ $\color{#858074}{\textsf{It was created with the purpose of having fun and to appreciate fellow players.}}$<br>
-ㅤ $\color{#858074}{\textsf{The character-theming is solely for my (ADMIN'S) own enjoyment; Noli is I and I am Him.}}$<br>
+ㅤ $\color{#858074}{\textsf{The character-theming is solely for my (ADMIN's) own enjoyment; Noli is I and I am Him.}}$<br>
 
 ㅤ $\color{#858074}{\textsf{Refer to the buttons on the left-hand side to}}$
 $\color{#CBC8C0}{\textsf{NOMINATE}}$
@@ -53,6 +53,7 @@ GUIDELINES
 </!-->
 ㅤ<br>
 ㅤ<img src="https://files.catbox.moe/t47s5g.png" width="~" height="50" alt="GUIDELINES"><br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Updates generally occur within the same day of submission, although it may vary depending on ADMIN's availability!}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{All (character) no[li]minations operate under the rule of "first come, first serve".}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Stay civil, don't cry if a character you wanted has already been claimed.}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Don't spam the same nominations (you may nominate multiple accounts).}}$<br>
