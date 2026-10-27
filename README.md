@@ -76,7 +76,7 @@ NOMINATIONS START HERE
 
 ㅤ<img src="https://files.catbox.moe/bgl7xy.png" width="~" height="50" alt="NO[LI]MINATIONS"><br>
 ㅤ $\color{#858074}{\textsf{POPULAR PLAYERSㅤ(200+ FOLLOWERS REQUIRED TO QUALIFY)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)ㅤ[@scottishtwinengines](https://github.com/scottishtwinengines)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)ㅤ[@scottishtwinengines](https://github.com/scottishtwinengines)ㅤ[@r4n-reii](https://github.com/r4n-reii)<br>
 
 ㅤ<br>
 
@@ -185,6 +185,13 @@ CHARACTER NOMINATIONS START HERE
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@craigtuckere](https://github.com/craigtuckere) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Craig Tucker (SOUTH PARK)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Taxduo4ever](https://github.com/Taxduo4ever) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Dol9hin (BLISS SMP)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@d0ombringer](https://github.com/d0ombringer) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{MrDoomBringer (ROBLOX)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@bakingdisaster](https://github.com/bakingdisaster) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Sprout Seedly (DANDY'S WORLD)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@keii-padzz](https://github.com/keii-padzz) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{MePad (INANIMATE INSANITY)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@REDD0ONS](https://github.com/REDD0ONS) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Reddoons (LIFESTEAL SMP)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Medspace-kiss](https://github.com/Medspace-kiss) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{(Pre) Medkit (PHIGHTING!)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Blossoming-Truth](https://github.com/Blossoming-Truth) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Monika (DOKI DOKI LITERATURE CLUB)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@VArtfultrust](https://github.com/VArtfultrust) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Eggchan (UNSTABLE SMP)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@OnlyYennvy](https://github.com/OnlyYennvy) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Evbo (PVP CIVILIZATION)}}$<br>
 
 <!---
 
