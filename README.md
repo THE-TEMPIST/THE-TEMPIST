@@ -98,9 +98,10 @@ CHARACTER NOMINATIONS START HERE
 
 ㅤ<img src="https://files.catbox.moe/79fwku.png" width="~" height="50" alt="CHARACTERS OF THE TEMPEST"><br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Noli (ROBLOX, ANY/ALL ITERATIONS)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@GET-H4XX3D](https://github.com/GET-H4XX3D) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{007n7 (ROBLOX, ANY/ALL ITERATIONS)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@RUST-010](https://github.com/RUST-010) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Elliot (WORK AT A PIZZA PLACE/FORSAKEN)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@hollow-inkwell](https://github.com/hollow-inkwell) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ink Sans ([BLANK]TALE, UNDERTALE AU)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@goduprising](https://github.com/goduprising) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{iTrapped (ROBLOX EXPLOITER, FORSAKEN)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@goduprising](https://github.com/goduprising) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{iTrapped (ROBLOX, ANY/ALL ITERATIONS)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@NECRO-GUITAR](https://github.com/NECRO-GUITAR) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Sal Fisher (SALLY FACE)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@TARGET-SOUL](https://github.com/TARGET-SOUL) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Killer Sans (SOMETHING NEW, UNDERTALE AU)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sans-da-skeleton](https://github.com/sans-da-skeleton) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Sans The Skeleton (UNDERTALE/DELTARUNE)}}$<br>
@@ -176,7 +177,7 @@ CHARACTER NOMINATIONS START HERE
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@aztralweb](https://github.com/aztralweb) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Riyo Reaper (GACHIAKUTA)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@cyb3rzparadise](https://github.com/cyb3rzparadise) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{The Roaring Knight (DELTARUNE)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@MEETC00PERATIVE](https://github.com/MEETC00PERATIVE) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{SCP-035 (THE SCP FOUNDATION)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Yunilaili](https://github.com/Yunilaili) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Xeladrag (THE VOID CULT, ROBLOX)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Yunilaili](https://github.com/Yunilaili) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Xeladrag (ROBLOX, THE VOID CULT)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@hwobae](https://github.com/hwobae) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Hwoarang (TEKKEN)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@siannkit](https://github.com/siannkit) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Shadow Milk Cookie (COOKIERUN: KINGDOM)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@h6xoi](https://github.com/h6xoi) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Mikado Kasuga (KASURICH)}}$<br>
