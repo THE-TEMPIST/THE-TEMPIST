@@ -1,8 +1,9 @@
 <!---
     * boo
     * hello! if you're seeing this, you've forked my repository; feel free to help yourself out.
-      nonetheless, i'd like to ask you not to copy my exact layout or use any of the image files/graphics within my readme.
-      
+      nonetheless, i'd like to ask you not to copy my exact layout (this includes shifting one or two things around - please be original!)
+      or use any of the image files/graphics within my readme.
+
     * please STAR my repository if you take segments of my code or take any inspiration from it.
 
     * other than that, have fun and a good rest of your whatever ;^)
