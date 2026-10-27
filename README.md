@@ -60,7 +60,7 @@ GUIDELINES
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Username updates and removals can be requested through the atabook; Simply fill any "REQUIRED" fields as "SKIP".}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{False reports will be ignored.}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Please do not copy my layout or idea behind how I approach moderating this nomination account!}}$<br>
-ㅤㅤ ㅤ $\color{#858074}{\textsf{My whole intention is for this to seem authentic and like a personalized approach at nomination accounts! Be creative!}}$<br>
+ㅤㅤㅤ $\color{#858074}{\textsf{My whole intention is for this to seem authentic and like a personalized approach at nomination accounts! Be creative!}}$<br>
 ㅤ<br>
 
 <p align="center">
