@@ -12,7 +12,7 @@
 <p align="center">
 <img src="https://files.catbox.moe/ksubr3.png" width="1000" height="~" alt="HEADER"><br></p>
 
-ㅤ<table border="7" align="left">
+ㅤ<table border="0" align="left">
     <tr align="center"></tr>
       <th>
         ㅤ<br>
