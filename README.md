@@ -80,7 +80,8 @@ NOMINATIONS START HERE
 ㅤ<br>
 
 ㅤ $\color{#858074}{\textsf{CHRONICALLY ONLINE PLAYERSㅤ(AKA. ONLINE 24/7)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@ringodemon](https://github.com/ringodemon)ㅤ[@nocturnuII](https://github.com/nocturnuII)ㅤ[@cyb3rzparadise](https://github.com/cyb3rzparadise)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@ringodemon](https://github.com/ringodemon)ㅤ[@nocturnuII](https://github.com/nocturnuII)<br>
+ㅤㅤㅤ [@cyb3rzparadise](https://github.com/cyb3rzparadise)<br>
 
 ㅤ<br>
 
