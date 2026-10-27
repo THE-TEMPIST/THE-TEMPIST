@@ -87,7 +87,7 @@ NOMINATIONS START HERE
 ㅤ<br>
 
 ㅤ $\color{#858074}{\textsf{PRETTIEST GITHUBS}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ placeholder<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@l0veis4ika](https://github.com/l0veis4ika)<br>
 
 ㅤ<br>
 <!---
@@ -193,6 +193,9 @@ CHARACTER NOMINATIONS START HERE
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Blossoming-Truth](https://github.com/Blossoming-Truth) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Monika (DOKI DOKI LITERATURE CLUB)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@VArtfultrust](https://github.com/VArtfultrust) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Eggchan (UNSTABLE SMP)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@OnlyYennvy](https://github.com/OnlyYennvy) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Evbo (PVP CIVILIZATION)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@T0R4X](https://github.com/T0R4X) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Herbert "Medic" Ludwig (TEAM FORTRESS 2)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@deepaffection](https://github.com/deepaffection) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Kyle Broflovski (SOUTH PARK)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@eversleeping-town](https://github.com/eversleeping-town) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ada Wong (RESIDENT EVIL)}}$<br>
 
 <!---
 
