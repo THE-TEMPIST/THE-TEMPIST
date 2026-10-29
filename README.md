@@ -75,9 +75,9 @@ NOMINATIONS START HERE
 </!-->
 
 ㅤ<img src="https://files.catbox.moe/bgl7xy.png" width="~" height="50" alt="NO[LI]MINATIONS"><br>
-ㅤ $\color{#858074}{\textsf{POPULAR PLAYERSㅤ(200+ FOLLOWERS REQUIRED TO QUALIFY)}}$<br>
+ㅤ $\color{#858074}{\textsf{POPULAR PLAYERSㅤ(200+ FOLLOWERS)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)ㅤ[@scottishtwinengines](https://github.com/scottishtwinengines)ㅤ[@raddogs](https://github.com/raddogs)<br>
-ㅤㅤㅤ [@AcxerSonnellino](https://github.com/AcxerSonnellino)ㅤ[@5orrows](https://github.com/5orrows)ㅤ[@Bigguykoi](https://github.com/Bigguykoi)<br>
+ㅤㅤㅤ [@AcxerSonnellino](https://github.com/AcxerSonnellino)ㅤ[@5orrows](https://github.com/5orrows)ㅤ[@Bigguykoi](https://github.com/Bigguykoi)ㅤ[@Worm-Farmer](https://github.com/Worm-Farmer)<br>
 
 ㅤ<br>
 
@@ -241,6 +241,9 @@ CHARACTER NOMINATIONS START HERE
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@cashreggister](https://github.com/cashreggister) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Goomy (POKÉMON)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@itrap-2245](https://github.com/itrap-2245) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Furina (GENSHIN IMPACT)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@akpdox](https://github.com/akpdox) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Leon S. Kennedy (RESIDENT EVIL)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@D3V0TION](https://github.com/D3V0TION) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ivan (BAD THINGS)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@astrobarrage](https://github.com/astrobarrage) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Fluixon (ISH'S STATE SMP)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@V0RTlGERN](https://github.com/V0RTlGERN) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Oberon Vortigern (FATE/GRAND ORDER)}}$<br>
 
 <!---
 
