@@ -76,7 +76,7 @@ NOMINATIONS START HERE
 
 ㅤ<img src="https://files.catbox.moe/bgl7xy.png" width="~" height="50" alt="NO[LI]MINATIONS"><br>
 ㅤ $\color{#858074}{\textsf{POPULAR PLAYERSㅤ(200+ FOLLOWERS REQUIRED TO QUALIFY)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)ㅤ[@scottishtwinengines](https://github.com/scottishtwinengines)ㅤ[@raddogs](https://github.com/raddogs)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)ㅤ[@scottishtwinengines](https://github.com/scottishtwinengines)ㅤ[@raddogs](https://github.com/raddogs)ㅤ[@AcxerSonnellino](https://github.com/AcxerSonnellino)ㅤ[@5orrows](https://github.com/5orrows)<br>
 
 ㅤ<br>
 
@@ -87,7 +87,7 @@ NOMINATIONS START HERE
 ㅤ<br>
 
 ㅤ $\color{#858074}{\textsf{PRETTIEST GITHUBS}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@l0veis4ika](https://github.com/l0veis4ika)ㅤ[@sea-sick](https://github.com/sea-sick)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@l0veis4ika](https://github.com/l0veis4ika)ㅤ[@sea-sick](https://github.com/sea-sick)ㅤ[@RottenPlate](https://github.com/RottenPlate)<br>
 
 ㅤ<br>
 <!---
@@ -212,6 +212,23 @@ CHARACTER NOMINATIONS START HERE
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@symbiosisduo](https://github.com/symbiosisduo) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Spongs (UNSTABLE SMP)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@imonmyperiod](https://github.com/imonmyperiod) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Moe (A REGECT)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@AndroidSentByCyberLife](https://github.com/AndroidSentByCyberLife) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Connor (DETROIT: BECOME HUMAN)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@aeszz](https://github.com/aeszz) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Clark Kent (DC UNIVERSE)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Blame-John](https://github.com/Blame-John) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{John Shedletsky (ROBLOX)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@RottenPlate](https://github.com/RottenPlate) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Waxwell (DANDY'S WORLD)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@femboytiger](https://github.com/femboytiger) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Sephiroth (FINAL FANTASY)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@deadlypoisonn](https://github.com/deadlypoisonn) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Lord X (SONIC.EXE, SINISTER MINDS)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@AcxerSonnellino](https://github.com/AcxerSonnellino) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Guest 1337 (THE LAST GUEST, FORSAKEN)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@5orrows](https://github.com/5orrows) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ichigo Kurosaki (BLEACH)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@livingforest](https://github.com/livingforest) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Hilda (HILDA)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@TrenchDogs](https://github.com/TrenchDogs) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Carrie (ERSATZ)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Boi-Ngo](https://github.com/Boi-Ngo) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Billy Hargrove (STRANGER THINGS)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@radiant-zero](https://github.com/radiant-zero) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Scarlet (FRIDAY NIGHT FEVER: FRENZY)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@NERVOUSBREAKDANCE](https://github.com/NERVOUSBREAKDANCE) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Patrick Stump (FALL OUT BOY)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@mortisfication](https://github.com/mortisfication) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Lightning McQueen (CARS)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@suntannedstepbrothr](https://github.com/suntannedstepbrothr) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{BMO (ADVENTURE TIME)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@DocHale](https://github.com/DocHale) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Liwen (NINE SOLS: THE WAY OF LEAR)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@rydenyuri](https://github.com/rydenyuri) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ryan Ross (PANIC! AT THE DISCO)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Abaddon-Freeling](https://github.com/Abaddon-Freeling) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Abaddon (HAUNTED HOTEL)}}$<br>
 
 <!---
 
