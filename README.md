@@ -58,7 +58,7 @@ GUIDELINES
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Stay civil, don't cry if a character you wanted has already been claimed.}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Don't spam the same nominations (you may nominate multiple accounts).}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Users can be nominated for multiple categories, with the exception of characters; You may only nominate one character per account.}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Do not use fonts. Nomination requests including custom/aesthetic fonts are forbidden and will be ignored.}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Do not use fonts. Nomination requests involving the usage of custom/aesthetic fonts are forbidden and will be ignored.}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Username changes or removals can be requested through the atabook; Simply fill any "REQUIRED" fields as "SKIP".}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{False reports will be ignored.}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Please do not copy my layout or the general idea behind how I approach moderating this nomination account!}}$<br>
