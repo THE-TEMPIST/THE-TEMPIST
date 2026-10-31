@@ -10,8 +10,8 @@
 </!-->
 
 [OCT 31ST: TEMPORARY ANNOUNCEMENT, WILL REMOVE IN A FEW DAYS] <br>
-Unfortunately, the colored text from the nomination-segment of the readme had to be removed due to the code breaking (github's size limit is weird).
-All nominations should be up to date, but if you notice a mistake, or something that "broke" while the ADMIN was getting rid of a billion strings of color-code, please inform me through the atabook!<br>
+Alas, the colored text from the Nomination-segment of the readme had to be removed due to the code breaking (github's size limit is weird).
+All Nominations should be up to date, but if you notice a mistake, or something that "broke" while the ADMIN was getting rid of a billion strings of color-code, please inform me through the atabook!<br>
 
 On a different note, I've decided to change around the banners to better match the theming, and added a Certain Someone to watch over the Nominations... Hope you like it!<br>
 
@@ -62,17 +62,17 @@ GUIDELINES
 </!-->
 ㅤ<br>
 <img src="https://files.catbox.moe/t47s5g.png" width="~" height="50" alt="GUIDELINES"><br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Updates occur daily/within the same day of receiving a nomination (although this may vary depending on ADMIN's availability).}}$<br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{All (character) no[li]minations operate under the rule of "first come, first serve".}}$<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Updates occur daily/within the same day of receiving a Nomination (although this may vary depending on ADMIN's availability).}}$<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{All character Nominations operate under the rule of "first come, first serve".}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Stay civil, don't cry if a character you wanted has already been claimed.}}$<br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Don't spam the same nominations (you may nominate multiple accounts).}}$<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Don't spam the same Nominations (you may nominate multiple accounts).}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Users can be nominated for multiple categories, with the exception of characters; You may only nominate one character per account.}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Do not use fonts. Nomination requests involving the usage of custom/aesthetic fonts are forbidden and will be ignored.}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Hyperspecific character variants (ex. "[Character A] before [Canon Event]") will be edited to simply "[Character A]".}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Username changes or removals can be requested through the atabook; Simply fill any "REQUIRED" fields as "SKIP".}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{False reports will be ignored.}}$<br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Please do not copy my layout or the general idea behind how I approach moderating this nomination account!}}$<br>
-ㅤㅤㅤ $\color{#858074}{\textsf{My whole intention is for this to seem authentic and like a personalized approach at nomination accounts; Be creative!}}$<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Please do not copy my layout or the general idea behind how I approach moderating this Nomination account!}}$<br>
+ㅤㅤㅤ $\color{#858074}{\textsf{My whole intention is for this to seem authentic and like a personalized approach at Nomination accounts; Be creative!}}$<br>
 ㅤ<br>
 
 <p align="center">
