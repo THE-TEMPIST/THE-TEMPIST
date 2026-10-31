@@ -270,6 +270,7 @@ CHARACTER NOMINATIONS START HERE
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@dxngerdays](https://github.com/dxngerdays)ㅤis The Tempest'sㅤParty Poison (MY CHEMICAL ROMANCE ALBUM, DANGER DAYS)<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@xnosferatu](https://github.com/xnosferatu)ㅤis The Tempest'sㅤNosferatu (FORSAKEN)<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@ruffiest](https://github.com/ruffiest)ㅤis The Tempest'sㅤSwap!Spamton (DELTARUNE, AU BY @DIIONYSAN)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@pirate-freak](https://github.com/link)ㅤis The Tempest'sㅤJack Sparrow (PIRATES OF THE CARIBBEAN)<br>
 
 <!---
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@username](https://github.com/link)ㅤis The Tempest'sㅤCHARACTER (SOURCE)<br>
