@@ -45,7 +45,7 @@ INTRODUCTION
 $\color{#CBC8C0}{\textsf{PonyTown Nomination Accounts}}$ $\color{#858074}{\textsf{.}}$<br>
 
 ㅤ $\color{#858074}{\textsf{It was created with the purpose of having fun and to appreciate fellow players.}}$<br>
-$\color{#858074}{\textsf{The character-theming is solely for my (ADMIN's) own enjoyment; Noli is I and I am Him.}}$<br>
+ㅤ $\color{#858074}{\textsf{The character-theming is solely for my (ADMIN's) own enjoyment; Noli is I and I am Him.}}$<br>
 
 ㅤ $\color{#858074}{\textsf{Refer to the buttons on the left-hand side to}}$
 $\color{#CBC8C0}{\textsf{NOMINATE}}$
