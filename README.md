@@ -16,7 +16,7 @@ If you notice a mistake, or something that "broke" while the ADMIN was getting r
 hundreds of color-code lines, please let me know through the atabook!<br>
 
 Apologies for the inconvenience and Happy Halloween!<br>
-⎯ NOLI<br>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⎯ NOLI<br>
 
 <p align="center">
 <img src="https://files.catbox.moe/ksubr3.png" width="1000" height="~" alt="HEADER"><br></p>
