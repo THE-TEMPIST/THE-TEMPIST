@@ -94,8 +94,6 @@ $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)
 $\color{#858074}{\textsf{CHRONICALLY ONLINE PLAYERSㅤ(AKA. ONLINE 24/7)}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@ringodemon](https://github.com/ringodemon)ㅤ[@nocturnuII](https://github.com/nocturnuII)ㅤ[@cyb3rzparadise](https://github.com/cyb3rzparadise)ㅤ[@h6xoi](https://github.com/h6xoi)ㅤ[@77crescentmoon](https://github.com/77crescentmoon)ㅤ[@BetrayedNotes](https://github.com/BetrayedNotes)ㅤ[@weepinglilies](https://github.com/weepinglilies)<br>
 
-ㅤ<br>
-
 $\color{#858074}{\textsf{PRETTIEST GITHUBS}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@l0veis4ika](https://github.com/l0veis4ika)ㅤ[@sea-sick](https://github.com/sea-sick)ㅤ[@RottenPlate](https://github.com/RottenPlate)ㅤ[@itrap-2245](https://github.com/itrap-2245)ㅤ[@5metersapart](https://github.com/5metersapart)ㅤ[@weepinglilies](https://github.com/weepinglilies)<br>
 
