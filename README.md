@@ -108,61 +108,61 @@ CHARACTER NOMINATIONS START HERE
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@UNLEASH-NOLI](https://github.com/UNLEASH-NOLI)ㅤis The Tempest'sㅤNoli (ROBLOX, ANY/ALL ITERATIONS)<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@GET-H4XX3D](https://github.com/GET-H4XX3D)ㅤis The Tempest'sㅤ007n7 (ROBLOX, ANY/ALL ITERATIONS)<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@RUST-010](https://github.com/RUST-010)ㅤis The Tempest'sㅤElliot (WORK AT A PIZZA PLACE/FORSAKEN)<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@hollow-inkwell](https://github.com/hollow-inkwell) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ink Sans ([BLANK]TALE, UNDERTALE AU)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@goduprising](https://github.com/goduprising) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{iTrapped (ROBLOX, ANY/ALL ITERATIONS)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@call-the-d0ctor](https://github.com/call-the-d0ctor) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Venomshank (PHIGHTING!)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@NECRO-GUITAR](https://github.com/NECRO-GUITAR) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Sal Fisher (SALLY FACE)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@TARGET-SOUL](https://github.com/TARGET-SOUL) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Killer Sans (SOMETHING NEW, UNDERTALE AU)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sans-da-skeleton](https://github.com/sans-da-skeleton) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Sans The Skeleton (UNDERTALE/DELTARUNE)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Evan Myers + MANKIND'S HABIT (EVERYMANHYBRID)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@slimeccl](https://github.com/slimeccl) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Charlie Slimecicle (CONTENT CREATOR/SLIMECICLE CINEMATIC UNIVERSE)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@kacchanofthebakugos](https://github.com/kacchanofthebakugos) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Katsuki Bakugo (MY HERO ACADEMIA)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@monitorgirlfriend](https://github.com/monitorgirlfriend) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Dr. Alto Clef (THE SCP FOUNDATION)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@goovons](https://github.com/goovons) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Monkey D. Luffy (ONE PIECE)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@perishallmortals](https://github.com/perishallmortals) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Guinevere (KNIGHTS OF GUINEVERE)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@THE-SAINT-OF-DEATH](https://github.com/THE-SAINT-OF-DEATH) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Roronoa Zoro (ONE PIECE)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@donniesgaptooth](https://github.com/donniesgaptooth) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Verity (VERITY™ MINECRAFT HORROR SERIES)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@cobblebob](https://github.com/cobblebob) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Foot Soldier (PLANTS VS. ZOMBIES)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@screworangeslugs](https://github.com/screworangeslugs) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Newbie (HOOPS AND YOYO)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@jazzymage](https://github.com/jazzymage) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Jazz (TRANSFORMERS)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@excessivedeath](https://github.com/excessivedeath) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Billy Loomis (SCREAM)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@gurokawaii](https://github.com/gurokawaii) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Wemmbu (UNSTABLE SMP)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@theemotionalside](https://github.com/theemotionalside) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{The Heart (CHONNY'S CHARMING CHAOS COMPENDIUM)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@HARRlNGTON](https://github.com/HARRlNGTON) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Steve Harrington (STRANGER THINGS)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@iwannahearyousay](https://github.com/iwannahearyousay) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Darnell (PICO'S SCHOOL)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@commandersilly](https://github.com/commandersilly) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Igor (TYLER THE CREATOR'S ALBUM, "IGOR")}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@5P-25](https://github.com/5P-25) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Five Pebbles (RAINWORLD)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Myth! Cuphead (MYTH OF THE MACHINE)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@riftgifts](https://github.com/riftgifts) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Alter (APEX LEGENDS)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@decayingcrow](https://github.com/decayingcrow) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Davesprite (HOMESTUCK)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@darlingcharming](https://github.com/darlingcharming) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Darling Charming (EVER AFTER HIGH)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@TheSekondComing](https://github.com/TheSekondComing) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{The Second Coming (ANIMATION VS. ANIMATOR)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@AndreVV2002](https://github.com/AndreVV2002) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{AndreW2002 (MINECRAFT ARG BUT THE PROTAGONIST IS A SPEEDRUNNER)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Flayedrocker](https://github.com/Flayedrocker) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Karl Heisenberg (RESIDENT EVIL VILLAGE)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@theallengator](https://github.com/theallengator) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Kaiman (DOROHEDORO)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@THE-DREAMENDING](https://github.com/THE-DREAMENDING) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Don Quixote (LIMBUS COMPANY)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@WhenTheSUNdreams](https://github.com/WhenTheSUNdreams) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Kali/Gebura (PROJECT MOON)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@A-Crescent-Shadow](https://github.com/A-Crescent-Shadow) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Storyshift Chara (STORYSHIFT, UNDERTALE AU)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@77crescentmoon](https://github.com/77crescentmoon) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{ParrotX2 (UNSTABLE SMP)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@KAITO-Sshion](https://github.com/KAITO-Sshion) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Goro Akechi (PERSONA 5)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@benreyfreeman](https://github.com/benreyfreeman) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Benrey (HALF LIFE VR BUT THE AI IS SELF-AWARE)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sanguinesilence](https://github.com/sanguinesilence) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Blot (DANDY'S WORLD)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@moonstalkrz](https://github.com/moonstalkrz) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{The Six Eared Macaque (LEGO MONKIE KID)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@dankovvsky](https://github.com/dankovvsky) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Leon Tremblay (8:11)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Subkit-kiss](https://github.com/Subkit-kiss) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Subspace Tripmine (PHIGHTING!)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sorrownights](https://github.com/link) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Keith (ORIGINAL CHARACTER)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@42-MILES](https://github.com/link) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Miles Morales-42 (SPIDERMAN: ACROSS THE SPIDERVERSE, MARVEL)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@out-llaw](https://github.com/out-llaw) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Jaden Yuki (YU-GI-OH! GX)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@SIGN-MY-STRAW-TWIN](https://github.com/SIGN-MY-STRAW-TWIN) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{The Night Ripper (PUPPET COMBO)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@biteofme](https://github.com/biteofme) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Vox/Vincent Whitman (HAZBIN HOTEL)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@datingdetergent](https://github.com/datingdetergent) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Tydus Andromache (DATE EVERYTHING)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Chemicalshot](https://github.com/Chemicalshot) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{MindManLol954 (WONDERLAND.JAR)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Heart0fGold](https://github.com/Heart0fGold) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Karl (GUTS AND BLACKPOWDER)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Ham-milton](https://github.com/Ham-milton) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Scared Frenchie (GUTS AND BLACKPOWDER)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@denguemon](https://github.com/denguemon) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Akira Nishikiyama (YAKUZA)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@disorderlyfashion](https://github.com/disorderlyfashion) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Squirrelflight (WARRIOR CATS)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@fromagechips](https://github.com/fromagechips) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Graf (QSMP)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@ringodemon](https://github.com/ringodemon) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Edward Elric (FULLMETAL ALCHEMIST)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@hollow-inkwell](https://github.com/hollow-inkwell)ㅤis The Tempest'sㅤInk Sans ([BLANK]TALE, UNDERTALE AU)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@goduprising](https://github.com/goduprising)ㅤis The Tempest'sㅤiTrapped (ROBLOX, ANY/ALL ITERATIONS)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@call-the-d0ctor](https://github.com/call-the-d0ctor)ㅤis The Tempest'sㅤVenomshank (PHIGHTING!)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@NECRO-GUITAR](https://github.com/NECRO-GUITAR)ㅤis The Tempest'sㅤSal Fisher (SALLY FACE)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤis The Tempest'sㅤKiller Sans (SOMETHING NEW, UNDERTALE AU)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sans-da-skeleton](https://github.com/sans-da-skeleton)ㅤis The Tempest'sㅤSans The Skeleton (UNDERTALE/DELTARUNE)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤis The Tempest'sㅤEvan Myers + MANKIND'S BAD HABIT (EVERYMANHYBRID)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@slimeccl](https://github.com/slimeccl)ㅤis The Tempest'sㅤCharlie Slimecicle (CONTENT CREATOR/SLIMECICLE CINEMATIC UNIVERSE)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@kacchanofthebakugos](https://github.com/kacchanofthebakugos)ㅤis The Tempest'sㅤKatsuki Bakugo (MY HERO ACADEMIA)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@monitorgirlfriend](https://github.com/monitorgirlfriend)ㅤis The Tempest'sㅤDr. Alto Clef (THE SCP FOUNDATION)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@goovons](https://github.com/goovons)ㅤis The Tempest'sㅤMonkey D. Luffy (ONE PIECE)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@perishallmortals](https://github.com/perishallmortals)ㅤis The Tempest'sㅤGuinevere (KNIGHTS OF GUINEVERE)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@THE-SAINT-OF-DEATH](https://github.com/THE-SAINT-OF-DEATH)ㅤis The Tempest'sㅤRoronoa Zoro (ONE PIECE)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@donniesgaptooth](https://github.com/donniesgaptooth)ㅤis The Tempest'sㅤVerity (VERITY™ MINECRAFT HORROR SERIES)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@cobblebob](https://github.com/cobblebob)ㅤis The Tempest'sㅤFoot Soldier (PLANTS VS. ZOMBIES)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@screworangeslugs](https://github.com/screworangeslugs)ㅤis The Tempest'sㅤNewbie (HOOPS AND YOYO)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@jazzymage](https://github.com/jazzymage)ㅤis The Tempest'sㅤJazz (TRANSFORMERS)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@excessivedeath](https://github.com/excessivedeath)ㅤis The Tempest'sㅤBilly Loomis (SCREAM)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@gurokawaii](https://github.com/gurokawaii)ㅤis The Tempest'sㅤWemmbu (UNSTABLE SMP)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@theemotionalside](https://github.com/theemotionalside)ㅤis The Tempest'sㅤThe Heart (CHONNY'S CHARMING CHAOS COMPENDIUM)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@HARRlNGTON](https://github.com/HARRlNGTON)ㅤis The Tempest'sㅤSteve Harrington (STRANGER THINGS)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@iwannahearyousay](https://github.com/iwannahearyousay)ㅤis The Tempest'sㅤDarnell (PICO'S SCHOOL)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@commandersilly](https://github.com/commandersilly)ㅤis The Tempest'sㅤIgor (TYLER THE CREATOR'S ALBUM, "IGOR")<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@5P-25](https://github.com/5P-25)ㅤis The Tempest'sㅤFive Pebbles (RAINWORLD)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤis The Tempest'sㅤMyth! Cuphead (MYTH OF THE MACHINE)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@riftgifts](https://github.com/riftgifts)ㅤis The Tempest'sㅤAlter (APEX LEGENDS)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@decayingcrow](https://github.com/decayingcrow)ㅤis The Tempest'sㅤDavesprite (HOMESTUCK)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@darlingcharming](https://github.com/darlingcharming)ㅤis The Tempest'sㅤDarling Charming (EVER AFTER HIGH)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@TheSekondComing](https://github.com/TheSekondComing)ㅤis The Tempest'sㅤThe Second Coming (ANIMATION VS. ANIMATOR)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@AndreVV2002](https://github.com/AndreVV2002)ㅤis The Tempest'sㅤAndreW2002 (MINECRAFT ARG BUT THE PROTAGONIST IS A SPEEDRUNNER)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Flayedrocker](https://github.com/Flayedrocker)ㅤis The Tempest'sㅤKarl Heisenberg (RESIDENT EVIL VILLAGE)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@theallengator](https://github.com/theallengator)ㅤis The Tempest'sㅤKaiman (DOROHEDORO)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@THE-DREAMENDING](https://github.com/THE-DREAMENDING)ㅤis The Tempest'sㅤDon Quixote (LIMBUS COMPANY)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@WhenTheSUNdreams](https://github.com/WhenTheSUNdreams)ㅤis The Tempest'sㅤKali/Gebura (PROJECT MOON)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@A-Crescent-Shadow](https://github.com/A-Crescent-Shadow)ㅤis The Tempest'sㅤStoryshift Chara (STORYSHIFT, UNDERTALE AU)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@77crescentmoon](https://github.com/77crescentmoon)ㅤis The Tempest'sㅤParrotX2 (UNSTABLE SMP)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@KAITO-Sshion](https://github.com/KAITO-Sshion)ㅤis The Tempest'sㅤGoro Akechi (PERSONA 5)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@benreyfreeman](https://github.com/benreyfreeman)ㅤis The Tempest'sㅤBenrey (HALF LIFE VR BUT THE AI IS SELF-AWARE)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sanguinesilence](https://github.com/sanguinesilence)ㅤis The Tempest'sㅤBlot (DANDY'S WORLD)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@moonstalkrz](https://github.com/moonstalkrz)ㅤis The Tempest'sㅤThe Six Eared Macaque (LEGO MONKIE KID)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@dankovvsky](https://github.com/dankovvsky)ㅤis The Tempest'sㅤLeon Tremblay (8:11)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Subkit-kiss](https://github.com/Subkit-kiss)ㅤis The Tempest'sㅤSubspace Tripmine (PHIGHTING!)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sorrownights](https://github.com/sorrownights)ㅤis The Tempest'sㅤKeith (ORIGINAL CHARACTER)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@42-MILES](https://github.com/42-MILES)ㅤis The Tempest'sㅤMiles Morales-42 (SPIDERMAN: ACROSS THE SPIDERVERSE, MARVEL)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@out-llaw](https://github.com/out-llaw)ㅤis The Tempest'sㅤJaden Yuki (YU-GI-OH! GX)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@SIGN-MY-STRAW-TWIN](https://github.com/SIGN-MY-STRAW-TWIN)ㅤis The Tempest'sㅤThe Night Ripper (PUPPET COMBO)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@biteofme](https://github.com/biteofme)ㅤis The Tempest'sㅤVox/Vincent Whitman (HAZBIN HOTEL)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@datingdetergent](https://github.com/datingdetergent)ㅤis The Tempest'sㅤTydus Andromache (DATE EVERYTHING)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Chemicalshot](https://github.com/Chemicalshot)ㅤis The Tempest'sㅤMindManLol954 (WONDERLAND.JAR)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Heart0fGold](https://github.com/Heart0fGold)ㅤis The Tempest'sㅤKarl (GUTS AND BLACKPOWDER)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Ham-milton](https://github.com/Ham-milton)ㅤis The Tempest'sㅤScared Frenchie (GUTS AND BLACKPOWDER)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@denguemon](https://github.com/denguemon)ㅤis The Tempest'sㅤAkira Nishikiyama (YAKUZA)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@disorderlyfashion](https://github.com/disorderlyfashion)ㅤis The Tempest'sㅤSquirrelflight (WARRIOR CATS)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@fromagechips](https://github.com/fromagechips)ㅤis The Tempest'sㅤGraf (QSMP)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@ringodemon](https://github.com/ringodemon)ㅤis The Tempest'sㅤEdward Elric (FULLMETAL ALCHEMIST)<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@BetrayedNotes](https://github.com/BetrayedNotes) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Betrayed 1x1x1x1 (FORSAKEN)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@freakedoutboy](https://github.com/freakedoutboy) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Michelangelo (TEENAGE MUTANT NINJA TURTLES 2012)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Gamblersi](https://github.com/Gamblersi) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Chance (FORSAKEN)}}$<br>
@@ -260,11 +260,7 @@ CHARACTER NOMINATIONS START HERE
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@FISHTHESEAS](https://github.com/FISHTHESEAS) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Dr. Monty (FISCH)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sicklyrose](https://github.com/sicklyrose)ㅤis The Tempest'sㅤRyūnosuke Akutagawa (BUNGO STRAY DOGS)<br>
 <!---
-TESTING
-</!-->
-[@UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) is the Tempest's TESTING DUMMY (IGNORE THIS)<br>
-<!---
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@username](https://github.com/link) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{CHARACTER (SOURCE)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@username](https://github.com/link)ㅤis The Tempest'sㅤCHARACTER (SOURCE)<br>
 </!-->
 
 <p align="center">
