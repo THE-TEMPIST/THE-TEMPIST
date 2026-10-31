@@ -85,7 +85,7 @@ NOMINATIONS START HERE
 
 </!-->
 
-<img src="https://files.catbox.moe/cm0gzq.png" width="500" height="~" align="right" alt="NOLI"><br></p>
+<img src="https://files.catbox.moe/cm0gzq.png" width="450" height="~" align="right" alt="NOLI"><br></p>
 
 <img src="https://files.catbox.moe/bgl7xy.png" width="~" height="50" alt="NO[LI]MINATIONS"><br>
 $\color{#858074}{\textsf{POPULAR PLAYERSㅤ(200+ FOLLOWERS)}}$<br>
