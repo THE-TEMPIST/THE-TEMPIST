@@ -163,80 +163,80 @@ CHARACTER NOMINATIONS START HERE
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@disorderlyfashion](https://github.com/disorderlyfashion)ㅤis The Tempest'sㅤSquirrelflight (WARRIOR CATS)<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@fromagechips](https://github.com/fromagechips)ㅤis The Tempest'sㅤGraf (QSMP)<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@ringodemon](https://github.com/ringodemon)ㅤis The Tempest'sㅤEdward Elric (FULLMETAL ALCHEMIST)<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@BetrayedNotes](https://github.com/BetrayedNotes) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Betrayed 1x1x1x1 (FORSAKEN)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@freakedoutboy](https://github.com/freakedoutboy) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Michelangelo (TEENAGE MUTANT NINJA TURTLES 2012)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Gamblersi](https://github.com/Gamblersi) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Chance (FORSAKEN)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@himbugglr](https://github.com/himbugglr) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Fez (PONYTOWN)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@kittyypop](https://github.com/kittyypop) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Eunoia (FROZEN SOUL/DREAM GAME)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@nocturnuII](https://github.com/nocturnuII) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Grian (HERMITCRAFT)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@DEBTHVERIFIED](https://github.com/DEBTHVERIFIED) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Mafioso (FORSAKEN)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@mydearmeIancholy](https://github.com/mydearmeIancholy) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Power (CHAINSAW MAN)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Senjurochistic](https://github.com/Senjurochistic) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Senjuro Rengoku (DEMON SLAYER)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@engelchi](https://github.com/engelchi) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Natsuki (DOKI DOKI LITERATURE CLUB)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@eu-logy](https://github.com/eu-logy) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Narancia Ghirga (JOJO'S BIZZARRE ADVENTURE)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@zydr4t3](https://github.com/zydr4t3) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Dan Mandel (DAN VS.)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@wifiesh](https://github.com/wifiesh) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Wifies (UNSTABLE SMP)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Supreme-Angel](https://github.com/Supreme-Angel) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Archangel Gabriel (ULTRAKILL)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@MetallicaInRisottosFoot](https://github.com/MetallicaInRisottosFoot) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Risotto Nero (JOJO'S BIZZARRE ADVENTURE)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Aspenolia](https://github.com/Aspenolia) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Azurewrath (FORSAKEN/VOIDTALES)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@seildirectory](https://github.com/seildirectory) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Veeronica (FORSAKEN)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@larpchan](https://github.com/larpchan) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{SpokeIsHere (UNSTABLE SMP)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@deadbridewalking](https://github.com/deadbridewalking) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{JamatoP (UNSTABLE SMP)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@VALENTIN-RENEGADE](https://github.com/VALENTIN-RENEGADE) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Glitchtrap (FIVE NIGHTS AT FREDDY'S VR: HELP WANTED)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@aztralweb](https://github.com/aztralweb) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Riyo Reaper (GACHIAKUTA)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@cyb3rzparadise](https://github.com/cyb3rzparadise) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{The Roaring Knight (DELTARUNE)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@MEETC00PERATIVE](https://github.com/MEETC00PERATIVE) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{SCP-035 (THE SCP FOUNDATION)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Yunilaili](https://github.com/Yunilaili) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Xeladrag (THE VOID CULT, ROBLOX)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@hwobae](https://github.com/hwobae) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Hwoarang (TEKKEN)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@siannkit](https://github.com/siannkit) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Shadow Milk Cookie (COOKIERUN: KINGDOM)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@h6xoi](https://github.com/h6xoi) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Mikado Kasuga (KASURICH)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@bastetngeb](https://github.com/bastetngeb) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Mariah (JOJO'S BIZZARRE ADVENTURE: STARDUST CRUSADERS)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@magicalprincess](https://github.com/magicalprincess) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{PolarCub (ROBLOX CONTENT CREATOR)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@craigtuckere](https://github.com/craigtuckere) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Craig Tucker (SOUTH PARK)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Taxduo4ever](https://github.com/Taxduo4ever) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Dol9hin (BLISS SMP)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@d0ombringer](https://github.com/d0ombringer) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{MrDoomBringer (ROBLOX)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@bakingdisaster](https://github.com/bakingdisaster) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Sprout (DANDY'S WORLD)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@keii-padzz](https://github.com/keii-padzz) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{MePad (INANIMATE INSANITY)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@REDD0ONS](https://github.com/REDD0ONS) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Reddoons (LIFESTEAL SMP)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Medspace-kiss](https://github.com/Medspace-kiss) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{(Medkit (PHIGHTING!)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Blossoming-Truth](https://github.com/Blossoming-Truth) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Monika (DOKI DOKI LITERATURE CLUB)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@VArtfultrust](https://github.com/VArtfultrust) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Eggchan (UNSTABLE SMP)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@OnlyYennvy](https://github.com/OnlyYennvy) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Evbo (PVP CIVILIZATION)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@T0R4X](https://github.com/T0R4X) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Herbert "Medic" Ludwig (TEAM FORTRESS 2)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@deepaffection](https://github.com/deepaffection) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Kyle Broflovski (SOUTH PARK)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@eversleeping-town](https://github.com/eversleeping-town) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ada Wong (RESIDENT EVIL)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@themagerotsamongstthenightshades](https://github.com/themagerotsamongstthenightshades) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Regect (A REGECT)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@ANTlHERO](https://github.com/ANTlHERO) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Gary Smith (BULLY)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Worm-Farmer](https://github.com/Worm-Farmer) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Pink (AMONG US, RODAMRIX)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@kunslop](https://github.com/kunslop) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Tsugino Haru (ZENO)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@ayatosbathwater](https://github.com/ayatosbathwater) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Kamisato Ayato (GENSHIN IMPACT)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@neiify](https://github.com/neiify) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Div-y (UNSERIOUS SMP)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@twottimey](https://github.com/twottimey) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Two Time (FORSAKEN)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@08clipse](https://github.com/08clipse) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Osamu Dazai (BUNGO STRAY DOGS)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@dandypilled](https://github.com/dandypilled) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Dandy (DANDY'S WORLD)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@fou11egacy](https://github.com/fou11egacy) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Tartaglia (GENSHIN IMPACT)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@RE0-MIKAGE](https://github.com/RE0-MIKAGE) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Reo Mikage (BLUELOCK)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@nereherrman](https://github.com/nereherrman) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Gregor (LIMBUS COMPANY)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@symbiosisduo](https://github.com/symbiosisduo) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Spongs (UNSTABLE SMP)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@imonmyperiod](https://github.com/imonmyperiod) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Moe (A REGECT)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@AndroidSentByCyberLife](https://github.com/AndroidSentByCyberLife) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Connor (DETROIT: BECOME HUMAN)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@aeszz](https://github.com/aeszz) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Clark Kent (DC UNIVERSE)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Blame-John](https://github.com/Blame-John) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{John Shedletsky (ROBLOX)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@RottenPlate](https://github.com/RottenPlate) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Waxwell (DANDY'S WORLD)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@femboytiger](https://github.com/femboytiger) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Sephiroth (FINAL FANTASY)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@deadlypoisonn](https://github.com/deadlypoisonn) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Lord X (SONIC.EXE, SINISTER MINDS)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@AcxerSonnellino](https://github.com/AcxerSonnellino) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Guest 1337 (THE LAST GUEST, FORSAKEN)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@5orrows](https://github.com/5orrows) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ichigo Kurosaki (BLEACH)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@livingforest](https://github.com/livingforest) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Hilda (HILDA)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@TrenchDogs](https://github.com/TrenchDogs) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Carrie (ERSATZ)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Boi-Ngo](https://github.com/Boi-Ngo) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Billy Hargrove (STRANGER THINGS)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@radiant-zero](https://github.com/radiant-zero) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Scarlet (FRIDAY NIGHT FEVER: FRENZY)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@NERVOUSBREAKDANCE](https://github.com/NERVOUSBREAKDANCE) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Patrick Stump (FALL OUT BOY, BAND)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@mortisfication](https://github.com/mortisfication) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Lightning McQueen (CARS)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@suntannedstepbrothr](https://github.com/suntannedstepbrothr) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{BMO (ADVENTURE TIME)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@DocHale](https://github.com/DocHale) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Liwen (NINE SOLS: THE WAY OF LEAR)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@rydenyuri](https://github.com/rydenyuri) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ryan Ross (PANIC! AT THE DISCO, BAND)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Abaddon-Freeling](https://github.com/Abaddon-Freeling) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Abaddon (HAUNTED HOTEL)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@BetrayedNotes](https://github.com/BetrayedNotes)ㅤis The Tempest'sㅤ1x1x1x1 (FORSAKEN)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@freakedoutboy](https://github.com/freakedoutboy)ㅤis The Tempest'sㅤMichelangelo (TEENAGE MUTANT NINJA TURTLES 2012)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Gamblersi](https://github.com/Gamblersi)ㅤis The Tempest'sㅤChance (FORSAKEN)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@himbugglr](https://github.com/himbugglr)ㅤis The Tempest'sㅤFez (PONYTOWN)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@kittyypop](https://github.com/kittyypop)ㅤis The Tempest'sㅤEunoia (FROZEN SOUL/DREAM GAME)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@nocturnuII](https://github.com/nocturnuII)ㅤis The Tempest'sㅤGrian (HERMITCRAFT)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@DEBTHVERIFIED](https://github.com/DEBTHVERIFIED)ㅤis The Tempest'sㅤMafioso (FORSAKEN)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@mydearmeIancholy](https://github.com/mydearmeIancholy)ㅤis The Tempest'sㅤPower (CHAINSAW MAN)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Senjurochistic](https://github.com/Senjurochistic)ㅤis The Tempest'sㅤSenjuro Rengoku (DEMON SLAYER)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@engelchi](https://github.com/engelchi)ㅤis The Tempest'sㅤNatsuki (DOKI DOKI LITERATURE CLUB)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@eu-logy](https://github.com/eu-logy)ㅤis The Tempest'sㅤNarancia Ghirga (JOJO'S BIZZARRE ADVENTURE)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@zydr4t3](https://github.com/zydr4t3)ㅤis The Tempest'sㅤDan Mandel (DAN VS.)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@wifiesh](https://github.com/wifiesh)ㅤis The Tempest'sㅤWifies (UNSTABLE SMP)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Supreme-Angel](https://github.com/Supreme-Angel)ㅤis The Tempest'sㅤArchangel Gabriel (ULTRAKILL)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@MetallicaInRisottosFoot](https://github.com/MetallicaInRisottosFoot)ㅤis The Tempest'sㅤRisotto Nero (JOJO'S BIZZARRE ADVENTURE)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Aspenolia](https://github.com/Aspenolia)ㅤis The Tempest'sㅤAzurewrath (FORSAKEN/VOIDTALES)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@seildirectory](https://github.com/seildirectory)ㅤis The Tempest'sㅤVeeronica (FORSAKEN)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@larpchan](https://github.com/larpchan)ㅤis The Tempest'sㅤSpokeIsHere (UNSTABLE SMP)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@deadbridewalking](https://github.com/deadbridewalking)ㅤis The Tempest'sㅤJamatoP (UNSTABLE SMP)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@VALENTIN-RENEGADE](https://github.com/VALENTIN-RENEGADE)ㅤis The Tempest'sㅤGlitchtrap (FIVE NIGHTS AT FREDDY'S VR: HELP WANTED)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@aztralweb](https://github.com/aztralweb)ㅤis The Tempest'sㅤRiyo Reaper (GACHIAKUTA)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@cyb3rzparadise](https://github.com/cyb3rzparadise)ㅤis The Tempest'sㅤThe Roaring Knight (DELTARUNE)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@MEETC00PERATIVE](https://github.com/MEETC00PERATIVE)ㅤis The Tempest'sㅤSCP-035 (THE SCP FOUNDATION)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Yunilaili](https://github.com/Yunilaili)ㅤis The Tempest'sㅤXeladrag (THE VOID CULT, ROBLOX)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@hwobae](https://github.com/hwobae)ㅤis The Tempest'sㅤHwoarang (TEKKEN)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@siannkit](https://github.com/siannkit)ㅤis The Tempest'sㅤShadow Milk Cookie (COOKIERUN: KINGDOM)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@h6xoi](https://github.com/h6xoi)ㅤis The Tempest'sㅤMikado Kasuga (KASURICH)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@bastetngeb](https://github.com/bastetngeb)ㅤis The Tempest'sㅤMariah (JOJO'S BIZZARRE ADVENTURE: STARDUST CRUSADERS)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@magicalprincess](https://github.com/magicalprincess)ㅤis The Tempest'sㅤPolarCub (ROBLOX CONTENT CREATOR)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@craigtuckere](https://github.com/craigtuckere)ㅤis The Tempest'sㅤCraig Tucker (SOUTH PARK)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Taxduo4ever](https://github.com/Taxduo4ever)ㅤis The Tempest'sㅤDol9hin (BLISS SMP)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@d0ombringer](https://github.com/d0ombringer)ㅤis The Tempest'sㅤMrDoomBringer (ROBLOX)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@bakingdisaster](https://github.com/bakingdisaster)ㅤis The Tempest'sㅤSprout (DANDY'S WORLD)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@keii-padzz](https://github.com/keii-padzz)ㅤis The Tempest'sㅤMePad (INANIMATE INSANITY)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@REDD0ONS](https://github.com/REDD0ONS)ㅤis The Tempest'sㅤReddoons (LIFESTEAL SMP)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Medspace-kiss](https://github.com/Medspace-kiss)ㅤis The Tempest'sㅤMedkit (PHIGHTING!<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Blossoming-Truth](https://github.com/Blossoming-Truth)ㅤis The Tempest'sㅤMonika (DOKI DOKI LITERATURE CLUB)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@VArtfultrust](https://github.com/VArtfultrust)ㅤis The Tempest'sㅤEggchan (UNSTABLE SMP)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@OnlyYennvy](https://github.com/OnlyYennvy)ㅤis The Tempest'sㅤEvbo (PVP CIVILIZATION)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@T0R4X](https://github.com/T0R4X)ㅤis The Tempest'sㅤHerbert "Medic" Ludwig (TEAM FORTRESS 2)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@deepaffection](https://github.com/deepaffection)ㅤis The Tempest'sㅤKyle Broflovski (SOUTH PARK)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@eversleeping-town](https://github.com/eversleeping-town)ㅤis The Tempest'sㅤAda Wong (RESIDENT EVIL)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@themagerotsamongstthenightshades](https://github.com/themagerotsamongstthenightshades)ㅤis The Tempest'sㅤRegect (A REGECT)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@ANTlHERO](https://github.com/ANTlHERO)ㅤis The Tempest'sㅤGary Smith (BULLY)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Worm-Farmer](https://github.com/Worm-Farmer)ㅤis The Tempest'sㅤPink (AMONG US, RODAMRIX)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@kunslop](https://github.com/kunslop)ㅤis The Tempest'sㅤTsugino Haru (ZENO)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@ayatosbathwater](https://github.com/ayatosbathwater)ㅤis The Tempest'sㅤKamisato Ayato (GENSHIN IMPACT)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@neiify](https://github.com/neiify)ㅤis The Tempest'sㅤDiv_y (UNSERIOUS SMP)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@twottimey](https://github.com/twottimey)ㅤis The Tempest'sㅤTwo Time (FORSAKEN)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@08clipse](https://github.com/08clipse)ㅤis The Tempest'sㅤOsamu Dazai (BUNGO STRAY DOGS)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@dandypilled](https://github.com/dandypilled)ㅤis The Tempest'sㅤDandy (DANDY'S WORLD)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@fou11egacy](https://github.com/fou11egacy)ㅤis The Tempest'sㅤTartaglia (GENSHIN IMPACT)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@RE0-MIKAGE](https://github.com/RE0-MIKAGE)ㅤis The Tempest'sㅤReo Mikage (BLUELOCK)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@nereherrman](https://github.com/nereherrman)ㅤis The Tempest'sㅤGregor (LIMBUS COMPANY)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@symbiosisduo](https://github.com/symbiosisduo)ㅤis The Tempest'sㅤSpongs (UNSTABLE SMP)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@imonmyperiod](https://github.com/imonmyperiod)ㅤis The Tempest'sㅤMoe (A REGECT)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@AndroidSentByCyberLife](https://github.com/AndroidSentByCyberLife)ㅤis The Tempest'sㅤConnor (DETROIT: BECOME HUMAN)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@aeszz](https://github.com/aeszz)ㅤis The Tempest'sㅤClark Kent (DC UNIVERSE)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Blame-John](https://github.com/Blame-John)ㅤis The Tempest'sㅤJohn Shedletsky (ROBLOX)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@RottenPlate](https://github.com/RottenPlate)ㅤis The Tempest'sㅤWaxwell (DANDY'S WORLD)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@femboytiger](https://github.com/femboytiger)ㅤis The Tempest'sㅤSephiroth (FINAL FANTASY)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@deadlypoisonn](https://github.com/deadlypoisonn)ㅤis The Tempest'sㅤLord X (SONIC.EXE, SINISTER MINDS)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@AcxerSonnellino](https://github.com/AcxerSonnellino)ㅤis The Tempest'sㅤGuest 1337 (THE LAST GUEST, FORSAKEN)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@5orrows](https://github.com/5orrows)ㅤis The Tempest'sㅤIchigo Kurosaki (BLEACH)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@livingforest](https://github.com/livingforest)ㅤis The Tempest'sㅤHilda (HILDA)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@TrenchDogs](https://github.com/TrenchDogs)ㅤis The Tempest'sㅤCarrie (ERSATZ)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Boi-Ngo](https://github.com/Boi-Ngo)ㅤis The Tempest'sㅤBilly Hargrove (STRANGER THINGS)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@radiant-zero](https://github.com/radiant-zero)ㅤis The Tempest'sㅤScarlet (FRIDAY NIGHT FEVER: FRENZY)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@NERVOUSBREAKDANCE](https://github.com/NERVOUSBREAKDANCE)ㅤis The Tempest'sㅤPatrick Stump (FALL OUT BOY, BAND)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@mortisfication](https://github.com/mortisfication)ㅤis The Tempest'sㅤLightning McQueen (CARS)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@suntannedstepbrothr](https://github.com/suntannedstepbrothr)ㅤis The Tempest'sㅤBMO (ADVENTURE TIME)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@DocHale](https://github.com/DocHale)ㅤis The Tempest'sㅤLiwen (NINE SOLS: THE WAY OF LEAR)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@rydenyuri](https://github.com/rydenyuri)ㅤis The Tempest'sㅤRyan Ross (PANIC! AT THE DISCO, BAND)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Abaddon-Freeling](https://github.com/Abaddon-Freeling)ㅤis The Tempest'sㅤAbaddon (HAUNTED HOTEL)<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@z0mbiepup](https://github.com/z0mbiepup) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Yatta (DANDY'S WORLD)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@god-of-stories](https://github.com/god-of-stories) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Loki Laufeyson (MARVEL)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@angelicr0t](https://github.com/angelicr0t) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Nurse Harrow (DEADLOCK)}}$<br>
