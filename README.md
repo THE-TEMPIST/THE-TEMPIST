@@ -253,8 +253,7 @@ CHARACTER NOMINATIONS START HERE
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@inhumane-me](https://github.com/inhumane-me) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{KatieB (QSMP)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@mydigitalescape](https://github.com/mydigitalescape) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Robert Chase (HOUSE MD)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@FISHTHESEAS](https://github.com/FISHTHESEAS) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Dr. Monty (FISCH)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sicklyrose](https://github.com/sicklyrose) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ryūnosuke Akutagawa (BUNGO STRAY DOGS)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sicklyrose](https://github.com/sicklyrose) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ryūnosuke Akutagawa (BUNGO STRAY DOGS)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sicklyrose](https://github.com/sicklyrose) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Akutagawa Ryunosuke (BUNGO STRAY DOGS)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@PLANETLORDD](https://github.com/PLANETLORDD) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{PlanetLord (LIFESTEAL SMP)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@aliceinwonderIand](https://github.com/aliceinwonderIand) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Alice (ALICE IN WONDERLAND)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@hauntedarchives](https://github.com/hauntedarchives) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Brandon6875935 (BRANDON WORKS)}}$<br>
