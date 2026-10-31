@@ -260,7 +260,7 @@ CHARACTER NOMINATIONS START HERE
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@futuristic-maniac](https://github.com/futuristic-maniac) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Nagito Komaeda (DANGANRONPA)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@dxngerdays](https://github.com/dxngerdays) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Party Poison (MY CHEMICAL ROMANCE ALBUM, DANGER DAYS)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@xnosferatu](https://github.com/xnosferatu) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Nosferatu (FORSAKEN)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@ruffiest](https://github.com/ruffiest) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Swap!Spamton (DELTARUNE, AU BY @DIIONYSAN)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@ruffiest](https://github.com/ruffiest) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Swap!Spamton (DELTARUNE, AU BY DIIONYSAN)}}$<br>
 
 <!---
 
