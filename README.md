@@ -9,10 +9,12 @@
     * other than that, have fun and a good rest of your whatever ;^)
 </!-->
 
-[OCT 31ST]: UNFORTUNATELY THE COLOR FROM THE NOMINATIONS WILL HAVE TO BE REMOVED<br>
-DUE TO HOW GITHUB'S SIZE LIMITS WORK.ㅤㅤIF YOU'VE BEEN APPROVED ON THE ATABOOK BUT DON'T SEE YOURSELF HERE YET,<br>
-IT'S BECAUSE ADMIN IS WORKING ON EDITING ALL THE PRE-EXISTING NOMINATIONS.<br>
-APOLOGIES FOR THE INCONVENIENCE, ANY MISSING NOMINATIONS WILL BE RE-ADDED WITHIN THE NEXT FEW DAYS.<br>
+[OCT 31ST: TEMPORARY ANNOUNCEMENT, WILL REMOVE IN A FEW DAYS] <br>
+Unfortunately, the colored text from the nomination-segment of the readme had to be removed due to the code breaking (github's size limit is weird). <br>
+All nominations should be up to date. If you notice a mistake, or something that "broke" while the ADMIN was getting rid of hundreds of color-code,<br>
+please let me know through the atabook!<br>
+
+Apologies for the inconvenience and Happy Halloween! - NOLI<br>
 
 <p align="center">
 <img src="https://files.catbox.moe/ksubr3.png" width="1000" height="~" alt="HEADER"><br></p>
@@ -237,28 +239,36 @@ CHARACTER NOMINATIONS START HERE
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@DocHale](https://github.com/DocHale)ㅤis The Tempest'sㅤLiwen (NINE SOLS: THE WAY OF LEAR)<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@rydenyuri](https://github.com/rydenyuri)ㅤis The Tempest'sㅤRyan Ross (PANIC! AT THE DISCO, BAND)<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Abaddon-Freeling](https://github.com/Abaddon-Freeling)ㅤis The Tempest'sㅤAbaddon (HAUNTED HOTEL)<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@z0mbiepup](https://github.com/z0mbiepup) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Yatta (DANDY'S WORLD)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@god-of-stories](https://github.com/god-of-stories) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Loki Laufeyson (MARVEL)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@angelicr0t](https://github.com/angelicr0t) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Nurse Harrow (DEADLOCK)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@albaezdo](https://github.com/albaezdo) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Albedo (GENSHIN IMPACT)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@FEAST-OR-FAMINE](https://github.com/FEAST-OR-FAMINE) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Gavin Prescott (DAYBREAK, ROBLOX)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@travissamuelrapid](https://github.com/travissamuelrapid) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Travis Rapid (THE MOON I ROT BEHIND)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@spam-tune](https://github.com/spam-tune) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Mr. Ant Tenna (DELTARUNE)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@DucksEatBreads](https://github.com/DucksEatBreads) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{John Constantine (DC UNIVERSE)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@cashreggister](https://github.com/cashreggister) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Goomy (POKÉMON)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@itrap-2245](https://github.com/itrap-2245) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Furina (GENSHIN IMPACT)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@akpdox](https://github.com/akpdox) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Leon S. Kennedy (RESIDENT EVIL)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@D3V0TION](https://github.com/D3V0TION) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ivan (BAD THINGS)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@astrobarrage](https://github.com/astrobarrage) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Fluixon (ISH'S STATE SMP)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@V0RTlGERN](https://github.com/V0RTlGERN) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Oberon Vortigern (FATE/GRAND ORDER)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@lonesomestreet](https://github.com/lonesomestreet) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Graham Coxon (BLUR, BAND)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@starfollower](https://github.com/starfollower) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Rocket (PHIGHTING!)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@2099s](https://github.com/2099s) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Miguel O'Hara (SPIDERMAN: ACROSS THE SPIDERVERSE, MARVEL)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Jeverus](https://github.com/Jeverus) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Slasher (FORSAKEN)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@inhumane-me](https://github.com/inhumane-me) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{KatieB (QSMP)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@mydigitalescape](https://github.com/mydigitalescape) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Robert Chase (HOUSE MD)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@FISHTHESEAS](https://github.com/FISHTHESEAS) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Dr. Monty (FISCH)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@z0mbiepup](https://github.com/z0mbiepup)ㅤis The Tempest'sㅤYatta (DANDY'S WORLD)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@god-of-stories](https://github.com/god-of-stories)ㅤis The Tempest'sㅤLoki Laufeyson (MARVEL)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@angelicr0t](https://github.com/angelicr0t)ㅤis The Tempest'sㅤNurse Harrow (DEADLOCK)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@albaezdo](https://github.com/albaezdo)ㅤis The Tempest'sㅤAlbedo (GENSHIN IMPACT)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@FEAST-OR-FAMINE](https://github.com/FEAST-OR-FAMINE)ㅤis The Tempest'sㅤGavin Prescott (DAYBREAK)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@travissamuelrapid](https://github.com/travissamuelrapid)ㅤis The Tempest'sㅤTravis Rapid (THE MOON I ROT BEHIND)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@spam-tune](https://github.com/spam-tune)ㅤis The Tempest'sㅤMr. Ant Tenna (DELTARUNE)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@DucksEatBreads](https://github.com/DucksEatBreads)ㅤis The Tempest'sㅤJohn Constantine (DC UNIVERSE)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@cashreggister](https://github.com/cashreggister)ㅤis The Tempest'sㅤGoomy (POKÉMON)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@itrap-2245](https://github.com/itrap-2245)ㅤis The Tempest'sㅤFurina (GENSHIN IMPACT)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@akpdox](https://github.com/akpdox)ㅤis The Tempest'sㅤLeon S. Kennedy (RESIDENT EVIL)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@D3V0TION](https://github.com/D3V0TION)ㅤis The Tempest'sㅤIvan (BAD THINGS)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@astrobarrage](https://github.com/astrobarrage)ㅤis The Tempest'sㅤFluixon (ISH'S STATE SMP)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@V0RTlGERN](https://github.com/V0RTlGERN)ㅤis The Tempest'sㅤOberon Vortigern (FATE/GRAND ORDER)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@lonesomestreet](https://github.com/lonesomestreet)ㅤis The Tempest'sㅤGraham Coxon (BLUR, BAND)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@starfollower](https://github.com/starfollower)ㅤis The Tempest'sㅤRocket (PHIGHTING!)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@2099s](https://github.com/2099s)ㅤis The Tempest'sㅤMiguel O'Hara (SPIDERMAN: ACROSS THE SPIDERVERSE, MARVEL)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@Jeverus](https://github.com/Jeverus)ㅤis The Tempest'sㅤSlasher (FORSAKEN)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@inhumane-me](https://github.com/inhumane-me)ㅤis The Tempest'sㅤKatieB (QSMP)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@mydigitalescape](https://github.com/mydigitalescape)ㅤis The Tempest'sㅤRobert Chase (HOUSE MD)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@FISHTHESEAS](https://github.com/FISHTHESEAS)ㅤis The Tempest'sㅤDr. Monty (FISCH)<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sicklyrose](https://github.com/sicklyrose)ㅤis The Tempest'sㅤRyūnosuke Akutagawa (BUNGO STRAY DOGS)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@PLANETLORDD](https://github.com/PLANETLORDD)ㅤis The Tempest'sㅤPlanetLord (LIFESTEAL SMP)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@aliceinwonderIand](https://github.com/aliceinwonderIand)ㅤis The Tempest'sㅤAlice (ALICE IN WONDERLAND)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@hauntedarchives](https://github.com/hauntedarchives)ㅤis The Tempest'sㅤBrandon6875935 (BRANDON WORKS)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@futuristic-maniac](https://github.com/futuristic-maniac)ㅤis The Tempest'sㅤNagito Komaeda (DANGANRONPA)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@dxngerdays](https://github.com/dxngerdays)ㅤis The Tempest'sㅤParty Poison (MY CHEMICAL ROMANCE ALBUM, DANGER DAYS)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@xnosferatu](https://github.com/xnosferatu)ㅤis The Tempest'sㅤNosferatu (FORSAKEN)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@ruffiest](https://github.com/ruffiest)ㅤis The Tempest'sㅤSwap!Spamton (DELTARUNE, AU BY @DIIONYSAN)<br>
+
 <!---
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@username](https://github.com/link)ㅤis The Tempest'sㅤCHARACTER (SOURCE)<br>
 </!-->
