@@ -98,6 +98,8 @@ $\color{#858074}{\textsf{PRETTIEST GITHUBS}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@l0veis4ika](https://github.com/l0veis4ika)ㅤ[@sea-sick](https://github.com/sea-sick)ㅤ[@RottenPlate](https://github.com/RottenPlate)ㅤ[@itrap-2245](https://github.com/itrap-2245)ㅤ[@5metersapart](https://github.com/5metersapart)ㅤ[@weepinglilies](https://github.com/weepinglilies)<br>
 
 ㅤ<br>
+ㅤ<br>
+ㅤ<br>
 <!---
 
 CHARACTER NOMINATIONS START HERE
