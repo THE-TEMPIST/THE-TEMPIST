@@ -10,10 +10,8 @@
 </!-->
 
 [OCT 31ST: TEMPORARY ANNOUNCEMENT, WILL REMOVE IN A FEW DAYS] <br>
-Unfortunately, the colored text from the nomination-segment of the readme had to be removed<br>
-due to the code breaking (github's size limit is weird). All nominations should be up to date.<br>
-If you notice a mistake, or something that "broke" while the ADMIN was getting rid of
-hundreds of color-code lines, please let me know through the atabook!<br>
+Unfortunately, the colored text from the nomination-segment of the readme had to be removed due to the code breaking (github's size limit is weird).
+All nominations should be up to date, but if you notice a mistake, or something that "broke" while the ADMIN was getting rid of a billion strings of color-code, please inform me through the atabook!<br>
 
 Apologies for the inconvenience and Happy Halloween!<br>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⎯ NOLI<br>
