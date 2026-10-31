@@ -9,10 +9,9 @@
     * other than that, have fun and a good rest of your whatever ;^)
 </!-->
 
-[OCT 31ST]: FOR SOME REASON ADDING ANY FURTHER CODE/NOMINATIONS IS CAUSING THE CODE TO BREAK DOWN.<br>
-ADMIN IS INVESTIGATING AND WORKING TOWARDS FIXING THE ISSUE.<br>
-IF YOU'VE BEEN APPROVED ON THE ATABOOK BUT DON'T SEE YOURSELF HERE YET, THAT'S WHY.<br>
-APOLOGIES FOR THE INCONVENIENCE.<br>
+[OCT 31ST]: UNFORTUNATELY THE COLOR FROM THE NOMINATIONS WILL HAVE TO BE REMOVED DUE TO HOW "SIZE LIMITS" WORK ON GITHUB.<br>
+IF YOU'VE BEEN APPROVED ON THE ATABOOK BUT DON'T SEE YOURSELF HERE YET, IT'S BECAUSE ADMIN IS WORKING ON EDITING ALL THE PRE-EXISTING NOMINATIONS.<br>
+APOLOGIES FOR THE INCONVENIENCE, ANY MISSING NOMINATIONS WILL BE RE-ADDED WITHIN THE NEXT FEW DAYS.<br>
 
 <p align="center">
 <img src="https://files.catbox.moe/ksubr3.png" width="1000" height="~" alt="HEADER"><br></p>
@@ -105,9 +104,9 @@ CHARACTER NOMINATIONS START HERE
 </!-->
 
 ㅤ<img src="https://files.catbox.moe/79fwku.png" width="~" height="50" alt="CHARACTERS OF THE TEMPEST"><br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Noli (ROBLOX, ANY/ALL ITERATIONS)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@GET-H4XX3D](https://github.com/GET-H4XX3D) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{007n7 (ROBLOX, ANY/ALL ITERATIONS)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@RUST-010](https://github.com/RUST-010) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Elliot (WORK AT A PIZZA PLACE/FORSAKEN)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@UNLEASH-NOLI](https://github.com/UNLEASH-NOLI)ㅤis The Tempest'sㅤNoli (ROBLOX, ANY/ALL ITERATIONS)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@GET-H4XX3D](https://github.com/GET-H4XX3D)ㅤis The Tempest'sㅤ007n7 (ROBLOX, ANY/ALL ITERATIONS)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@RUST-010](https://github.com/RUST-010)ㅤis The Tempest'sㅤElliot (WORK AT A PIZZA PLACE/FORSAKEN)<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@hollow-inkwell](https://github.com/hollow-inkwell) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ink Sans ([BLANK]TALE, UNDERTALE AU)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@goduprising](https://github.com/goduprising) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{iTrapped (ROBLOX, ANY/ALL ITERATIONS)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@call-the-d0ctor](https://github.com/call-the-d0ctor) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Venomshank (PHIGHTING!)}}$<br>
@@ -258,12 +257,11 @@ CHARACTER NOMINATIONS START HERE
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@inhumane-me](https://github.com/inhumane-me) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{KatieB (QSMP)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@mydigitalescape](https://github.com/mydigitalescape) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Robert Chase (HOUSE MD)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@FISHTHESEAS](https://github.com/FISHTHESEAS) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Dr. Monty (FISCH)}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sicklyrose](https://github.com/sicklyrose) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ryūnosuke Akutagawa (BUNGO STRAY DOGS)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sicklyrose](https://github.com/sicklyrose)ㅤis The Tempest'sㅤRyūnosuke Akutagawa (BUNGO STRAY DOGS)<br>
 <!---
 TESTING
 </!-->
 [@UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) is the Tempest's TESTING DUMMY (IGNORE THIS)<br>
-[@UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) $\color{#858074}{\textsf{is The Tempest's}}$ $\color{#CBC8C0}{\textsf{TESTING DUMMY 2 (IGNORE THIS)}}$<br>
 <!---
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@username](https://github.com/link) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{CHARACTER (SOURCE)}}$<br>
 </!-->
