@@ -59,7 +59,7 @@ GUIDELINES
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Don't spam the same nominations (you may nominate multiple accounts).}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Users can be nominated for multiple categories, with the exception of characters; You may only nominate one character per account.}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Do not use fonts. Nomination requests involving the usage of custom/aesthetic fonts are forbidden and will be ignored.}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Hyper-specific characters/AUs (ex. "[Character A] before [Canon Event]") will be edited to just "[Character A]"}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Hyperspecific character variants (ex. "[Character A] before [Canon Event]") will be edited to simply "[Character A]".}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Username changes or removals can be requested through the atabook; Simply fill any "REQUIRED" fields as "SKIP".}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{False reports will be ignored.}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ $\color{#858074}{\textsf{Please do not copy my layout or the general idea behind how I approach moderating this nomination account!}}$<br>
@@ -79,18 +79,18 @@ NOMINATIONS START HERE
 ㅤ<img src="https://files.catbox.moe/bgl7xy.png" width="~" height="50" alt="NO[LI]MINATIONS"><br>
 ㅤ $\color{#858074}{\textsf{POPULAR PLAYERSㅤ(200+ FOLLOWERS)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)ㅤ[@scottishtwinengines](https://github.com/scottishtwinengines)ㅤ[@raddogs](https://github.com/raddogs)<br>
-ㅤㅤㅤ [@AcxerSonnellino](https://github.com/AcxerSonnellino)ㅤ[@5orrows](https://github.com/5orrows)ㅤ[@Bigguykoi](https://github.com/Bigguykoi)ㅤ[@Worm-Farmer](https://github.com/Worm-Farmer)<br>
+ㅤㅤㅤ [@AcxerSonnellino](https://github.com/AcxerSonnellino)ㅤ[@5orrows](https://github.com/5orrows)ㅤ[@Bigguykoi](https://github.com/Bigguykoi)ㅤ[@Worm-Farmer](https://github.com/Worm-Farmer)ㅤ[@weepinglilies](https://github.com/weepinglilies)<br>
 
 ㅤ<br>
 
 ㅤ $\color{#858074}{\textsf{CHRONICALLY ONLINE PLAYERSㅤ(AKA. ONLINE 24/7)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@ringodemon](https://github.com/ringodemon)ㅤ[@nocturnuII](https://github.com/nocturnuII)<br>
-ㅤㅤㅤ [@cyb3rzparadise](https://github.com/cyb3rzparadise)ㅤ[@h6xoi](https://github.com/h6xoi)ㅤ[@77crescentmoon](https://github.com/77crescentmoon)ㅤ[@BetrayedNotes](https://github.com/BetrayedNotes)<br>
+ㅤㅤㅤ [@cyb3rzparadise](https://github.com/cyb3rzparadise)ㅤ[@h6xoi](https://github.com/h6xoi)ㅤ[@77crescentmoon](https://github.com/77crescentmoon)ㅤ[@BetrayedNotes](https://github.com/BetrayedNotes)ㅤ[@weepinglilies](https://github.com/weepinglilies)<br>
 
 ㅤ<br>
 
 ㅤ $\color{#858074}{\textsf{PRETTIEST GITHUBS}}$<br>
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@l0veis4ika](https://github.com/l0veis4ika)ㅤ[@sea-sick](https://github.com/sea-sick)ㅤ[@RottenPlate](https://github.com/RottenPlate)ㅤ[@itrap-2245](https://github.com/itrap-2245)<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@l0veis4ika](https://github.com/l0veis4ika)ㅤ[@sea-sick](https://github.com/sea-sick)ㅤ[@RottenPlate](https://github.com/RottenPlate)ㅤ[@itrap-2245](https://github.com/itrap-2245)ㅤ[@5metersapart](https://github.com/5metersapart)ㅤ[@weepinglilies](https://github.com/weepinglilies)<br>
 
 ㅤ<br>
 <!---
@@ -253,6 +253,14 @@ CHARACTER NOMINATIONS START HERE
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@inhumane-me](https://github.com/inhumane-me) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{KatieB (QSMP)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@mydigitalescape](https://github.com/mydigitalescape) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Robert Chase (HOUSE MD)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@FISHTHESEAS](https://github.com/FISHTHESEAS) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Dr. Monty (FISCH)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sicklyrose](https://github.com/sicklyrose) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ryūnosuke Akutagawa (BUNGO STRAY DOGS)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@PLANETLORDD](https://github.com/PLANETLORDD) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{PlanetLord (LIFESTEAL SMP)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@aliceinwonderIand](https://github.com/aliceinwonderIand) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Alice (ALICE IN WONDERLAND)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@hauntedarchives](https://github.com/hauntedarchives) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Brandon6875935 (BRANDON WORKS)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@futuristic-maniac](https://github.com/futuristic-maniac) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Nagito Komaeda (DANGANRONPA)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@dxngerdays](https://github.com/dxngerdays) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Party Poison (MY CHEMICAL ROMANCE ALBUM, DANGER DAYS)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@xnosferatu](https://github.com/xnosferatu) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Nosferatu (FORSAKEN)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@ruffiest](https://github.com/ruffiest) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Swap!Spamton (DELTARUNE, AU BY @DIIONYSAN)}}$<br>
 
 <!---
 
