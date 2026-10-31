@@ -13,8 +13,10 @@
 Unfortunately, the colored text from the nomination-segment of the readme had to be removed due to the code breaking (github's size limit is weird).
 All nominations should be up to date, but if you notice a mistake, or something that "broke" while the ADMIN was getting rid of a billion strings of color-code, please inform me through the atabook!<br>
 
-Apologies for the inconvenience and Happy Halloween!<br>
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⎯ NOLI<br>
+On a different note, I've decided to change around the banners to better match the theming, and added a Certain Someone to watch over the Nominations... Hope you like it!<br>
+
+Apologies for any pontential inconveniences and Happy Halloween!<br>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⎯ NOLI<br>
 
 <p align="center">
 <img src="https://files.catbox.moe/h20dz6.png" width="~" height="~" alt="HEADER"><br></p>
@@ -83,12 +85,12 @@ NOMINATIONS START HERE
 
 </!-->
 
+<img src="https://files.catbox.moe/cm0gzq.png" width="500" height="~" align="right" alt="NOLI"><br></p>
+
 ㅤ<img src="https://files.catbox.moe/bgl7xy.png" width="~" height="50" alt="NO[LI]MINATIONS"><br>
 ㅤ $\color{#858074}{\textsf{POPULAR PLAYERSㅤ(200+ FOLLOWERS)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)ㅤ[@scottishtwinengines](https://github.com/scottishtwinengines)ㅤ[@raddogs](https://github.com/raddogs)<br>
 ㅤㅤㅤ [@AcxerSonnellino](https://github.com/AcxerSonnellino)ㅤ[@5orrows](https://github.com/5orrows)ㅤ[@Bigguykoi](https://github.com/Bigguykoi)ㅤ[@Worm-Farmer](https://github.com/Worm-Farmer)ㅤ[@weepinglilies](https://github.com/weepinglilies)<br>
-
-ㅤ<br>
 
 ㅤ $\color{#858074}{\textsf{CHRONICALLY ONLINE PLAYERSㅤ(AKA. ONLINE 24/7)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@ringodemon](https://github.com/ringodemon)ㅤ[@nocturnuII](https://github.com/nocturnuII)<br>
