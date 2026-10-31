@@ -77,7 +77,6 @@ $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Please do not cop
 
 <p align="center">
 <img src="https://files.catbox.moe/olxmna.png" width="~" height="~" alt="BANNER 2"><br></p>
-ㅤ<br>
 
 <!---
 
