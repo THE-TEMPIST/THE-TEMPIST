@@ -259,10 +259,12 @@ CHARACTER NOMINATIONS START HERE
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@mydigitalescape](https://github.com/mydigitalescape) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Robert Chase (HOUSE MD)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@FISHTHESEAS](https://github.com/FISHTHESEAS) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Dr. Monty (FISCH)}}$<br>
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@sicklyrose](https://github.com/sicklyrose) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Ryūnosuke Akutagawa (BUNGO STRAY DOGS)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@mydigitalescape](https://github.com/mydigitalescape) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Robert Chase (HOUSE MD)}}$<br>
+
 <!---
 TESTING
 </!-->
-ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@UNLEASH-NOLI](https://github.com/UNLEASH-NOLI) $\color{#858074}{\textsf{is The Tempest's}}$ $\color{#CBC8C0}{\textsf{TESTING DUMMY (IGNORE THIS)}}$<br>
+ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@UNLEASH-NOLI](https://github.com/lonesomestreet) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{Graham Coxon (BLUR, BAND)}}$<br>
 <!---
 ㅤ $\color{#CBC8C0}{\textsf{✦ㅤ}}$ [@username](https://github.com/link) $\color{#858074}{\textsf{ㅤis The Tempest'sㅤ}}$ $\color{#CBC8C0}{\textsf{CHARACTER (SOURCE)}}$<br>
 </!-->
