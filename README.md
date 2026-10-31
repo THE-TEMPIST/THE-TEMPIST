@@ -17,7 +17,7 @@ Apologies for the inconvenience and Happy Halloween!<br>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⎯ NOLI<br>
 
 <p align="center">
-<img src="https://files.catbox.moe/ksubr3.png" width="1000" height="~" alt="HEADER"><br></p>
+<img src="https://files.catbox.moe/h20dz6.png" width="~" height="~" alt="HEADER"><br></p>
 
 ㅤ<table border="0" align="left">
     <tr align="center"></tr>
@@ -74,7 +74,7 @@ GUIDELINES
 ㅤ<br>
 
 <p align="center">
-<img src="https://files.catbox.moe/u8s34q.png" width="1000" height="~" alt="BANNER 2"><br></p>
+<img src="https://files.catbox.moe/olxmna.png" width="~" height="~" alt="BANNER 2"><br></p>
 ㅤ<br>
 
 <!---
