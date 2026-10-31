@@ -9,6 +9,11 @@
     * other than that, have fun and a good rest of your whatever ;^)
 </!-->
 
+[OCT 31ST]: FOR SOME REASON ADDING ANY FURTHER CODE/NOMINATIONS IS CAUSING THE CODE TO BREAK DOWN.<br>
+ADMIN IS INVESTIGATING AND WORKING TOWARDS FIXING THE ISSUE.<br>
+IF YOU'VE BEEN APPROVED ON THE ATABOOK BUT DON'T SEE YOURSELF HERE YET, THAT'S WHY.<br>
+APOLOGIES FOR THE INCONVENIENCE.<br>
+
 <p align="center">
 <img src="https://files.catbox.moe/ksubr3.png" width="1000" height="~" alt="HEADER"><br></p>
 
