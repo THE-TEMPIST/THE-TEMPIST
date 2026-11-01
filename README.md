@@ -166,7 +166,7 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@ringodemon](https://github.com/ringodemon)ㅤis The Tempest'sㅤEdward Elricㅤ(*FULLMETAL ALCHEMIST*)<br>
 ㅤ✦ㅤ[@BetrayedNotes](https://github.com/BetrayedNotes)ㅤis The Tempest'sㅤ1x1x1x1ㅤ(*FORSAKEN*)<br>
 ㅤ✦ㅤ[@freakedoutboy](https://github.com/freakedoutboy)ㅤis The Tempest'sㅤMichelangeloㅤ(*TEENAGE MUTANT NINJA TURTLES 2012*)<br>
-ㅤ✦ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤis The Tempest'sㅤChanceㅤ(*FORSAKEN)}}$<br>
+ㅤ✦ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤis The Tempest'sㅤChanceㅤ(*FORSAKEN*)<br>
 ㅤ✦ㅤ[@himbugglr](https://github.com/himbugglr)ㅤis The Tempest'sㅤFezㅤ(*PONYTOWN*)<br>
 ㅤ✦ㅤ[@kittyypop](https://github.com/kittyypop)ㅤis The Tempest'sㅤEunoiaㅤ(*FROZEN SOUL/DREAM GAME*)<br>
 ㅤ✦ㅤ[@nocturnuII](https://github.com/nocturnuII)ㅤis The Tempest'sㅤGrianㅤ(*HERMITCRAFT*)<br>
@@ -199,7 +199,7 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@bakingdisaster](https://github.com/bakingdisaster)ㅤis The Tempest'sㅤSproutㅤ(*DANDY'S WORLD*)<br>
 ㅤ✦ㅤ[@keii-padzz](https://github.com/keii-padzz)ㅤis The Tempest'sㅤMePadㅤ(*INANIMATE INSANITY*)<br>
 ㅤ✦ㅤ[@REDD0ONS](https://github.com/REDD0ONS)ㅤis The Tempest'sㅤReddoonsㅤ(*LIFESTEAL SMP*)<br>
-ㅤ✦ㅤ[@Medspace-kiss](https://github.com/Medspace-kiss)ㅤis The Tempest'sㅤMedkitㅤ(*PHIGHTING!<br>
+ㅤ✦ㅤ[@Medspace-kiss](https://github.com/Medspace-kiss)ㅤis The Tempest'sㅤMedkitㅤ(*PHIGHTING!*)<br>
 ㅤ✦ㅤ[@Blossoming-Truth](https://github.com/Blossoming-Truth)ㅤis The Tempest'sㅤMonikaㅤ(*DOKI DOKI LITERATURE CLUB*)<br>
 ㅤ✦ㅤ[@VArtfultrust](https://github.com/VArtfultrust)ㅤis The Tempest'sㅤEggchanㅤ(*UNSTABLE SMP*)<br>
 ㅤ✦ㅤ[@OnlyYennvy](https://github.com/OnlyYennvy)ㅤis The Tempest'sㅤEvboㅤ(*PVP CIVILIZATION*)<br>
