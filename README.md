@@ -271,7 +271,7 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@Yawnying](https://github.com/Yawnying)ㅤis The Tempest'sㅤTechnoblade (DREAM SMP, HYPIXEL, POTATO WAR)<br>
 ㅤ✦ㅤ[@FORENSIC-AUTOPSY](https://github.com/FORENSIC-AUTOPSY)ㅤis The Tempest'sㅤBoothill (HONKAI: STAR RAIL)<br>
 ㅤ✦ㅤ[@sasukyo](https://github.com/sasukyo)ㅤis The Tempest'sㅤSasuke Uchiha (NARUTO)<br>
-ㅤ✦ㅤ[@chiyokoz](https://github.com/chiyokoz)ㅤis The Tempest'sㅤVenti (GENSHIN IMPACT)<br>
+ㅤ✦ㅤ[@chiyokoz](https://github.com/chiyokoz)ㅤis The Tempest'sㅤVenti (*GENSHIN IMPACT*)<br>
 
 <!---
 ㅤ✦ㅤ[@username](https://github.com/link)ㅤis The Tempest'sㅤCHARACTER (SOURCE)<br>
