@@ -88,7 +88,7 @@ NOMINATIONS START HERE
 <img src="https://files.catbox.moe/bgl7xy.png" width="~" height="50" alt="NO[LI]MINATIONS"><br>
 
 $\color{#858074}{\textsf{POPULAR PLAYERSㅤ(200+ FOLLOWERS)}}$<br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)ㅤ[@scottishtwinengines](https://github.com/scottishtwinengines)ㅤ[@raddogs](https://github.com/raddogs)ㅤ[@AcxerSonnellino](https://github.com/AcxerSonnellino)ㅤ[@5orrows](https://github.com/5orrows)ㅤ[@Bigguykoi](https://github.com/Bigguykoi)ㅤ[@Worm-Farmer](https://github.com/Worm-Farmer)ㅤ[@weepinglilies](https://github.com/weepinglilies)<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)ㅤ[@scottishtwinengines](https://github.com/scottishtwinengines)ㅤ[@raddogs](https://github.com/raddogs)ㅤ[@AcxerSonnellino](https://github.com/AcxerSonnellino)ㅤ[@5orrows](https://github.com/5orrows)ㅤ[@Bigguykoi](https://github.com/Bigguykoi)ㅤ[@Worm-Farmer](https://github.com/Worm-Farmer)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@Chemicalshot](https://github.com/Chemicalshot)<br>
 
 $\color{#858074}{\textsf{CHRONICALLY ONLINE PLAYERSㅤ(AKA. ONLINE 24/7)}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@ringodemon](https://github.com/ringodemon)ㅤ[@nocturnuII](https://github.com/nocturnuII)ㅤ[@cyb3rzparadise](https://github.com/cyb3rzparadise)ㅤ[@h6xoi](https://github.com/h6xoi)ㅤ[@77crescentmoon](https://github.com/77crescentmoon)ㅤ[@BetrayedNotes](https://github.com/BetrayedNotes)ㅤ[@weepinglilies](https://github.com/weepinglilies)<br>
@@ -267,7 +267,11 @@ $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@futuristic-maniac](https://github.com/fu
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@dxngerdays](https://github.com/dxngerdays)ㅤis The Tempest'sㅤParty Poison (MY CHEMICAL ROMANCE ALBUM, DANGER DAYS)<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@xnosferatu](https://github.com/xnosferatu)ㅤis The Tempest'sㅤNosferatu (FORSAKEN)<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@ruffiest](https://github.com/ruffiest)ㅤis The Tempest'sㅤSwap!Spamton (DELTARUNE, AU BY @DIIONYSAN)<br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@pirate-freak](https://github.com/link)ㅤis The Tempest'sㅤJack Sparrow (PIRATES OF THE CARIBBEAN)<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@pirate-freak](https://github.com/pirate-freak)ㅤis The Tempest'sㅤJack Sparrow (PIRATES OF THE CARIBBEAN)<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@Yawnying](https://github.com/Yawnying)ㅤis The Tempest'sㅤTechnoblade (DREAM SMP, HYPIXEL, POTATO WAR)<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@FORENSIC-AUTOPSY](https://github.com/FORENSIC-AUTOPSY)ㅤis The Tempest'sㅤBoothill (HONKAI: STAR RAIL)<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@sasukyo](https://github.com/sasukyo)ㅤis The Tempest'sㅤSasuke Uchiha (NARUTO)<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@chiyokoz](https://github.com/chiyokoz)ㅤis The Tempest'sㅤVenti (GENSHIN IMPACT)<br>
 
 <!---
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@username](https://github.com/link)ㅤis The Tempest'sㅤCHARACTER (SOURCE)<br>
