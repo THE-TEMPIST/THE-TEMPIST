@@ -70,7 +70,7 @@ $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Users can be nomi
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Hyperspecific character variants (ex. "[Character A] before [Canon Event]") will be edited to simply "[Character A]".}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Username changes or removals can be requested through the atabook; Simply fill any "REQUIRED" fields as "SKIP".}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{False reports will be ignored.}}$<br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{The Tempest asks all visitors not to use fonts or typing quirks of any kind.}}$<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{The Tempest asks all of its visitors not to use fonts or typing quirks of any kind.}}$<br>
 ㅤㅤㅤ $\color{#858074}{\textsf{Any and all Nomination requests involving the usage of aesthetic fonts or typing quirks are forbidden and will be ignored.}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Please do not copy my layout or the general idea behind how I approach moderating this Nomination account!}}$<br>
 ㅤㅤㅤ $\color{#858074}{\textsf{My whole intention is for this to seem authentic and like a personalized approach at Nomination accounts; Be creative!}}$<br>
