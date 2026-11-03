@@ -67,7 +67,7 @@ $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{All character Nom
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Stay civil, don't cry if a character you wanted has already been claimed.}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Don't spam the same Nominations (you may nominate multiple accounts).}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Users can be nominated for multiple categories, with the exception of characters; You may only nominate one character per account.}}$<br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Do not use fonts. Nomination requests involving the usage of custom/aesthetic fonts are forbidden and will be ignored.}}$<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Do not use fonts or typing quirks. Nomination requests involving the usage of custom/aesthetic fonts and typing quirks are forbidden and will be ignored.}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Hyperspecific character variants (ex. "[Character A] before [Canon Event]") will be edited to simply "[Character A]".}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Username changes or removals can be requested through the atabook; Simply fill any "REQUIRED" fields as "SKIP".}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{False reports will be ignored.}}$<br>
