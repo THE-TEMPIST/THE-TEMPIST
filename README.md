@@ -9,14 +9,13 @@
     * other than that, have fun and a good rest of your whatever ;^)
 </!-->
 
-[OCT 31ST: TEMPORARY ANNOUNCEMENT, WILL REMOVE IN A FEW DAYS] <br>
-Alas, the colored text from the Nomination-segment of the readme had to be removed due to the code breaking (github's size limit is weird).
-All Nominations should be up to date, but if you notice a mistake, or something that "broke" while the ADMIN was getting rid of a billion strings of color-code, please inform me through the atabook!<br>
+<!---
+[DATE: TEMPORARY ANNOUNCEMENT, WILL REMOVE IN A FEW DAYS] <br>
+announcement placeholder format, any relevant information will be posted here<br>
 
-On a different note, I've decided to change around the banners to better match the theming, and added a Certain Someone to watch over the Nominations... Hope you like it!<br>
-
-Apologies for any pontential inconveniences and Happy Halloween!<br>
+signoff<br>
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⎯ NOLI<br>
+</!-->
 
 <p align="center">
 <img src="https://files.catbox.moe/h20dz6.png" width="~" height="~" alt="HEADER"><br></p>
