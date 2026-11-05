@@ -88,13 +88,13 @@ NOMINATIONS START HERE
 <img src="https://files.catbox.moe/bgl7xy.png" width="~" height="50" alt="NO[LI]MINATIONS"><br>
 
 $\color{#858074}{\textsf{POPULAR PLAYERSㅤ(200+ FOLLOWERS)}}$<br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)ㅤ[@scottishtwinengines](https://github.com/scottishtwinengines)ㅤ[@raddogs](https://github.com/raddogs)ㅤ[@AcxerSonnellino](https://github.com/AcxerSonnellino)ㅤ[@5orrows](https://github.com/5orrows)ㅤ[@Bigguykoi](https://github.com/Bigguykoi)ㅤ[@Worm-Farmer](https://github.com/Worm-Farmer)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@Chemicalshot](https://github.com/Chemicalshot)ㅤ[@burningsins](https://github.com/burningsins)ㅤ[@qnakin](https://github.com/qnakin)<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)ㅤ[@scottishtwinengines](https://github.com/scottishtwinengines)ㅤ[@raddogs](https://github.com/raddogs)ㅤ[@AcxerSonnellino](https://github.com/AcxerSonnellino)ㅤ[@5orrows](https://github.com/5orrows)ㅤ[@Bigguykoi](https://github.com/Bigguykoi)ㅤ[@Worm-Farmer](https://github.com/Worm-Farmer)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@Chemicalshot](https://github.com/Chemicalshot)ㅤ[@burningsins](https://github.com/burningsins)ㅤ[@qnakin](https://github.com/qnakin)ㅤ[@star-employee](https://github.com/star-employee)ㅤ[@kniferrific](https://github.com/kniferrific)ㅤ[@newestalbum](https://github.com/newestalbum)<br>
 
 $\color{#858074}{\textsf{CHRONICALLY ONLINE PLAYERSㅤ(AKA. ONLINE 24/7)}}$<br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@ringodemon](https://github.com/ringodemon)ㅤ[@nocturnuII](https://github.com/nocturnuII)ㅤ[@cyb3rzparadise](https://github.com/cyb3rzparadise)ㅤ[@h6xoi](https://github.com/h6xoi)ㅤ[@77crescentmoon](https://github.com/77crescentmoon)ㅤ[@BetrayedNotes](https://github.com/BetrayedNotes)ㅤ[@weepinglilies](https://github.com/weepinglilies)<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@ringodemon](https://github.com/ringodemon)ㅤ[@nocturnuII](https://github.com/nocturnuII)ㅤ[@cyb3rzparadise](https://github.com/cyb3rzparadise)ㅤ[@h6xoi](https://github.com/h6xoi)ㅤ[@77crescentmoon](https://github.com/77crescentmoon)ㅤ[@BetrayedNotes](https://github.com/BetrayedNotes)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@star-employee](https://github.com/star-employee)ㅤ[@crazyblcx](https://github.com/crazyblcx)<br>
 
 $\color{#858074}{\textsf{PRETTIEST GITHUBS}}$<br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@l0veis4ika](https://github.com/l0veis4ika)ㅤ[@sea-sick](https://github.com/sea-sick)ㅤ[@RottenPlate](https://github.com/RottenPlate)ㅤ[@itrap-2245](https://github.com/itrap-2245)ㅤ[@5metersapart](https://github.com/5metersapart)ㅤ[@weepinglilies](https://github.com/weepinglilies)<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@l0veis4ika](https://github.com/l0veis4ika)ㅤ[@sea-sick](https://github.com/sea-sick)ㅤ[@RottenPlate](https://github.com/RottenPlate)ㅤ[@itrap-2245](https://github.com/itrap-2245)ㅤ[@5metersapart](https://github.com/5metersapart)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@pastelcloudyy](https://github.com/pastellcloudyy)<br>
 
 ㅤ<br>
 ㅤ<br>
@@ -277,8 +277,21 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@MissingTextuer](https://github.com/MissingTextuer)ㅤis The Tempest'sㅤFangsworthㅤ(*REGRETEVATOR*)<br>
 ㅤ✦ㅤ[@TRUE-BIOGRAFT](https://github.com/TRUE-BIOGRAFT)ㅤis The Tempest'sㅤBiograftㅤ(*PHIGHTING!*)<br>
 ㅤ✦ㅤ[@deanwnchstr](https://github.com/deanwnchstr)ㅤis The Tempest'sㅤDean Winchesterㅤ(*SUPERNATURAL*)<br>
+ㅤ✦ㅤ[@qnakin](https://github.com/qnakin)ㅤis The Tempest'sㅤAnakin Starwalkerㅤ(*STAR WARS*)<br>
 ㅤ✦ㅤ[@saezushi](https://github.com/saezushi)ㅤis The Tempest'sㅤWandererㅤ(*GENSHIN IMPACT*)<br>
 ㅤ✦ㅤ[@ReplicaOfAffection](https://github.com/ReplicaOfAffection)ㅤis The Tempest'sㅤFukuaㅤ(*SKULLGIRLS*)<br>
+ㅤ✦ㅤ[@naturalharmoniaa](https://github.com/naturalharmoniaa)ㅤis The Tempest'sㅤN/Natural Harmonia Gropiusㅤ(*POKÉMON*)<br>
+ㅤ✦ㅤ[@PlanticNurii](https://github.com/PlanticNurii)ㅤis The Tempest'sㅤAndrewㅤ(*BAD THINGS*)<br>
+ㅤ✦ㅤ[@JJesters](https://github.com/JJesters)ㅤis The Tempest'sㅤSundayㅤ(*HONKAI: STAR RAIL*)<br>
+ㅤ✦ㅤ[@star-employee](https://github.com/star-employee)ㅤis The Tempest'sㅤCroissant Cookieㅤ(*COOKIERUN*)<br>
+ㅤ✦ㅤ[@pastellcloudyy](https://github.com/pastellcloudyy)ㅤis The Tempest'sㅤPretenceㅤ(*DIE OF DEATH*)<br>
+ㅤ✦ㅤ[@sharpfrostcherv](https://github.com/sharpfrostcherv)ㅤis The Tempest'sㅤCamryn Rapidㅤ(*THE MOON I ROT BEHIND*)<br>
+ㅤ✦ㅤ[@crazyblcx](https://github.com/crazyblcx)ㅤis The Tempest'sㅤCrazybloxㅤ(*FLOOD ESCAPE 2*)<br>
+ㅤ✦ㅤ[@kniferrific](https://github.com/kniferrific)ㅤis The Tempest'sㅤitzskeetXD662ㅤ(*ITZSKEET_PLAYZ*)<br>
+ㅤ✦ㅤ[@newestalbum](https://github.com/newestalbum)ㅤis The Tempest'sㅤHomelanderㅤ(*THE BOYS*)<br>
+ㅤ✦ㅤ[@kursein](https://github.com/kursein)ㅤis The Tempest'sㅤAzulaㅤ(*AVATAR*)<br>
+ㅤ✦ㅤ[@TheLongLongHoliday](https://github.com/TheLongLongHoliday)ㅤis The Tempest'sㅤLt. Commander Dataㅤ(*STAR TREK*)<br>
+ㅤ✦ㅤ[@self-deprecation](https://github.com/self-deprecation)ㅤis The Tempest'sㅤJun Hanㅤ(*XDINARY HEROES*)<br>
 
 <!---
 ㅤ✦ㅤ[@username](https://github.com/link)ㅤis The Tempest'sㅤCHARACTERㅤ(*SOURCE*)<br>
