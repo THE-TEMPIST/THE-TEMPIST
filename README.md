@@ -93,7 +93,7 @@ $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)
 </p>
 
 $\color{#858074}{\textsf{CHRONICALLY ONLINE PLAYERSㅤ(AKA. ONLINE 24/7)}}$<br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@ringodemon](https://github.com/ringodemon)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@nocturnuII](https://github.com/nocturnuII)ㅤ[@cyb3rzparadise](https://github.com/cyb3rzparadise)ㅤ[@h6xoi](https://github.com/h6xoi)ㅤ[@77crescentmoon](https://github.com/77crescentmoon)ㅤ[@BetrayedNotes](https://github.com/BetrayedNotes)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@star-employee](https://github.com/star-employee)ㅤ[@crazyblcx](https://github.com/crazyblcx)ㅤ[@sirencore](https://github.com/sirencore)<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@ringodemon](https://github.com/ringodemon)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@nocturnuII](https://github.com/nocturnuII)ㅤ[@cyb3rzparadise](https://github.com/cyb3rzparadise)ㅤ[@h6xoi](https://github.com/h6xoi)ㅤ[@crazyblcx](https://github.com/crazyblcx)ㅤ[@77crescentmoon](https://github.com/77crescentmoon)ㅤ[@BetrayedNotes](https://github.com/BetrayedNotes)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@star-employee](https://github.com/star-employee)ㅤ[@sirencore](https://github.com/sirencore)<br>
 
 ㅤ<br>
 
