@@ -91,7 +91,7 @@ $\color{#858074}{\textsf{POPULAR PLAYERSㅤ(200+ FOLLOWERS)}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)ㅤ[@scottishtwinengines](https://github.com/scottishtwinengines)ㅤ[@raddogs](https://github.com/raddogs)ㅤ[@AcxerSonnellino](https://github.com/AcxerSonnellino)ㅤ[@5orrows](https://github.com/5orrows)ㅤ[@Bigguykoi](https://github.com/Bigguykoi)ㅤ[@Worm-Farmer](https://github.com/Worm-Farmer)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@Chemicalshot](https://github.com/Chemicalshot)ㅤ[@burningsins](https://github.com/burningsins)ㅤ[@qnakin](https://github.com/qnakin)ㅤ[@star-employee](https://github.com/star-employee)ㅤ[@kniferrific](https://github.com/kniferrific)ㅤ[@newestalbum](https://github.com/newestalbum)<br>
 
 $\color{#858074}{\textsf{CHRONICALLY ONLINE PLAYERSㅤ(AKA. ONLINE 24/7)}}$<br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@ringodemon](https://github.com/ringodemon)ㅤ[@nocturnuII](https://github.com/nocturnuII)ㅤ[@cyb3rzparadise](https://github.com/cyb3rzparadise)ㅤ[@h6xoi](https://github.com/h6xoi)ㅤ[@77crescentmoon](https://github.com/77crescentmoon)ㅤ[@BetrayedNotes](https://github.com/BetrayedNotes)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@star-employee](https://github.com/star-employee)ㅤ[@crazyblcx](https://github.com/crazyblcx)<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@ringodemon](https://github.com/ringodemon)ㅤ[@nocturnuII](https://github.com/nocturnuII)ㅤ[@cyb3rzparadise](https://github.com/cyb3rzparadise)ㅤ[@h6xoi](https://github.com/h6xoi)ㅤ[@77crescentmoon](https://github.com/77crescentmoon)ㅤ[@BetrayedNotes](https://github.com/BetrayedNotes)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@star-employee](https://github.com/star-employee)ㅤ[@crazyblcx](https://github.com/crazyblcx)ㅤ[@sirencore](https://github.com/sirencore)<br>
 
 $\color{#858074}{\textsf{PRETTIEST GITHUBS}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@l0veis4ika](https://github.com/l0veis4ika)ㅤ[@sea-sick](https://github.com/sea-sick)ㅤ[@RottenPlate](https://github.com/RottenPlate)ㅤ[@itrap-2245](https://github.com/itrap-2245)ㅤ[@5metersapart](https://github.com/5metersapart)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@pastelcloudyy](https://github.com/pastellcloudyy)ㅤ[@kniferrific](https://github.com/kniferrific)<br>
@@ -141,7 +141,7 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@AndreVV2002](https://github.com/AndreVV2002)ㅤis The Tempest'sㅤAndreW2002ㅤ(*MINECRAFT ARG BUT THE PROTAGONIST IS A SPEEDRUNNER*)<br>
 ㅤ✦ㅤ[@Flayedrocker](https://github.com/Flayedrocker)ㅤis The Tempest'sㅤKarl Heisenbergㅤ(*RESIDENT EVIL VILLAGE*)<br>
 ㅤ✦ㅤ[@theallengator](https://github.com/theallengator)ㅤis The Tempest'sㅤKaimanㅤ(*DOROHEDORO*)<br>
-ㅤ✦ㅤ[@THE-DREAMENDING](https://github.com/THE-DREAMENDING)ㅤis The Tempest'sㅤDon Quixoteㅤ(*LIMBUS COMPANY*)<br>
+ㅤ✦ㅤ[@THE-DREAMENDING](https://github.com/THE-DREAMENDING)ㅤis The Tempest'sㅤDon Quixote/Sanchoㅤ(*LIMBUS COMPANY*)<br>
 ㅤ✦ㅤ[@WhenTheSUNdreams](https://github.com/WhenTheSUNdreams)ㅤis The Tempest'sㅤKali/Geburaㅤ(*PROJECT MOON*)<br>
 ㅤ✦ㅤ[@A-Crescent-Shadow](https://github.com/A-Crescent-Shadow)ㅤis The Tempest'sㅤStoryshift Charaㅤ(*STORYSHIFT, UNDERTALE AU*)<br>
 ㅤ✦ㅤ[@77crescentmoon](https://github.com/77crescentmoon)ㅤis The Tempest'sㅤParrotX2ㅤ(*UNSTABLE SMP*)<br>
@@ -292,6 +292,20 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@kursein](https://github.com/kursein)ㅤis The Tempest'sㅤAzulaㅤ(*AVATAR*)<br>
 ㅤ✦ㅤ[@TheLongLongHoliday](https://github.com/TheLongLongHoliday)ㅤis The Tempest'sㅤLt. Commander Dataㅤ(*STAR TREK*)<br>
 ㅤ✦ㅤ[@self-deprecation](https://github.com/self-deprecation)ㅤis The Tempest'sㅤJun Hanㅤ(*XDINARY HEROES*)<br>
+ㅤ✦ㅤ[@dantestheonefr](https://github.com/dantestheonefr)ㅤis The Tempest'sㅤDanteㅤ(*DEVIL MAY CRY*)<br>
+ㅤ✦ㅤ[@sea-sick](https://github.com/sea-sick)ㅤis The Tempest'sㅤ2-Dㅤ(*GORILLAZ*)<br>
+ㅤ✦ㅤ[@RoxXDark](https://github.com/RoxXDark)ㅤis The Tempest'sㅤRossㅤ(*SPOOKY MONTH*)<br>
+ㅤ✦ㅤ[@nightsdeadbody](https://github.com/nightsdeadbody)ㅤis The Tempest'sㅤSoul Boyfriendㅤ(*FRIDAY NIGHT FUNKIN': CORRUPTION*)<br>
+ㅤ✦ㅤ[@ruscanada](https://github.com/ruscanada)ㅤis The Tempest'sㅤCanadaㅤ(*HETALIA*)<br>
+ㅤ✦ㅤ[@sirencore](https://github.com/sirencore)ㅤis The Tempest'sㅤOneㅤ(*BATTLE FOR DREAM ISLAND*)<br>
+ㅤ✦ㅤ[@elli0tthec00ll](https://github.com/elli0tthec00ll)ㅤis The Tempest'sㅤScytheㅤ(*PHIGHTING!*)<br>
+ㅤ✦ㅤ[@roadbumps](https://github.com/roadbumps)ㅤis The Tempest'sㅤMatcha Cookieㅤ(*COOKIERUN*)<br>
+ㅤ✦ㅤ[@antoneIIi](https://github.com/antoneIIi)ㅤis The Tempest'sㅤAndrea Kimi Antonelliㅤ(*FORMULA ONE*)<br>
+ㅤ✦ㅤ[@R3QUI3MSINN3R](https://github.com/R3QUI3MSINN3R)ㅤis The Tempest'sㅤPizza Guyㅤ(*PIZZA GAME*)<br>
+ㅤ✦ㅤ[@9thharbinger](https://github.com/9thharbinger)ㅤis The Tempest'sㅤJavier Escuellaㅤ(*RED DEAD REDEMPTION*)<br>
+ㅤ✦ㅤ[@A-ReGect](https://github.com/A-ReGect)ㅤis The Tempest'sㅤMiami Mortyㅤ(*RICK AND MORTY*)<br>
+ㅤ✦ㅤ[@polusoutpost](https://github.com/polusoutpost)ㅤis The Tempest'sㅤPinkㅤ(*FRIDAY NIGHT FUNKIN': VS. IMPOSTOR*)<br>
+ㅤ✦ㅤ[@6-bloodhound-6](https://github.com/6-bloodhound-6)ㅤis The Tempest'sㅤThomasㅤ(*^_^/HAPPY WORLD WITH HAPPY PEOPLE*)<br>
 
 <!---
 ㅤ✦ㅤ[@username](https://github.com/link)ㅤis The Tempest'sㅤCHARACTERㅤ(*SOURCE*)<br>
