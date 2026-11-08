@@ -83,7 +83,11 @@ $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Please do not cop
 NOMINATIONS START HERE
 
 </!-->
+<p align="right">
+ㅤ<br>
+ㅤ<br>
 <img src="https://files.catbox.moe/cm0gzq.png" width="450" height="~" align="right" alt="NOLI"><br>
+</p>
 
 <img src="https://files.catbox.moe/bgl7xy.png" width="~" height="50" alt="NO[LI]MINATIONS"><br>
 
