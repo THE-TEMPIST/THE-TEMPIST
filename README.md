@@ -88,8 +88,6 @@ NOMINATIONS START HERE
 
 $\color{#858074}{\textsf{POPULAR PLAYERSㅤ(200+ FOLLOWERS)}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)ㅤ[@scottishtwinengines](https://github.com/scottishtwinengines)ㅤ[@raddogs](https://github.com/raddogs)ㅤ[@AcxerSonnellino](https://github.com/AcxerSonnellino)ㅤ[@5orrows](https://github.com/5orrows)ㅤ[@Bigguykoi](https://github.com/Bigguykoi)ㅤ[@Worm-Farmer](https://github.com/Worm-Farmer)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@Chemicalshot](https://github.com/Chemicalshot)ㅤ[@burningsins](https://github.com/burningsins)ㅤ[@qnakin](https://github.com/qnakin)ㅤ[@star-employee](https://github.com/star-employee)ㅤ[@kniferrific](https://github.com/kniferrific)ㅤ[@newestalbum](https://github.com/newestalbum)<br>
-
-ㅤ<br>
 <p align="right">
 <img src="https://files.catbox.moe/cm0gzq.png" width="450" height="~" align="right" alt="NOLI"><br>
 </p>
