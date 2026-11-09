@@ -313,6 +313,12 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@albonalmond](https://github.com/albonalmond)ㅤis The Tempest'sㅤAlex Albonㅤ(*FORUMA ONE*)<br>
 ㅤ✦ㅤ[@dr-vanta](https://github.com/dr-vanta)ㅤis The Tempest'sㅤDr. Vantaㅤ(*LOOMIAN LEGACY*)<br>
 ㅤ✦ㅤ[@junk-halo](https://github.com/junk-halo)ㅤis The Tempest'sㅤKyle Rayner/Green Lanternㅤ(*DC UNIVERSE*)<br>
+ㅤ✦ㅤ[@NocturnalWhisper](https://github.com/NocturnalWhisper)ㅤis The Tempest'sㅤSkid's Dadㅤ(*SPOOKY MONTH*)<br>
+ㅤ✦ㅤ[@AstroXDazzle](https://github.com/AstroXDazzle)ㅤis The Tempest'sㅤAstroㅤ(*DANDY'S WORLD*)<br>
+ㅤ✦ㅤ[@TOTAL-EXTERMINATION](https://github.com/TOTAL-EXTERMINATION)ㅤis The Tempest'sㅤMatthiasㅤ(*LIMBUS COMPANY*)<br>
+ㅤ✦ㅤ[@PIanetlords](https://github.com/PIanetlords)ㅤis The Tempest'sㅤBrightEyesㅤ(*ROBLOX*)<br>
+ㅤ✦ㅤ[@TONEEDEAFF](https://github.com/TONEEDEAFF)ㅤis The Tempest'sㅤReaperㅤ(*OVERWATCH*)<br>
+ㅤ✦ㅤ[@Sleeplesseden](https://github.com/Sleeplesseden)ㅤis The Tempest'sㅤMydeimosㅤ(*HONKAI: STAR RAIL*)<br>
 
 <!---
 ㅤ✦ㅤ[@username](https://github.com/link)ㅤis The Tempest'sㅤCHARACTERㅤ(*SOURCE*)<br>
