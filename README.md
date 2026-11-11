@@ -120,6 +120,7 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@sans-da-skeleton](https://github.com/sans-da-skeleton)ㅤis The Tempest'sㅤSans The Skeletonㅤ(*UNDERTALE/DELTARUNE*)<br>
 ㅤ✦ㅤ[@j777ckpot](https://github.com/j777ckpot)ㅤis The Tempest'sㅤEvan Myers/MANKIND'S BAD HABITㅤ(*EVERYMANHYBRID*)<br>
 ㅤ✦ㅤ[@slimeccl](https://github.com/slimeccl)ㅤis The Tempest'sㅤCharlie Slimecicleㅤ(*CONTENT CREATOR/SLIMECICLE CINEMATIC UNIVERSE*)<br>
+ㅤ✦ㅤ[@SlGIL](https://github.com/SlGIL)ㅤis The Tempest'sㅤSIGILㅤ(*ROBLOX ARG*)<br>
 ㅤ✦ㅤ[@kacchanofthebakugos](https://github.com/kacchanofthebakugos)ㅤis The Tempest'sㅤKatsuki Bakugoㅤ(*MY HERO ACADEMIA*)<br>
 ㅤ✦ㅤ[@monitorgirlfriend](https://github.com/monitorgirlfriend)ㅤis The Tempest'sㅤDr. Alto Clefㅤ(*THE SCP FOUNDATION*)<br>
 ㅤ✦ㅤ[@goovons](https://github.com/goovons)ㅤis The Tempest'sㅤMonkey D. Luffyㅤ(*ONE PIECE*)<br>
