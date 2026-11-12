@@ -131,7 +131,7 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@screworangeslugs](https://github.com/screworangeslugs)ㅤis The Tempest'sㅤNewbieㅤ(*HOOPS AND YOYO*)<br>
 ㅤ✦ㅤ[@jazzymage](https://github.com/jazzymage)ㅤis The Tempest'sㅤJazzㅤ(*TRANSFORMERS*)<br>
 ㅤ✦ㅤ[@excessivedeath](https://github.com/excessivedeath)ㅤis The Tempest'sㅤBilly Loomisㅤ(*SCREAM*)<br>
-ㅤ✦ㅤ[@gurokawaii](https://github.com/gurokawaii)ㅤis The Tempest'sㅤWemmbuㅤ(*UNSTABLE SMP*)<br>
+ㅤ✦ㅤ[@gurokawaii](https://github.com/gurokawaii)ㅤis The Tempest'sㅤWemmbuㅤ(*MINECRAFT YOUTUBER*)<br>
 ㅤ✦ㅤ[@theemotionalside](https://github.com/theemotionalside)ㅤis The Tempest'sㅤThe Heartㅤ(*CHONNY'S CHARMING CHAOS COMPENDIUM*)<br>
 ㅤ✦ㅤ[@HARRlNGTON](https://github.com/HARRlNGTON)ㅤis The Tempest'sㅤSteve Harringtonㅤ(*STRANGER THINGS*)<br>
 ㅤ✦ㅤ[@iwannahearyousay](https://github.com/iwannahearyousay)ㅤis The Tempest'sㅤDarnellㅤ(*PICO'S SCHOOL*)<br>
@@ -148,7 +148,7 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@THE-DREAMENDING](https://github.com/THE-DREAMENDING)ㅤis The Tempest'sㅤDon Quixote/Sanchoㅤ(*LIMBUS COMPANY*)<br>
 ㅤ✦ㅤ[@WhenTheSUNdreams](https://github.com/WhenTheSUNdreams)ㅤis The Tempest'sㅤKali/Geburaㅤ(*PROJECT MOON*)<br>
 ㅤ✦ㅤ[@A-Crescent-Shadow](https://github.com/A-Crescent-Shadow)ㅤis The Tempest'sㅤStoryshift Charaㅤ(*STORYSHIFT, UNDERTALE AU*)<br>
-ㅤ✦ㅤ[@77crescentmoon](https://github.com/77crescentmoon)ㅤis The Tempest'sㅤParrotX2ㅤ(*UNSTABLE SMP*)<br>
+ㅤ✦ㅤ[@77crescentmoon](https://github.com/77crescentmoon)ㅤis The Tempest'sㅤParrotX2ㅤ(*MINECRAFT YOUTUBER*)<br>
 ㅤ✦ㅤ[@KAITO-Sshion](https://github.com/KAITO-Sshion)ㅤis The Tempest'sㅤGoro Akechiㅤ(*PERSONA 5*)<br>
 ㅤ✦ㅤ[@benreyfreeman](https://github.com/benreyfreeman)ㅤis The Tempest'sㅤBenreyㅤ(*HALF LIFE VR BUT THE AI IS SELF-AWARE*)<br>
 ㅤ✦ㅤ[@sanguinesilence](https://github.com/sanguinesilence)ㅤis The Tempest'sㅤBlotㅤ(*DANDY'S WORLD*)<br>
@@ -166,7 +166,7 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@Ham-milton](https://github.com/Ham-milton)ㅤis The Tempest'sㅤScared Frenchieㅤ(*GUTS AND BLACKPOWDER*)<br>
 ㅤ✦ㅤ[@denguemon](https://github.com/denguemon)ㅤis The Tempest'sㅤAkira Nishikiyamaㅤ(*YAKUZA*)<br>
 ㅤ✦ㅤ[@disorderlyfashion](https://github.com/disorderlyfashion)ㅤis The Tempest'sㅤSquirrelflightㅤ(*WARRIOR CATS*)<br>
-ㅤ✦ㅤ[@fromagechips](https://github.com/fromagechips)ㅤis The Tempest'sㅤGrafㅤ(*QSMP*)<br>
+ㅤ✦ㅤ[@fromagechips](https://github.com/fromagechips)ㅤis The Tempest'sㅤGrafㅤ(*MINECRAFT YOUTUBER*)<br>
 ㅤ✦ㅤ[@ringodemon](https://github.com/ringodemon)ㅤis The Tempest'sㅤEdward Elricㅤ(*FULLMETAL ALCHEMIST*)<br>
 ㅤ✦ㅤ[@BetrayedNotes](https://github.com/BetrayedNotes)ㅤis The Tempest'sㅤ1x1x1x1ㅤ(*FORSAKEN*)<br>
 ㅤ✦ㅤ[@freakedoutboy](https://github.com/freakedoutboy)ㅤis The Tempest'sㅤMichelangeloㅤ(*TEENAGE MUTANT NINJA TURTLES 2012*)<br>
@@ -180,13 +180,13 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@engelchi](https://github.com/engelchi)ㅤis The Tempest'sㅤNatsukiㅤ(*DOKI DOKI LITERATURE CLUB*)<br>
 ㅤ✦ㅤ[@eu-logy](https://github.com/eu-logy)ㅤis The Tempest'sㅤNarancia Ghirgaㅤ(*JOJO'S BIZZARRE ADVENTURE*)<br>
 ㅤ✦ㅤ[@zydr4t3](https://github.com/zydr4t3)ㅤis The Tempest'sㅤDan Mandelㅤ(*DAN VS.*)<br>
-ㅤ✦ㅤ[@wifiesh](https://github.com/wifiesh)ㅤis The Tempest'sㅤWifiesㅤ(*UNSTABLE SMP*)<br>
+ㅤ✦ㅤ[@wifiesh](https://github.com/wifiesh)ㅤis The Tempest'sㅤWifiesㅤ(*MINECRAFT YOUTUBER*)<br>
 ㅤ✦ㅤ[@Supreme-Angel](https://github.com/Supreme-Angel)ㅤis The Tempest'sㅤArchangel Gabrielㅤ(*ULTRAKILL*)<br>
 ㅤ✦ㅤ[@MetallicaInRisottosFoot](https://github.com/MetallicaInRisottosFoot)ㅤis The Tempest'sㅤRisotto Neroㅤ(*JOJO'S BIZZARRE ADVENTURE*)<br>
 ㅤ✦ㅤ[@Aspenolia](https://github.com/Aspenolia)ㅤis The Tempest'sㅤAzurewrathㅤ(*FORSAKEN/VOIDTALES*)<br>
 ㅤ✦ㅤ[@seildirectory](https://github.com/seildirectory)ㅤis The Tempest'sㅤVeeronicaㅤ(*FORSAKEN*)<br>
-ㅤ✦ㅤ[@larpchan](https://github.com/larpchan)ㅤis The Tempest'sㅤSpokeIsHereㅤ(*UNSTABLE SMP*)<br>
-ㅤ✦ㅤ[@deadbridewalking](https://github.com/deadbridewalking)ㅤis The Tempest'sㅤJamatoPㅤ(*UNSTABLE SMP*)<br>
+ㅤ✦ㅤ[@larpchan](https://github.com/larpchan)ㅤis The Tempest'sㅤSpokeIsHereㅤ(*MINECRAFT YOUTUBER*)<br>
+ㅤ✦ㅤ[@deadbridewalking](https://github.com/deadbridewalking)ㅤis The Tempest'sㅤJamatoPㅤ(*MINECRAFT YOUTUBER*)<br>
 ㅤ✦ㅤ[@VALENTIN-RENEGADE](https://github.com/VALENTIN-RENEGADE)ㅤis The Tempest'sㅤGlitchtrapㅤ(*FIVE NIGHTS AT FREDDY'S VR: HELP WANTED*)<br>
 ㅤ✦ㅤ[@aztralweb](https://github.com/aztralweb)ㅤis The Tempest'sㅤRiyo Reaperㅤ(*GACHIAKUTA*)<br>
 ㅤ✦ㅤ[@cyb3rzparadise](https://github.com/cyb3rzparadise)ㅤis The Tempest'sㅤThe Roaring Knightㅤ(*DELTARUNE*)<br>
@@ -198,14 +198,14 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@bastetngeb](https://github.com/bastetngeb)ㅤis The Tempest'sㅤMariahㅤ(*JOJO'S BIZZARRE ADVENTURE: STARDUST CRUSADERS*)<br>
 ㅤ✦ㅤ[@magicalprincess](https://github.com/magicalprincess)ㅤis The Tempest'sㅤPolarCubㅤ(*ROBLOX CONTENT CREATOR*)<br>
 ㅤ✦ㅤ[@craigtuckere](https://github.com/craigtuckere)ㅤis The Tempest'sㅤCraig Tuckerㅤ(*SOUTH PARK*)<br>
-ㅤ✦ㅤ[@Taxduo4ever](https://github.com/Taxduo4ever)ㅤis The Tempest'sㅤDol9hinㅤ(*BLISS SMP*)<br>
+ㅤ✦ㅤ[@Taxduo4ever](https://github.com/Taxduo4ever)ㅤis The Tempest'sㅤDol9hinㅤ(*MINECRAFT YOUTUBER*)<br>
 ㅤ✦ㅤ[@d0ombringer](https://github.com/d0ombringer)ㅤis The Tempest'sㅤMrDoomBringerㅤ(*ROBLOX*)<br>
 ㅤ✦ㅤ[@bakingdisaster](https://github.com/bakingdisaster)ㅤis The Tempest'sㅤSproutㅤ(*DANDY'S WORLD*)<br>
 ㅤ✦ㅤ[@keii-padzz](https://github.com/keii-padzz)ㅤis The Tempest'sㅤMePadㅤ(*INANIMATE INSANITY*)<br>
-ㅤ✦ㅤ[@REDD0ONS](https://github.com/REDD0ONS)ㅤis The Tempest'sㅤReddoonsㅤ(*LIFESTEAL SMP*)<br>
+ㅤ✦ㅤ[@REDD0ONS](https://github.com/REDD0ONS)ㅤis The Tempest'sㅤReddoonsㅤ(*MINECRAFT YOUTUBER*)<br>
 ㅤ✦ㅤ[@Medspace-kiss](https://github.com/Medspace-kiss)ㅤis The Tempest'sㅤMedkitㅤ(*PHIGHTING!*)<br>
 ㅤ✦ㅤ[@Blossoming-Truth](https://github.com/Blossoming-Truth)ㅤis The Tempest'sㅤMonikaㅤ(*DOKI DOKI LITERATURE CLUB*)<br>
-ㅤ✦ㅤ[@VArtfultrust](https://github.com/VArtfultrust)ㅤis The Tempest'sㅤEggchanㅤ(*UNSTABLE SMP*)<br>
+ㅤ✦ㅤ[@VArtfultrust](https://github.com/VArtfultrust)ㅤis The Tempest'sㅤEggchanㅤ(*MINECRAFT YOUTUBER*)<br>
 ㅤ✦ㅤ[@OnlyYennvy](https://github.com/OnlyYennvy)ㅤis The Tempest'sㅤEvboㅤ(*PVP CIVILIZATION*)<br>
 ㅤ✦ㅤ[@T0R4X](https://github.com/T0R4X)ㅤis The Tempest'sㅤHerbert "Medic" Ludwigㅤ(*TEAM FORTRESS 2*)<br>
 ㅤ✦ㅤ[@deepaffection](https://github.com/deepaffection)ㅤis The Tempest'sㅤKyle Broflovskiㅤ(*SOUTH PARK*)<br>
@@ -215,14 +215,14 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@Worm-Farmer](https://github.com/Worm-Farmer)ㅤis The Tempest'sㅤPinkㅤ(*AMONG US, RODAMRIX*)<br>
 ㅤ✦ㅤ[@kunslop](https://github.com/kunslop)ㅤis The Tempest'sㅤTsugino Haruㅤ(*ZENO*)<br>
 ㅤ✦ㅤ[@ayatosbathwater](https://github.com/ayatosbathwater)ㅤis The Tempest'sㅤKamisato Ayatoㅤ(*GENSHIN IMPACT*)<br>
-ㅤ✦ㅤ[@neiify](https://github.com/neiify)ㅤis The Tempest'sㅤDiv_yㅤ(*UNSERIOUS SMP*)<br>
+ㅤ✦ㅤ[@neiify](https://github.com/neiify)ㅤis The Tempest'sㅤDiv_yㅤ(*MINECRAFT YOUTUBER*)<br>
 ㅤ✦ㅤ[@twottimey](https://github.com/twottimey)ㅤis The Tempest'sㅤTwo Timeㅤ(*FORSAKEN*)<br>
 ㅤ✦ㅤ[@08clipse](https://github.com/08clipse)ㅤis The Tempest'sㅤOsamu Dazaiㅤ(*BUNGO STRAY DOGS*)<br>
 ㅤ✦ㅤ[@dandypilled](https://github.com/dandypilled)ㅤis The Tempest'sㅤDandyㅤ(*DANDY'S WORLD*)<br>
 ㅤ✦ㅤ[@fou11egacy](https://github.com/fou11egacy)ㅤis The Tempest'sㅤTartagliaㅤ(*GENSHIN IMPACT*)<br>
 ㅤ✦ㅤ[@RE0-MIKAGE](https://github.com/RE0-MIKAGE)ㅤis The Tempest'sㅤReo Mikageㅤ(*BLUELOCK*)<br>
 ㅤ✦ㅤ[@nereherrman](https://github.com/nereherrman)ㅤis The Tempest'sㅤGregorㅤ(*LIMBUS COMPANY*)<br>
-ㅤ✦ㅤ[@symbiosisduo](https://github.com/symbiosisduo)ㅤis The Tempest'sㅤSpongsㅤ(*UNSTABLE SMP*)<br>
+ㅤ✦ㅤ[@symbiosisduo](https://github.com/symbiosisduo)ㅤis The Tempest'sㅤSpongsㅤ(*MINECRAFT YOUTUBER*)<br>
 ㅤ✦ㅤ[@imonmyperiod](https://github.com/imonmyperiod)ㅤis The Tempest'sㅤMoeㅤ(*A REGECT*)<br>
 ㅤ✦ㅤ[@AndroidSentByCyberLife](https://github.com/AndroidSentByCyberLife)ㅤis The Tempest'sㅤConnorㅤ(*DETROIT: BECOME HUMAN*)<br>
 ㅤ✦ㅤ[@aeszz](https://github.com/aeszz)ㅤis The Tempest'sㅤClark Kent/Supermanㅤ(*DC UNIVERSE*)<br>
@@ -254,17 +254,17 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@itrap-2245](https://github.com/itrap-2245)ㅤis The Tempest'sㅤFurinaㅤ(*GENSHIN IMPACT*)<br>
 ㅤ✦ㅤ[@akpdox](https://github.com/akpdox)ㅤis The Tempest'sㅤLeon S. Kennedyㅤ(*RESIDENT EVIL*)<br>
 ㅤ✦ㅤ[@D3V0TION](https://github.com/D3V0TION)ㅤis The Tempest'sㅤIvanㅤ(*BAD THINGS*)<br>
-ㅤ✦ㅤ[@astrobarrage](https://github.com/astrobarrage)ㅤis The Tempest'sㅤFluixonㅤ(*ISH'S STATE SMP*)<br>
+ㅤ✦ㅤ[@astrobarrage](https://github.com/astrobarrage)ㅤis The Tempest'sㅤFluixonㅤ(*MINECRAFT YOUTUBER*)<br>
 ㅤ✦ㅤ[@V0RTlGERN](https://github.com/V0RTlGERN)ㅤis The Tempest'sㅤOberon Vortigernㅤ(*FATE/GRAND ORDER*)<br>
 ㅤ✦ㅤ[@lonesomestreet](https://github.com/lonesomestreet)ㅤis The Tempest'sㅤGraham Coxonㅤ(*BLUR, BAND*)<br>
 ㅤ✦ㅤ[@starfollower](https://github.com/starfollower)ㅤis The Tempest'sㅤRocketㅤ(*PHIGHTING!*)<br>
 ㅤ✦ㅤ[@2099s](https://github.com/2099s)ㅤis The Tempest'sㅤMiguel O'Haraㅤ(*SPIDERMAN: ACROSS THE SPIDERVERSE, MARVEL*)<br>
 ㅤ✦ㅤ[@Jeverus](https://github.com/Jeverus)ㅤis The Tempest'sㅤSlasherㅤ(*FORSAKEN*)<br>
-ㅤ✦ㅤ[@inhumane-me](https://github.com/inhumane-me)ㅤis The Tempest'sㅤKatieBㅤ(*QSMP*)<br>
+ㅤ✦ㅤ[@inhumane-me](https://github.com/inhumane-me)ㅤis The Tempest'sㅤKatieBㅤ(*MINECRAFT YOUTUBER*)<br>
 ㅤ✦ㅤ[@mydigitalescape](https://github.com/mydigitalescape)ㅤis The Tempest'sㅤRobert Chaseㅤ(*HOUSE MD*)<br>
 ㅤ✦ㅤ[@FISHTHESEAS](https://github.com/FISHTHESEAS)ㅤis The Tempest'sㅤDr. Montyㅤ(*FISCH*)<br>
 ㅤ✦ㅤ[@sicklyrose](https://github.com/sicklyrose)ㅤis The Tempest'sㅤRyūnosuke Akutagawaㅤ(*BUNGO STRAY DOGS*)<br>
-ㅤ✦ㅤ[@PLANETLORDD](https://github.com/PLANETLORDD)ㅤis The Tempest'sㅤPlanetLordㅤ(*LIFESTEAL SMP*)<br>
+ㅤ✦ㅤ[@PLANETLORDD](https://github.com/PLANETLORDD)ㅤis The Tempest'sㅤPlanetLordㅤ(*MINECRAFT YOUTUBER*)<br>
 ㅤ✦ㅤ[@aliceinwonderIand](https://github.com/aliceinwonderIand)ㅤis The Tempest'sㅤAliceㅤ(*ALICE IN WONDERLAND*)<br>
 ㅤ✦ㅤ[@hauntedarchives](https://github.com/hauntedarchives)ㅤis The Tempest'sㅤBrandon6875935ㅤ(*BRANDON WORKS*)<br>
 ㅤ✦ㅤ[@futuristic-maniac](https://github.com/futuristic-maniac)ㅤis The Tempest'sㅤNagito Komaedaㅤ(*DANGANRONPA*)<br>
@@ -272,7 +272,7 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@xnosferatu](https://github.com/xnosferatu)ㅤis The Tempest'sㅤNosferatuㅤ(*FORSAKEN*)<br>
 ㅤ✦ㅤ[@rvffled](https://github.com/rvffled)ㅤis The Tempest'sㅤSwap!Spamtonㅤ(*DELTARUNE, AU BY @DIIONYSAN*)<br>
 ㅤ✦ㅤ[@pirate-freak](https://github.com/pirate-freak)ㅤis The Tempest'sㅤJack Sparrowㅤ(*PIRATES OF THE CARIBBEAN*)<br>
-ㅤ✦ㅤ[@Yawnying](https://github.com/Yawnying)ㅤis The Tempest'sㅤTechnobladeㅤ(*DREAM SMP, HYPIXEL, POTATO WAR*)<br>
+ㅤ✦ㅤ[@Yawnying](https://github.com/Yawnying)ㅤis The Tempest'sㅤTechnobladeㅤ(*MINECRAFT YOUTUBER*)<br>
 ㅤ✦ㅤ[@FORENSIC-AUTOPSY](https://github.com/FORENSIC-AUTOPSY)ㅤis The Tempest'sㅤBoothillㅤ(*HONKAI: STAR RAIL*)<br>
 ㅤ✦ㅤ[@sasukyo](https://github.com/sasukyo)ㅤis The Tempest'sㅤSasuke Uchihaㅤ(*NARUTO*)<br>
 ㅤ✦ㅤ[@chiyokoz](https://github.com/chiyokoz)ㅤis The Tempest'sㅤVentiㅤ(*GENSHIN IMPACT*)<br>
@@ -310,7 +310,7 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@A-ReGect](https://github.com/A-ReGect)ㅤis The Tempest'sㅤMiami Mortyㅤ(*RICK AND MORTY*)<br>
 ㅤ✦ㅤ[@polusoutpost](https://github.com/polusoutpost)ㅤis The Tempest'sㅤPinkㅤ(*FRIDAY NIGHT FUNKIN': VS. IMPOSTOR*)<br>
 ㅤ✦ㅤ[@6-bloodhound-6](https://github.com/6-bloodhound-6)ㅤis The Tempest'sㅤThomasㅤ(*^_^/HAPPY WORLD WITH HAPPY PEOPLE*)<br>
-ㅤ✦ㅤ[@pupmikaw](https://github.com/pupmikaw)ㅤis The Tempest'sㅤJamatoPㅤ(*UNSTABLE SMP*)<br>
+ㅤ✦ㅤ[@pupmikaw](https://github.com/pupmikaw)ㅤis The Tempest'sㅤJamatoPㅤ(*MINECRAFT YOUTUBER*)<br>
 ㅤ✦ㅤ[@albonalmond](https://github.com/albonalmond)ㅤis The Tempest'sㅤAlex Albonㅤ(*FORUMA ONE*)<br>
 ㅤ✦ㅤ[@dr-vanta](https://github.com/dr-vanta)ㅤis The Tempest'sㅤDr. Vantaㅤ(*LOOMIAN LEGACY*)<br>
 ㅤ✦ㅤ[@junk-halo](https://github.com/junk-halo)ㅤis The Tempest'sㅤKyle Rayner/Green Lanternㅤ(*DC UNIVERSE*)<br>
@@ -320,7 +320,7 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@PIanetlords](https://github.com/PIanetlords)ㅤis The Tempest'sㅤBrightEyesㅤ(*ROBLOX*)<br>
 ㅤ✦ㅤ[@TONEEDEAFF](https://github.com/TONEEDEAFF)ㅤis The Tempest'sㅤReaperㅤ(*OVERWATCH*)<br>
 ㅤ✦ㅤ[@Sleeplesseden](https://github.com/Sleeplesseden)ㅤis The Tempest'sㅤMydeimosㅤ(*HONKAI: STAR RAIL*)<br>
-ㅤ✦ㅤ[@pupkang](https://github.com/pupkang)ㅤis The Tempest'sㅤEvilfies/Evil Wifiesㅤ(*UNSTABLE SMP*)<br>
+ㅤ✦ㅤ[@pupkang](https://github.com/pupkang)ㅤis The Tempest'sㅤEvilfies/Evil Wifiesㅤ(*MINECRAFT YOUTUBER*)<br>
 ㅤ✦ㅤ[@sea-shantyyy](https://github.com/sea-shantyyy)ㅤis The Tempest'sㅤSonOfSevenlessㅤ(*ROBLOX*)<br>
 ㅤ✦ㅤ[@RadiantCity](https://github.com/RadiantCity)ㅤis The Tempest'sㅤIqieㅤ(*INSOMNIACKS*)<br>
 ㅤ✦ㅤ[@blindidolworship](https://github.com/blindidolworship)ㅤis The Tempest'sㅤWallterㅤ(*REGRETEVATOR*)<br>
