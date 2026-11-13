@@ -98,7 +98,7 @@ $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)
 ㅤ<br>
 
 $\color{#858074}{\textsf{PRETTIEST GITHUBS}}$<br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@l0veis4ika](https://github.com/l0veis4ika)ㅤ[@sea-sick](https://github.com/sea-sick)ㅤ[@RottenPlate](https://github.com/RottenPlate)ㅤ[@itrap-2245](https://github.com/itrap-2245)ㅤ[@5metersapart](https://github.com/5metersapart)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@pastelcloudyy](https://github.com/pastellcloudyy)ㅤ[@kniferrific](https://github.com/kniferrific)<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@l0veis4ika](https://github.com/l0veis4ika)ㅤ[@sea-sick](https://github.com/sea-sick)ㅤ[@RottenPlate](https://github.com/RottenPlate)ㅤ[@itrap-2245](https://github.com/itrap-2245)ㅤ[@5metersapart](https://github.com/5metersapart)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@pastelcloudyy](https://github.com/pastellcloudyy)ㅤ[@kniferrific](https://github.com/kniferrific)ㅤ[@buncest](https://github.com/buncest)<br>
 
 ㅤ<br>
 
@@ -213,7 +213,7 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@themagerotsamongstthenightshades](https://github.com/themagerotsamongstthenightshades)ㅤis The Tempest'sㅤRegectㅤ(*A REGECT*)<br>
 ㅤ✦ㅤ[@ANTlHERO](https://github.com/ANTlHERO)ㅤis The Tempest'sㅤGary Smithㅤ(*BULLY*)<br>
 ㅤ✦ㅤ[@Worm-Farmer](https://github.com/Worm-Farmer)ㅤis The Tempest'sㅤPinkㅤ(*AMONG US, RODAMRIX*)<br>
-ㅤ✦ㅤ[@kunslop](https://github.com/kunslop)ㅤis The Tempest'sㅤTsugino Haruㅤ(*ZENO*)<br>
+ㅤ✦ㅤ[@byakuue](https://github.com/byakuue)ㅤis The Tempest'sㅤTsugino Haruㅤ(*ZENO*)<br>
 ㅤ✦ㅤ[@ayatosbathwater](https://github.com/ayatosbathwater)ㅤis The Tempest'sㅤKamisato Ayatoㅤ(*GENSHIN IMPACT*)<br>
 ㅤ✦ㅤ[@neiify](https://github.com/neiify)ㅤis The Tempest'sㅤDiv_yㅤ(*MINECRAFT YOUTUBER*)<br>
 ㅤ✦ㅤ[@twottimey](https://github.com/twottimey)ㅤis The Tempest'sㅤTwo Timeㅤ(*FORSAKEN*)<br>
@@ -326,6 +326,13 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@blindidolworship](https://github.com/blindidolworship)ㅤis The Tempest'sㅤWallterㅤ(*REGRETEVATOR*)<br>
 ㅤ✦ㅤ[@Crazybloxer](https://github.com/Crazybloxer)ㅤis The Tempest'sㅤScarletㅤ(*FLOOD ESCAPE 2*)<br>
 ㅤ✦ㅤ[@Enveiled](https://github.com/Enveiled)ㅤis The Tempest'sㅤGhost Face/Danny Johnsonㅤ(*DEAD BY DAYLIGHT*)<br>
+ㅤ✦ㅤ[@minutes-tech](https://github.com/minutes-tech)ㅤis The Tempest'sㅤMinuteTechㅤ(*MINECRAFT YOUTUBER*)<br>
+ㅤ✦ㅤ[@wes-borland](https://github.com/wes-borland)ㅤis The Tempest'sㅤWes Borlandㅤ(*LIMP BIZKIT, BAND*)<br>
+ㅤ✦ㅤ[@bullethound](https://github.com/bullethound)ㅤis The Tempest'sㅤJohn "Soap" MacTavishㅤ(*CALL OF DUTY*)<br>
+ㅤ✦ㅤ[@fruitsaIad](https://github.com/fruitsaIad)ㅤis The Tempest'sㅤMr. Puzzlesㅤ(*SMG4*)<br>
+ㅤ✦ㅤ[@buncest](https://github.com/buncest)ㅤis The Tempest'sㅤChiㅤ(*CHOBITS*)<br>
+ㅤ✦ㅤ[@theresonatingpulse](https://github.com/theresonatingpulse)ㅤis The Tempest'sㅤCooler Boomboxㅤ(*PHIGHTING!, SKIN*)<br>
+ㅤ✦ㅤ[@ryomxnsukuna](https://github.com/ryomxnsukuna)ㅤis The Tempest'sㅤRyomen Sukunaㅤ(*JUJUTSU KAISEN*)<br>
 
 <!---
 ㅤ✦ㅤ[@username](https://github.com/link)ㅤis The Tempest'sㅤCHARACTERㅤ(*SOURCE*)<br>
