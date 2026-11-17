@@ -87,7 +87,7 @@ NOMINATIONS START HERE
 <img src="https://files.catbox.moe/bgl7xy.png" width="~" height="50" alt="NO[LI]MINATIONS"><br>
 
 $\color{#858074}{\textsf{POPULAR PLAYERSㅤ(200+ FOLLOWERS)}}$<br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)ㅤ[@scottishtwinengines](https://github.com/scottishtwinengines)ㅤ[@raddogs](https://github.com/raddogs)ㅤ[@AcxerSonnellino](https://github.com/AcxerSonnellino)ㅤ[@5orrows](https://github.com/5orrows)ㅤ[@Bigguykoi](https://github.com/Bigguykoi)ㅤ[@Worm-Farmer](https://github.com/Worm-Farmer)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@Chemicalshot](https://github.com/Chemicalshot)ㅤ[@burningsins](https://github.com/burningsins)ㅤ[@qnakin](https://github.com/qnakin)ㅤ[@star-employee](https://github.com/star-employee)ㅤ[@kniferrific](https://github.com/kniferrific)ㅤ[@newestalbum](https://github.com/newestalbum)ㅤ[@pupmikaw](https://github.com/pupmikaw)ㅤ[@pupkang](https://github.com/pupkang)ㅤ[@50Ocigarettes](https://github.com/50Ocigarettes)ㅤ[@viimsey](https://github.com/viimsey)ㅤ[@chick-habit](https://github.com/chick-habit)ㅤ[@kyutbie](https://github.com/kyutbie)<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)ㅤ[@scottishtwinengines](https://github.com/scottishtwinengines)ㅤ[@raddogs](https://github.com/raddogs)ㅤ[@AcxerSonnellino](https://github.com/AcxerSonnellino)ㅤ[@5orrows](https://github.com/5orrows)ㅤ[@Bigguykoi](https://github.com/Bigguykoi)ㅤ[@Worm-Farmer](https://github.com/Worm-Farmer)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@Chemicalshot](https://github.com/Chemicalshot)ㅤ[@burningsins](https://github.com/burningsins)ㅤ[@qnakin](https://github.com/qnakin)ㅤ[@star-employee](https://github.com/star-employee)ㅤ[@kniferrific](https://github.com/kniferrific)ㅤ[@newestalbum](https://github.com/newestalbum)ㅤ[@pupmikaw](https://github.com/pupmikaw)ㅤ[@pupkang](https://github.com/pupkang)ㅤ[@50Ocigarettes](https://github.com/50Ocigarettes)ㅤ[@viimsey](https://github.com/viimsey)ㅤ[@chick-habit](https://github.com/chick-habit)ㅤ[@kyutbie](https://github.com/kyutbie)ㅤ[@l0rdoftheflies](https://github.com/l0rdoftheflies)<br>
 <p align="right">
 <img src="https://files.catbox.moe/cm0gzq.png" width="450" height="~" align="right" alt="NOLI"><br>
 </p>
@@ -236,7 +236,6 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@Boi-Ngo](https://github.com/Boi-Ngo)ㅤis The Tempest'sㅤBilly Hargroveㅤ(*STRANGER THINGS*)<br>
 ㅤ✦ㅤ[@radiant-zero](https://github.com/radiant-zero)ㅤis The Tempest'sㅤScarletㅤ(*FRIDAY NIGHT FEVER: FRENZY*)<br>
 ㅤ✦ㅤ[@NERVOUSBREAKDANCE](https://github.com/NERVOUSBREAKDANCE)ㅤis The Tempest'sㅤPatrick Stumpㅤ(*FALL OUT BOY, BAND*)<br>
-ㅤ✦ㅤ[@mortisfication](https://github.com/mortisfication)ㅤis The Tempest'sㅤLightning McQueenㅤ(*CARS*)<br>
 ㅤ✦ㅤ[@suntannedstepbrothr](https://github.com/suntannedstepbrothr)ㅤis The Tempest'sㅤBMOㅤ(*ADVENTURE TIME*)<br>
 ㅤ✦ㅤ[@DocHale](https://github.com/DocHale)ㅤis The Tempest'sㅤLiwenㅤ(*NINE SOLS: THE WAY OF LEAR*)<br>
 ㅤ✦ㅤ[@rydenyuri](https://github.com/rydenyuri)ㅤis The Tempest'sㅤRyan Rossㅤ(*PANIC! AT THE DISCO, BAND*)<br>
@@ -307,7 +306,6 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@R3QUI3MSINN3R](https://github.com/R3QUI3MSINN3R)ㅤis The Tempest'sㅤPizza Guyㅤ(*PIZZA GAME*)<br>
 ㅤ✦ㅤ[@9thharbinger](https://github.com/9thharbinger)ㅤis The Tempest'sㅤJavier Escuellaㅤ(*RED DEAD REDEMPTION*)<br>
 ㅤ✦ㅤ[@A-ReGect](https://github.com/A-ReGect)ㅤis The Tempest'sㅤMiami Mortyㅤ(*RICK AND MORTY*)<br>
-ㅤ✦ㅤ[@polusoutpost](https://github.com/polusoutpost)ㅤis The Tempest'sㅤPinkㅤ(*FRIDAY NIGHT FUNKIN': VS. IMPOSTOR*)<br>
 ㅤ✦ㅤ[@6-bloodhound-6](https://github.com/6-bloodhound-6)ㅤis The Tempest'sㅤThomasㅤ(*^_^/HAPPY WORLD WITH HAPPY PEOPLE*)<br>
 ㅤ✦ㅤ[@pupmikaw](https://github.com/pupmikaw)ㅤis The Tempest'sㅤJamatoPㅤ(*MINECRAFT YOUTUBER*)<br>
 ㅤ✦ㅤ[@albonalmond](https://github.com/albonalmond)ㅤis The Tempest'sㅤAlex Albonㅤ(*FORUMA ONE*)<br>
@@ -341,6 +339,12 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@twhiddleston](https://github.com/twhiddleston)ㅤis The Tempest'sㅤThomas Sharpeㅤ(*CRIMSON PEAK*)<br>
 ㅤ✦ㅤ[@informationbroker](https://github.com/informationbroker)ㅤis The Tempest'sㅤThe Brokerㅤ(*PHIGHTING!*)<br>
 ㅤ✦ㅤ[@XNPXO](https://github.com/XNPXO)ㅤis The Tempest'sㅤPantaloneㅤ(*GENSHIN IMPACT*)<br>
+ㅤ✦ㅤ[@croistime](https://github.com/croistime)ㅤis The Tempest'sㅤTimekeeper Cookieㅤ(*COOKIERUN*)<br>
+ㅤ✦ㅤ[@framesofwar](https://github.com/framesofwar)ㅤis The Tempest'sㅤSimon "Ghost" Rileyㅤ(*CALL OF DUTY*)<br>
+ㅤ✦ㅤ[@mortisfication](https://github.com/mortisfication)ㅤis The Tempest'sㅤAlbert Weskerㅤ(*RESIDENT EVIL*)<br>
+ㅤ✦ㅤ[@r0wlys](https://github.com/r0wlys)ㅤis The Tempest'sㅤLinkㅤ(*THE LEGEND OF ZELDA*)<br>
+ㅤ✦ㅤ[@meichuu](https://github.com/meichuu)ㅤis The Tempest'sㅤNewtㅤ(*THE MAZE RUNNER*)<br>
+ㅤ✦ㅤ[@ultronirl](https://github.com/ultronirl)ㅤis The Tempest'sㅤUltronㅤ(*MARVEL*)<br>
 
 <!---
 ㅤ✦ㅤ[@username](https://github.com/link)ㅤis The Tempest'sㅤCHARACTERㅤ(*SOURCE*)<br>
