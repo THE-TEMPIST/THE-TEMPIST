@@ -345,6 +345,13 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@r0wlys](https://github.com/r0wlys)ㅤis The Tempest'sㅤLinkㅤ(*THE LEGEND OF ZELDA*)<br>
 ㅤ✦ㅤ[@meichuu](https://github.com/meichuu)ㅤis The Tempest'sㅤNewtㅤ(*THE MAZE RUNNER*)<br>
 ㅤ✦ㅤ[@ultronirl](https://github.com/ultronirl)ㅤis The Tempest'sㅤUltronㅤ(*MARVEL*)<br>
+ㅤ✦ㅤ[@devesquotie](https://github.com/devesquotie)ㅤis The Tempest'sㅤDevestoㅤ(*DIE OF DEATH*)<br>
+ㅤ✦ㅤ[@neroberry](https://github.com/neroberry)ㅤis The Tempest'sㅤVic Fuentesㅤ(*PIERCE THE VEIL, BAND*)<br>
+ㅤ✦ㅤ[@sextaping](https://github.com/sextaping)ㅤis The Tempest'sㅤJoey Jordisonㅤ(*SLIPKNOT, BAND*)<br>
+ㅤ✦ㅤ[@suguruberry](https://github.com/suguruberry)ㅤis The Tempest'sㅤBarry Allen/The Flashㅤ(*DC UNIVERSE*)<br>
+ㅤ✦ㅤ[@daziibyte](https://github.com/daziibyte)ㅤis The Tempest'sㅤMagnus Chaseㅤ(*MAGNUS CHASE TRILOGY*)<br>
+ㅤ✦ㅤ[@cosmooirl](https://github.com/cosmooirl)ㅤis The Tempest'sㅤCurse the Hedgehogㅤ(*CURSE OF X*)<br>
+ㅤ✦ㅤ[@68state](https://github.com/68state)ㅤis The Tempest'sㅤCarmenㅤ(*PROJECT MOON*)<br>
 
 <!---
 ㅤ✦ㅤ[@username](https://github.com/link)ㅤis The Tempest'sㅤCHARACTERㅤ(*SOURCE*)<br>
