@@ -87,7 +87,7 @@ NOMINATIONS START HERE
 <img src="https://files.catbox.moe/bgl7xy.png" width="~" height="50" alt="NO[LI]MINATIONS"><br>
 
 $\color{#858074}{\textsf{POPULAR PLAYERSㅤ(200+ FOLLOWERS)}}$<br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)ㅤ[@scottishtwinengines](https://github.com/scottishtwinengines)ㅤ[@raddogs](https://github.com/raddogs)ㅤ[@AcxerSonnellino](https://github.com/AcxerSonnellino)ㅤ[@5orrows](https://github.com/5orrows)ㅤ[@Bigguykoi](https://github.com/Bigguykoi)ㅤ[@Worm-Farmer](https://github.com/Worm-Farmer)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@Chemicalshot](https://github.com/Chemicalshot)ㅤ[@burningsins](https://github.com/burningsins)ㅤ[@qnakin](https://github.com/qnakin)ㅤ[@star-employee](https://github.com/star-employee)ㅤ[@kniferrific](https://github.com/kniferrific)ㅤ[@newestalbum](https://github.com/newestalbum)ㅤ[@pupmikaw](https://github.com/pupmikaw)ㅤ[@pupkang](https://github.com/pupkang)ㅤ[@50Ocigarettes](https://github.com/50Ocigarettes)ㅤ[@viimsey](https://github.com/viimsey)ㅤ[@chick-habit](https://github.com/chick-habit)ㅤ[@kyutbie](https://github.com/kyutbie)ㅤ[@l0rdoftheflies](https://github.com/l0rdoftheflies)<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)ㅤ[@scottishtwinengines](https://github.com/scottishtwinengines)ㅤ[@raddogs](https://github.com/raddogs)ㅤ[@AcxerSonnellino](https://github.com/AcxerSonnellino)ㅤ[@5orrows](https://github.com/5orrows)ㅤ[@Bigguykoi](https://github.com/Bigguykoi)ㅤ[@Worm-Farmer](https://github.com/Worm-Farmer)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@Chemicalshot](https://github.com/Chemicalshot)ㅤ[@burningsins](https://github.com/burningsins)ㅤ[@qnakin](https://github.com/qnakin)ㅤ[@star-employee](https://github.com/star-employee)ㅤ[@kniferrific](https://github.com/kniferrific)ㅤ[@newestalbum](https://github.com/newestalbum)ㅤ[@pupmikaw](https://github.com/pupmikaw)ㅤ[@pupkang](https://github.com/pupkang)ㅤ[@50Ocigarettes](https://github.com/50Ocigarettes)ㅤ[@viimsey](https://github.com/viimsey)ㅤ[@chick-habit](https://github.com/chick-habit)ㅤ[@kyutbie](https://github.com/kyutbie)ㅤ[@l0rdoftheflies](https://github.com/l0rdoftheflies)ㅤ[@nocturnuII](https://github.com/nocturnuII)<br>
 <p align="right">
 <img src="https://files.catbox.moe/cm0gzq.png" width="450" height="~" align="right" alt="NOLI"><br>
 </p>
@@ -354,6 +354,11 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@68state](https://github.com/68state)ㅤis The Tempest'sㅤCarmenㅤ(*PROJECT MOON*)<br>
 ㅤ✦ㅤ[@sooup-s](https://github.com/sooup-s)ㅤis The Tempest'sㅤBertolt Hooverㅤ(*ATTACK ON TITAN*)<br>
 ㅤ✦ㅤ[@meowfilled](https://github.com/meowfilled)ㅤis The Tempest'sㅤPr3tyPriincessㅤ(*PRETTYWORLD, FORSAKEN*)<br>
+ㅤ✦ㅤ[@solomonsassistant](https://github.com/solomonsassistant)ㅤis The Tempest'sㅤSolomonㅤ(*OBEY ME!*)<br>
+ㅤ✦ㅤ[@MYBRIGHTESTST4R](https://github.com/MYBRIGHTESTST4R)ㅤis The Tempest'sㅤHaebeom Kwonㅤ(*OUR SUNNY DAYS*)<br>
+ㅤ✦ㅤ[@literallyharkness](https://github.com/literallyharkness)ㅤis The Tempest'sㅤAgatha Harknessㅤ(*MARVEL*)<br>
+ㅤ✦ㅤ[@CakeholeCaller](https://github.com/CakeholeCaller)ㅤis The Tempest'sㅤMr. WPNZㅤ(*SMG4*)<br>
+ㅤ✦ㅤ[@G0reology](https://github.com/G0reology)ㅤis The Tempest'sㅤNohㅤ(*HUMAN CONSTRUCTION SITE*)<br>
 
 <!---
 ㅤ✦ㅤ[@username](https://github.com/link)ㅤis The Tempest'sㅤCHARACTERㅤ(*SOURCE*)<br>
