@@ -352,6 +352,8 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@daziibyte](https://github.com/daziibyte)ㅤis The Tempest'sㅤMagnus Chaseㅤ(*MAGNUS CHASE TRILOGY*)<br>
 ㅤ✦ㅤ[@cosmooirl](https://github.com/cosmooirl)ㅤis The Tempest'sㅤCurse the Hedgehogㅤ(*CURSE OF X*)<br>
 ㅤ✦ㅤ[@68state](https://github.com/68state)ㅤis The Tempest'sㅤCarmenㅤ(*PROJECT MOON*)<br>
+ㅤ✦ㅤ[@sooup-s](https://github.com/sooup-s)ㅤis The Tempest'sㅤBertolt Hooverㅤ(*ATTACK ON TITAN*)<br>
+ㅤ✦ㅤ[@meowfilled](https://github.com/meowfilled)ㅤis The Tempest'sㅤPr3tyPriincessㅤ(*PRETTYWORLD, FORSAKEN*)<br>
 
 <!---
 ㅤ✦ㅤ[@username](https://github.com/link)ㅤis The Tempest'sㅤCHARACTERㅤ(*SOURCE*)<br>
