@@ -87,13 +87,13 @@ NOMINATIONS START HERE
 <img src="https://files.catbox.moe/bgl7xy.png" width="~" height="50" alt="NO[LI]MINATIONS"><br>
 
 $\color{#858074}{\textsf{POPULAR PLAYERSㅤ(200+ FOLLOWERS)}}$<br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)ㅤ[@scottishtwinengines](https://github.com/scottishtwinengines)ㅤ[@raddogs](https://github.com/raddogs)ㅤ[@AcxerSonnellino](https://github.com/AcxerSonnellino)ㅤ[@5orrows](https://github.com/5orrows)ㅤ[@Bigguykoi](https://github.com/Bigguykoi)ㅤ[@Worm-Farmer](https://github.com/Worm-Farmer)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@Chemicalshot](https://github.com/Chemicalshot)ㅤ[@burningsins](https://github.com/burningsins)ㅤ[@qnakin](https://github.com/qnakin)ㅤ[@star-employee](https://github.com/star-employee)ㅤ[@kniferrific](https://github.com/kniferrific)ㅤ[@newestalbum](https://github.com/newestalbum)ㅤ[@pupmikaw](https://github.com/pupmikaw)ㅤ[@pupkang](https://github.com/pupkang)ㅤ[@50Ocigarettes](https://github.com/50Ocigarettes)ㅤ[@viimsey](https://github.com/viimsey)ㅤ[@chick-habit](https://github.com/chick-habit)ㅤ[@kyutbie](https://github.com/kyutbie)ㅤ[@l0rdoftheflies](https://github.com/l0rdoftheflies)ㅤ[@nocturnuII](https://github.com/nocturnuII)<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@8-baII](https://github.com/8-baII)ㅤ[@Gamblersi](https://github.com/Gamblersi)ㅤ[@seildirectory](https://github.com/seildirectory)ㅤ[@SONNELLINOENTHUSIAST](https://github.com/SONNELLINOENTHUSIAST)ㅤ[@scottishtwinengines](https://github.com/scottishtwinengines)ㅤ[@raddogs](https://github.com/raddogs)ㅤ[@AcxerSonnellino](https://github.com/AcxerSonnellino)ㅤ[@5orrows](https://github.com/5orrows)ㅤ[@Bigguykoi](https://github.com/Bigguykoi)ㅤ[@Worm-Farmer](https://github.com/Worm-Farmer)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@Chemicalshot](https://github.com/Chemicalshot)ㅤ[@burningsins](https://github.com/burningsins)ㅤ[@qnakin](https://github.com/qnakin)ㅤ[@star-employee](https://github.com/star-employee)ㅤ[@kniferrific](https://github.com/kniferrific)ㅤ[@newestalbum](https://github.com/newestalbum)ㅤ[@pupmikaw](https://github.com/pupmikaw)ㅤ[@pupkang](https://github.com/pupkang)ㅤ[@50Ocigarettes](https://github.com/50Ocigarettes)ㅤ[@viimsey](https://github.com/viimsey)ㅤ[@chick-habit](https://github.com/chick-habit)ㅤ[@kyutbie](https://github.com/kyutbie)ㅤ[@l0rdoftheflies](https://github.com/l0rdoftheflies)ㅤ[@nocturnuII](https://github.com/nocturnuII)ㅤ[@chipwhisp](https://github.com/chipwhisp)ㅤ[@nashiranova](https://github.com/nashiranova)<br>
 <p align="right">
 <img src="https://files.catbox.moe/cm0gzq.png" width="450" height="~" align="right" alt="NOLI"><br>
 </p>
 
 $\color{#858074}{\textsf{CHRONICALLY ONLINE PLAYERSㅤ(AKA. ONLINE 24/7)}}$<br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@ringodemon](https://github.com/ringodemon)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@nocturnuII](https://github.com/nocturnuII)ㅤ[@cyb3rzparadise](https://github.com/cyb3rzparadise)ㅤ[@h6xoi](https://github.com/h6xoi)ㅤ[@crazyblcx](https://github.com/crazyblcx)ㅤ[@77crescentmoon](https://github.com/77crescentmoon)ㅤ[@BetrayedNotes](https://github.com/BetrayedNotes)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@star-employee](https://github.com/star-employee)ㅤ[@sirencore](https://github.com/sirencore)ㅤ[@50Ocigarettes](https://github.com/50Ocigarettes)<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@ringodemon](https://github.com/ringodemon)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@nocturnuII](https://github.com/nocturnuII)ㅤ[@cyb3rzparadise](https://github.com/cyb3rzparadise)ㅤ[@h6xoi](https://github.com/h6xoi)ㅤ[@crazyblcx](https://github.com/crazyblcx)ㅤ[@77crescentmoon](https://github.com/77crescentmoon)ㅤ[@BetrayedNotes](https://github.com/BetrayedNotes)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@star-employee](https://github.com/star-employee)ㅤ[@sirencore](https://github.com/sirencore)ㅤ[@50Ocigarettes](https://github.com/50Ocigarettes)ㅤ[@casinosdebt](https://github.com/casinosdebt)<br>
 
 ㅤ<br>
 
@@ -359,6 +359,14 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@literallyharkness](https://github.com/literallyharkness)ㅤis The Tempest'sㅤAgatha Harknessㅤ(*MARVEL*)<br>
 ㅤ✦ㅤ[@CakeholeCaller](https://github.com/CakeholeCaller)ㅤis The Tempest'sㅤMr. WPNZㅤ(*SMG4*)<br>
 ㅤ✦ㅤ[@G0reology](https://github.com/G0reology)ㅤis The Tempest'sㅤNohㅤ(*HUMAN CONSTRUCTION SITE*)<br>
+ㅤ✦ㅤ[@endless-cycles](https://github.com/endless-cycles)ㅤis The Tempest'sㅤMajin Sonicㅤ(*SONIC, SONIC CD 1993*)<br>
+ㅤ✦ㅤ[@UlteriorBrutal](https://github.com/UlteriorBrutal)ㅤis The Tempest'sㅤLord Xㅤ(*SONIC.EXE PC PORT*)<br>
+ㅤ✦ㅤ[@chipwhisp](https://github.com/chipwhisp)ㅤis The Tempest'sㅤSpider-Noirㅤ(*MARVEL*)<br>
+ㅤ✦ㅤ[@SYS-CONCERNS](https://github.com/SYS-CONCERNS)ㅤis The Tempest'sㅤM1ndㅤ(*OATH TO STAY WHOLE*)<br>
+ㅤ✦ㅤ[@nashiranova](https://github.com/nashiranova)ㅤis The Tempest'sㅤUrzukㅤ(*CREATURES OF SONARIA*)<br>
+ㅤ✦ㅤ[@fratgojo](https://github.com/fratgojo)ㅤis The Tempest'sㅤMegumi Fushiguroㅤ(*JUJUTSU KAISEN*)<br>
+ㅤ✦ㅤ[@casinosdebt](https://github.com/casinosdebt)ㅤis The Tempest'sㅤLanceㅤ(*FORSAKEN*)<br>
+ㅤ✦ㅤ[@NariTheMakoSh4rk](https://github.com/NariTheMakoSh4rk)ㅤis The Tempest'sㅤContracteeㅤ(*FORSAKEN*)<br>
 
 <!---
 ㅤ✦ㅤ[@username](https://github.com/link)ㅤis The Tempest'sㅤCHARACTERㅤ(*SOURCE*)<br>
