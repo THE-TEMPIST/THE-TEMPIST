@@ -61,7 +61,7 @@ GUIDELINES
 </!-->
 ㅤ<br>
 <img src="https://files.catbox.moe/t47s5g.png" width="~" height="50" alt="GUIDELINES"><br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Updates occur daily/within the same day of receiving a Nomination (although this may vary depending on ADMIN's availability).}}$<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Updates generally occur within one to three days of receiving a Nomination (although this may vary depending on ADMIN's availability).}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{All character Nominations operate under the rule of "first come, first serve".}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Stay civil, don't cry if a character you wanted has already been claimed.}}$<br>
 $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ $\color{#858074}{\textsf{Don't spam the same Nominations (you may nominate multiple accounts).}}$<br>
