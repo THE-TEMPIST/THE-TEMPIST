@@ -93,7 +93,7 @@ $\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)
 </p>
 
 $\color{#858074}{\textsf{CHRONICALLY ONLINE PLAYERSㅤ(AKA. ONLINE 24/7)}}$<br>
-$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@ringodemon](https://github.com/ringodemon)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@nocturnuII](https://github.com/nocturnuII)ㅤ[@cyb3rzparadise](https://github.com/cyb3rzparadise)ㅤ[@h6xoi](https://github.com/h6xoi)ㅤ[@crazyblcx](https://github.com/crazyblcx)ㅤ[@77crescentmoon](https://github.com/77crescentmoon)ㅤ[@BetrayedNotes](https://github.com/BetrayedNotes)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@star-employee](https://github.com/star-employee)ㅤ[@sirencore](https://github.com/sirencore)ㅤ[@50Ocigarettes](https://github.com/50Ocigarettes)ㅤ[@casinosdebt](https://github.com/casinosdebt)<br>
+$\color{#CBC8C0}{\textsf{ㅤ✦ㅤ}}$ [@j777ckpot](https://github.com/j777ckpot)ㅤ[@TARGET-SOUL](https://github.com/TARGET-SOUL)ㅤ[@ringodemon](https://github.com/ringodemon)ㅤ[@cookiecatsoyummy](https://github.com/cookiecatsoyummy)ㅤ[@NostalgicSplatterlingSys](https://github.com/NostalgicSplatterlingSys)ㅤ[@nocturnuII](https://github.com/nocturnuII)ㅤ[@cyb3rzparadise](https://github.com/cyb3rzparadise)ㅤ[@h6xoi](https://github.com/h6xoi)ㅤ[@crazyblcx](https://github.com/crazyblcx)ㅤ[@77crescentmoon](https://github.com/77crescentmoon)ㅤ[@BetrayedNotes](https://github.com/BetrayedNotes)ㅤ[@weepinglilies](https://github.com/weepinglilies)ㅤ[@star-employee](https://github.com/star-employee)ㅤ[@sirencore](https://github.com/sirencore)ㅤ[@50Ocigarettes](https://github.com/50Ocigarettes)ㅤ[@casinosdebt](https://github.com/casinosdebt)ㅤ[@KayleighJudas](https://github.com/KayleighJudas)<br>
 
 ㅤ<br>
 
@@ -367,6 +367,15 @@ CHARACTER NOMINATIONS START HERE
 ㅤ✦ㅤ[@fratgojo](https://github.com/fratgojo)ㅤis The Tempest'sㅤMegumi Fushiguroㅤ(*JUJUTSU KAISEN*)<br>
 ㅤ✦ㅤ[@casinosdebt](https://github.com/casinosdebt)ㅤis The Tempest'sㅤLanceㅤ(*FORSAKEN*)<br>
 ㅤ✦ㅤ[@NariTheMakoSh4rk](https://github.com/NariTheMakoSh4rk)ㅤis The Tempest'sㅤContracteeㅤ(*FORSAKEN*)<br>
+ㅤ✦ㅤ[@f1refist](https://github.com/f1refist)ㅤis The Tempest'sㅤPortgas D. Aceㅤ(*ONE PIECE*)<br>
+ㅤ✦ㅤ[@autopskeis](https://github.com/autopskeis)ㅤis The Tempest'sㅤGreg Sandersㅤ(*CSI: CRIME SCENE INVESTIGATION*)<br>
+ㅤ✦ㅤ[@lacette](https://github.com/lacette)ㅤis The Tempest'sㅤReed Richards/Mister Fantasticㅤ(*MARVEL*)<br>
+ㅤ✦ㅤ[@KayleighJudas](https://github.com/KayleighJudas)ㅤis The Tempest'sㅤViktor/The Machine Heraldㅤ(*LEAGUE OF LEGENDS*)<br>
+ㅤ✦ㅤ[@angeldearest](https://github.com/angeldearest)ㅤis The Tempest'sㅤCastielㅤ(*SUPERNATURAL*)<br>
+ㅤ✦ㅤ[@LAWRlE](https://github.com/LAWRlE)ㅤis The Tempest'sㅤLawrieㅤ(*BRAWL STARS*)<br>
+ㅤ✦ㅤ[@kiwiconiccc](https://github.com/kiwiconiccc)ㅤis The Tempest'sㅤKusuo Saikiㅤ(*THE DISASTROUS LIFE OF SAIKI K.*)<br>
+ㅤ✦ㅤ[@DreamsAndRJX](https://github.com/DreamsAndRJX)ㅤis The Tempest'sㅤAdam Smasherㅤ(*CYBERPUNK*)<br>
+ㅤ✦ㅤ[@ArmaAngelus](https://github.com/ArmaAngelus)ㅤis The Tempest'sㅤPete Wentzㅤ(*FALL OUT BOY, BAND*)<br>
 
 <!---
 ㅤ✦ㅤ[@username](https://github.com/link)ㅤis The Tempest'sㅤCHARACTERㅤ(*SOURCE*)<br>
